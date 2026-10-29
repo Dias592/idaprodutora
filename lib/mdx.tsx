@@ -2,7 +2,8 @@
 import { compileMDX } from "next-mdx-remote/rsc";
 import remarkGfm from "remark-gfm";
 import rehypeSlug from "rehype-slug";
-import type { ComponentProps } from "react";
+import Link from "next/link";
+import type { ComponentProps, ReactNode } from "react";
 import type { MDXProvider } from "@mdx-js/react";
 
 import { documento, type Colecao, type Frontmatter } from "@/lib/content";
@@ -39,6 +40,9 @@ export function componentesMdx(fonte: string, ctx: ContextoMdx = {}): Componente
       </div>
     ),
     LeiaTambem: (p: { urls: string[] }) => <LeiaTambem urls={p.urls} publicados={ctx.publicados} />,
+    // Link para outro artigo do blog: vira link só quando o artigo está publicado (evita 404 em ondas futuras).
+    LinkArtigo: ({ url, children }: { url: string; children: ReactNode }) =>
+      ctx.publicados?.has(url.replace(/^\/blog\//, "")) ? <Link href={url}>{children}</Link> : <>{children}</>,
   };
 }
 
