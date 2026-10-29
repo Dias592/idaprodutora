@@ -1,0 +1,119 @@
+[
+  {
+    "arquivo": "Mahav - Vídeo institucional.mp4",
+    "cliente": "Mahav",
+    "projeto": "Vídeo institucional",
+    "servicos": [
+      "/video-institucional"
+    ],
+    "home": true,
+    "showreel": null,
+    "youtubeId": "[PREENCHER]",
+    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
+    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "orientacao": "horizontal",
+    "proporcao": "original"
+  },
+  {
+    "arquivo": "Chandon.mov",
+    "cliente": "Chandon",
+    "projeto": "Vídeo institucional",
+    "servicos": [
+      "/video-institucional"
+    ],
+    "home": true,
+    "showreel": null,
+    "youtubeId": "[PREENCHER]",
+    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
+    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "orientacao": "horizontal",
+    "proporcao": "original"
+  },
+  {
+    "arquivo": "Convenção de Vendas Vert.mp4",
+    "cliente": "Vert",
+    "projeto": "Convenção de vendas",
+    "servicos": [
+      "/filmagem-de-eventos-corporativos"
+    ],
+    "home": true,
+    "showreel": 2,
+    "logoCliente": "BR AUTO PARTS.png",
+    "youtubeId": "[PREENCHER]",
+    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
+    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "orientacao": "horizontal",
+    "proporcao": "original"
+  },
+  {
+    "arquivo": "Feira Automec.mov",
+    "cliente": "Automec",
+    "projeto": "Feira de negócios",
+    "servicos": [
+      "/filmagem-de-eventos-corporativos"
+    ],
+    "home": true,
+    "showreel": 1,
+    "youtubeId": "[PREENCHER]",
+    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
+    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "orientacao": "horizontal",
+    "proporcao": "original"
+  },
+  {
+    "arquivo": "Mam - Museu de arte moderna de São Paulo.mp4",
+    "cliente": "MAM São Paulo",
+    "projeto": "[PREENCHER: tipo de projeto]",
+    "servicos": [],
+    "home": true,
+    "showreel": 3,
+    "youtubeId": "[PREENCHER]",
+    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
+    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "orientacao": "horizontal",
+    "proporcao": "original"
+  },
+  {
+    "arquivo": "Caioba - Jogo das Estrelas.mov",
+    "cliente": "Caioba Soccer Camp",
+    "projeto": "Jogo das Estrelas",
+    "servicos": [
+      "/video-memoria-aftermovie"
+    ],
+    "home": true,
+    "showreel": null,
+    "youtubeId": "[PREENCHER]",
+    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
+    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "orientacao": "horizontal",
+    "proporcao": "original"
+  },
+  {
+    "arquivo": "Confraternização Barcellos Tucunduva e BT LAW Final.mp4",
+    "cliente": "Barcellos Tucunduva e BT LAW",
+    "projeto": "Confraternização",
+    "servicos": [
+      "/filmagem-de-eventos-corporativos"
+    ],
+    "home": false,
+    "showreel": null,
+    "youtubeId": "[PREENCHER]",
+    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
+    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "orientacao": "horizontal",
+    "proporcao": "original"
+  },
+  {
+    "arquivo": "Caioba - Bio Ritmo.mov",
+    "cliente": "Caioba · Bio Ritmo",
+    "projeto": "[PREENCHER: tipo de projeto]",
+    "servicos": [],
+    "home": false,
+    "showreel": null,
+    "youtubeId": "[PREENCHER]",
+    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
+    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "orientacao": "horizontal",
+    "proporcao": "original"
+  }
+]

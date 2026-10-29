@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* Tokens do design system (docs/05-design-system.md).
+   Tailwind v4: os tokens ficam em @theme (equivalente ao antigo tailwind.config.ts).
+   Componentes usam só as classes geradas (bg-bg, text-accent...), nunca hex direto. */
+@theme {
+  --color-bg: #0b0b0b;
+  --color-surface: #2a2a2a;
+  --color-text: #ffffff;
+  --color-muted: #d9d9d9;
+  --color-accent: #ff4d1a;
+  --color-accent-contrast: #0b0b0b;
+  --color-bg-light: #d9d9d9;
+  --color-text-on-light: #0b0b0b;
+  --color-text-on-light-2: #2a2a2a;
+
+  --font-sans: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-ida: 2px;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}

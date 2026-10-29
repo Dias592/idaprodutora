@@ -1,0 +1,585 @@
+[
+  {
+    "url": "/",
+    "nome": "Home",
+    "grupo": null,
+    "prioridade": "P1",
+    "h1": "Produtora audiovisual corporativa em São Paulo",
+    "title": "Produtora Audiovisual em São Paulo | IDA Produtora",
+    "description": "Vídeo institucional, filmagem de eventos, transmissão ao vivo, shows, 360° e drone para empresas em São Paulo. Foto e vídeo com uma só equipe.",
+    "palavraChave": "produtora audiovisual São Paulo",
+    "secundarias": [
+      "produtora de vídeo SP",
+      "produtora audiovisual corporativa",
+      "produtora de vídeo para empresas"
+    ],
+    "servicoFormulario": "",
+    "faq": [
+      "O que faz uma produtora audiovisual?",
+      "Vocês atendem fora de São Paulo?",
+      "Em quanto tempo recebo o material?",
+      "Posso contratar foto e vídeo juntos?",
+      "Como peço um orçamento?"
+    ],
+    "relacionados": [],
+    "pilar": null,
+    "leiaNoBlog": {
+      "pilares": [
+        "/blog/video-institucional-guia-completo",
+        "/blog/filmagem-de-eventos-corporativos-guia",
+        "/blog/transmissao-ao-vivo-de-eventos-guia",
+        "/blog/filmagem-de-shows-guia",
+        "/blog/filmagem-com-drone-guia",
+        "/blog/video-360-graus-guia",
+        "/blog/fotografia-corporativa-guia",
+        "/blog/video-comunicacao-interna-guia",
+        "/blog/chroma-key-estudio-guia",
+        "/blog/como-contratar-produtora-audiovisual"
+      ]
+    }
+  },
+  {
+    "url": "/video-institucional",
+    "nome": "Vídeo institucional",
+    "grupo": "Vídeo",
+    "prioridade": "P1",
+    "h1": "Vídeo institucional para empresas em São Paulo",
+    "title": "Vídeo Institucional em São Paulo | IDA Produtora",
+    "description": "Vídeo institucional com roteiro, gravação e edição para empresas em São Paulo. Fotos de equipe na mesma diária. Peça o orçamento pelo WhatsApp.",
+    "palavraChave": "vídeo institucional São Paulo",
+    "secundarias": [
+      "produtora de vídeo institucional",
+      "vídeo para empresa",
+      "vídeo quem somos"
+    ],
+    "servicoFormulario": "Vídeo institucional",
+    "faq": [
+      "Quanto custa um vídeo institucional?",
+      "Qual a duração ideal?",
+      "Preciso escrever o roteiro?",
+      "Nossos colaboradores não têm experiência com câmera. Tudo bem?",
+      "Posso usar o vídeo em anúncios?"
+    ],
+    "relacionados": [
+      "/video-depoimento",
+      "/imagens-aereas-drone",
+      "/fotografia-corporativa"
+    ],
+    "pilar": 1,
+    "leiaNoBlog": {
+      "pilar": "/blog/video-institucional-guia-completo",
+      "complementares": [
+        "/blog/quanto-custa-video-institucional",
+        "/blog/tipos-de-video-institucional",
+        "/blog/video-institucional-e-publicitario"
+      ]
+    }
+  },
+  {
+    "url": "/filmagem-de-eventos-corporativos",
+    "nome": "Filmagem de eventos corporativos",
+    "grupo": "Eventos",
+    "prioridade": "P1",
+    "h1": "Filmagem de eventos corporativos em São Paulo",
+    "title": "Filmagem de Eventos Corporativos SP | IDA Produtora",
+    "description": "Filmagem de congressos, convenções, feiras e confraternizações em SP. Vídeo resumo pronto para as redes e foto com a mesma equipe.",
+    "palavraChave": "filmagem de eventos corporativos SP",
+    "secundarias": [
+      "cobertura de evento em vídeo",
+      "filmagem de congresso",
+      "filmagem de convenção"
+    ],
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "faq": [
+      "Quantas câmeras são necessárias?",
+      "Em quanto tempo recebo o vídeo?",
+      "Vocês filmam a palestra inteira?",
+      "A música do vídeo tem direitos autorais?",
+      "Atendem fora de São Paulo?"
+    ],
+    "relacionados": [
+      "/video-memoria-aftermovie",
+      "/transmissao-ao-vivo",
+      "/fotografia-corporativa"
+    ],
+    "pilar": 2,
+    "leiaNoBlog": {
+      "pilar": "/blog/filmagem-de-eventos-corporativos-guia",
+      "complementares": [
+        "/blog/quanto-custa-filmagem-de-evento",
+        "/blog/foto-e-video-para-evento-corporativo",
+        "/blog/checklist-filmagem-de-evento"
+      ]
+    }
+  },
+  {
+    "url": "/transmissao-ao-vivo",
+    "nome": "Transmissão ao vivo",
+    "grupo": "Eventos",
+    "prioridade": "P1",
+    "h1": "Transmissão ao vivo de eventos corporativos",
+    "title": "Transmissão ao Vivo de Eventos em SP | IDA Produtora",
+    "description": "Transmissão ao vivo multicâmera de eventos e reuniões para YouTube, Zoom e Teams. Eventos híbridos com gravação inclusa. Orçamento pelo WhatsApp.",
+    "palavraChave": "transmissão ao vivo de eventos SP",
+    "secundarias": [
+      "streaming de eventos corporativos",
+      "evento híbrido",
+      "live corporativa"
+    ],
+    "servicoFormulario": "Transmissão ao vivo",
+    "faq": [
+      "Em quais plataformas vocês transmitem?",
+      "Preciso de internet dedicada?",
+      "Como funciona um evento híbrido?",
+      "A gravação fica disponível depois?",
+      "Dá para ter tradução simultânea?"
+    ],
+    "relacionados": [
+      "/filmagem-de-eventos-corporativos",
+      "/estudio-chroma-key",
+      "/cobertura-de-shows"
+    ],
+    "pilar": 3,
+    "leiaNoBlog": {
+      "pilar": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "complementares": [
+        "/blog/quanto-custa-transmissao-ao-vivo",
+        "/blog/plataforma-para-transmissao-ao-vivo",
+        "/blog/internet-para-transmissao-ao-vivo"
+      ]
+    }
+  },
+  {
+    "url": "/video-memoria-aftermovie",
+    "nome": "Vídeo memória e aftermovie",
+    "grupo": "Eventos",
+    "prioridade": "P1",
+    "h1": "Vídeo memória e aftermovie de eventos",
+    "title": "Aftermovie e Vídeo Resumo de Evento | IDA Produtora",
+    "description": "Aftermovie e vídeo memória do seu evento, com versões verticais para Reels e LinkedIn. Entrega rápida para divulgar enquanto o evento está quente.",
+    "palavraChave": "vídeo resumo de evento",
+    "secundarias": [
+      "aftermovie corporativo",
+      "vídeo memória",
+      "highlights de evento"
+    ],
+    "servicoFormulario": "Aftermovie",
+    "faq": [
+      "Qual a duração de um aftermovie?",
+      "Dá para entregar no mesmo dia?",
+      "Vocês fazem versões verticais?",
+      "Posso usar o vídeo para divulgar a próxima edição?"
+    ],
+    "relacionados": [
+      "/filmagem-de-eventos-corporativos",
+      "/fotografia-corporativa",
+      "/ativacoes-para-eventos"
+    ],
+    "pilar": 2,
+    "leiaNoBlog": {
+      "pilar": "/blog/filmagem-de-eventos-corporativos-guia",
+      "complementares": [
+        "/blog/quanto-custa-filmagem-de-evento",
+        "/blog/foto-e-video-para-evento-corporativo",
+        "/blog/checklist-filmagem-de-evento"
+      ]
+    }
+  },
+  {
+    "url": "/cobertura-de-shows",
+    "nome": "Cobertura de shows",
+    "grupo": "Eventos",
+    "prioridade": "P2",
+    "h1": "Cobertura e filmagem de shows em São Paulo",
+    "title": "Filmagem de Show em São Paulo | IDA Produtora",
+    "description": "Filmagem multicâmera de shows e festivais com áudio da mesa de som. Vídeo para DVD, streaming e redes sociais. Peça o orçamento pelo WhatsApp.",
+    "palavraChave": "filmagem de show São Paulo",
+    "secundarias": [
+      "gravação de show ao vivo",
+      "DVD de show",
+      "cobertura de festival"
+    ],
+    "servicoFormulario": "Cobertura de show",
+    "faq": [
+      "Quantas câmeras vocês usam?",
+      "Como é captado o áudio?",
+      "Vocês entregam versões para redes sociais?",
+      "Quem cuida dos direitos de imagem e música?"
+    ],
+    "relacionados": [
+      "/transmissao-ao-vivo",
+      "/imagens-aereas-drone",
+      "/video-memoria-aftermovie"
+    ],
+    "pilar": 4,
+    "leiaNoBlog": {
+      "pilar": "/blog/filmagem-de-shows-guia",
+      "complementares": [
+        "/blog/quanto-custa-filmar-show",
+        "/blog/captacao-multicamera-show",
+        "/blog/audio-da-mesa-para-video"
+      ]
+    }
+  },
+  {
+    "url": "/imagens-aereas-drone",
+    "nome": "Imagens aéreas com drone",
+    "grupo": "Estúdio e Foto",
+    "prioridade": "P2",
+    "h1": "Imagens aéreas com drone para empresas e eventos",
+    "title": "Filmagem com Drone em São Paulo | IDA Produtora",
+    "description": "Filmagem e foto aérea com drone homologado e voo autorizado (SISANT, Anatel e SARPAS). Para eventos, obras, indústrias e vídeos institucionais.",
+    "palavraChave": "filmagem com drone São Paulo",
+    "secundarias": [
+      "imagens aéreas para empresas",
+      "drone para eventos",
+      "foto aérea de empresa"
+    ],
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "faq": [
+      "É legal voar drone em São Paulo?",
+      "Quem pede a autorização de voo?",
+      "Dá para voar em evento com público?",
+      "Qual a altura máxima permitida?",
+      "O drone tem seguro?"
+    ],
+    "relacionados": [
+      "/video-institucional",
+      "/filmagem-de-eventos-corporativos",
+      "/video-360"
+    ],
+    "pilar": 5,
+    "leiaNoBlog": {
+      "pilar": "/blog/filmagem-com-drone-guia",
+      "complementares": [
+        "/blog/quanto-custa-filmagem-com-drone",
+        "/blog/regras-drone-2026",
+        "/blog/sarpas-drone"
+      ]
+    }
+  },
+  {
+    "url": "/video-360",
+    "nome": "Vídeo 360°",
+    "grupo": "Estúdio e Foto",
+    "prioridade": "P3",
+    "h1": "Vídeos em 360° para empresas e eventos",
+    "title": "Vídeo 360 Graus para Empresas | IDA Produtora",
+    "description": "Vídeo 360 graus e tour virtual para site, YouTube e óculos VR. Fábricas, escritórios, eventos e treinamentos imersivos em São Paulo.",
+    "palavraChave": "vídeo 360 graus para empresas",
+    "secundarias": [
+      "tour virtual 360",
+      "vídeo VR corporativo",
+      "filmagem 360 de evento"
+    ],
+    "servicoFormulario": "Vídeo 360°",
+    "faq": [
+      "Onde o vídeo 360 pode ser assistido?",
+      "Precisa de óculos VR?",
+      "Dá para fazer tour virtual de fábrica ou loja?",
+      "Qual a resolução?"
+    ],
+    "relacionados": [
+      "/imagens-aereas-drone",
+      "/ativacoes-para-eventos",
+      "/video-institucional"
+    ],
+    "pilar": 6,
+    "leiaNoBlog": {
+      "pilar": "/blog/video-360-graus-guia",
+      "complementares": [
+        "/blog/quanto-custa-video-360",
+        "/blog/video-360-ou-tour-virtual",
+        "/blog/o-que-e-video-360"
+      ]
+    }
+  },
+  {
+    "url": "/fotografia-corporativa",
+    "nome": "Fotografia corporativa",
+    "grupo": "Estúdio e Foto",
+    "prioridade": "P1",
+    "h1": "Fotografia corporativa e de eventos em São Paulo",
+    "title": "Fotografia Corporativa em São Paulo | IDA Produtora",
+    "description": "Fotografia de eventos, equipe, ambiente e processos para empresas em SP, no mesmo dia e com a mesma equipe do vídeo. Orçamento pelo WhatsApp.",
+    "palavraChave": "fotografia corporativa SP",
+    "secundarias": [
+      "fotógrafo de eventos corporativos",
+      "foto institucional",
+      "fotos de equipe"
+    ],
+    "servicoFormulario": "Fotografia",
+    "faq": [
+      "Dá para fazer foto e vídeo no mesmo dia?",
+      "Em quanto tempo recebo as fotos?",
+      "Como funciona o uso de imagem dos colaboradores?",
+      "Vocês entregam fotos durante o evento?"
+    ],
+    "relacionados": [
+      "/filmagem-de-eventos-corporativos",
+      "/video-institucional",
+      "/ativacoes-para-eventos"
+    ],
+    "pilar": 7,
+    "leiaNoBlog": {
+      "pilar": "/blog/fotografia-corporativa-guia",
+      "complementares": [
+        "/blog/quanto-custa-fotografia-corporativa",
+        "/blog/banco-de-imagens-proprio",
+        "/blog/fotografia-de-eventos-corporativos"
+      ]
+    }
+  },
+  {
+    "url": "/comunicacao-interna",
+    "nome": "Comunicação interna",
+    "grupo": "Vídeo",
+    "prioridade": "P2",
+    "h1": "Vídeos para comunicação interna e endomarketing",
+    "title": "Vídeo para Comunicação Interna | IDA Produtora",
+    "description": "Vídeos de endomarketing, integração, mensagem do CEO e campanhas internas. Gravação sem parar a operação da empresa. Orçamento pelo WhatsApp.",
+    "palavraChave": "vídeo para comunicação interna",
+    "secundarias": [
+      "vídeo de endomarketing",
+      "vídeo de integração de funcionários",
+      "mensagem do CEO em vídeo"
+    ],
+    "servicoFormulario": "Comunicação interna",
+    "faq": [
+      "Que tipos de vídeo interno vocês fazem?",
+      "Dá para gravar sem parar a operação?",
+      "Como fica a confidencialidade?",
+      "Vocês fazem campanhas com vários vídeos?"
+    ],
+    "relacionados": [
+      "/video-de-treinamento",
+      "/video-depoimento",
+      "/video-institucional"
+    ],
+    "pilar": 8,
+    "leiaNoBlog": {
+      "pilar": "/blog/video-comunicacao-interna-guia",
+      "complementares": [
+        "/blog/quanto-custa-video-de-treinamento",
+        "/blog/video-de-endomarketing",
+        "/blog/video-de-onboarding"
+      ]
+    }
+  },
+  {
+    "url": "/video-de-treinamento",
+    "nome": "Vídeo de treinamento",
+    "grupo": "Vídeo",
+    "prioridade": "P2",
+    "h1": "Vídeo de treinamento corporativo e EAD",
+    "title": "Vídeo de Treinamento Corporativo SP | IDA Produtora",
+    "description": "Vídeos de treinamento, videoaulas e EAD corporativo com roteiro, teleprompter e edição em módulos compatíveis com LMS. São Paulo e região.",
+    "palavraChave": "vídeo de treinamento corporativo",
+    "secundarias": [
+      "videoaula para empresas",
+      "EAD corporativo",
+      "vídeo de onboarding"
+    ],
+    "servicoFormulario": "Vídeo de treinamento",
+    "faq": [
+      "Como os vídeos são divididos em módulos?",
+      "Funciona com a nossa plataforma LMS?",
+      "Vocês usam teleprompter?",
+      "Dá para gravar na empresa?"
+    ],
+    "relacionados": [
+      "/comunicacao-interna",
+      "/estudio-chroma-key",
+      "/edicao-de-video"
+    ],
+    "pilar": 8,
+    "leiaNoBlog": {
+      "pilar": "/blog/video-comunicacao-interna-guia",
+      "complementares": [
+        "/blog/quanto-custa-video-de-treinamento",
+        "/blog/video-de-endomarketing",
+        "/blog/video-de-onboarding"
+      ]
+    }
+  },
+  {
+    "url": "/video-depoimento",
+    "nome": "Depoimentos e cases",
+    "grupo": "Vídeo",
+    "prioridade": "P2",
+    "h1": "Vídeo de depoimento e case de clientes",
+    "title": "Vídeo Depoimento de Cliente | IDA Produtora",
+    "description": "Vídeos de depoimento e cases de clientes que viram prova social no site, em propostas e no LinkedIn. Roteiro de perguntas e edição inclusos.",
+    "palavraChave": "vídeo depoimento de cliente",
+    "secundarias": [
+      "case em vídeo",
+      "vídeo testemunho",
+      "prova social em vídeo"
+    ],
+    "servicoFormulario": "Depoimentos",
+    "faq": [
+      "Como preparar o cliente para gravar?",
+      "Qual a duração ideal?",
+      "Precisa de autorização de imagem?",
+      "Vocês gravam na empresa do cliente?"
+    ],
+    "relacionados": [
+      "/video-institucional",
+      "/comunicacao-interna",
+      "/edicao-de-video"
+    ],
+    "pilar": 1,
+    "leiaNoBlog": {
+      "pilar": "/blog/video-institucional-guia-completo",
+      "complementares": [
+        "/blog/quanto-custa-video-institucional",
+        "/blog/tipos-de-video-institucional",
+        "/blog/video-institucional-e-publicitario"
+      ]
+    }
+  },
+  {
+    "url": "/estudio-chroma-key",
+    "nome": "Estúdio e chroma key",
+    "grupo": "Estúdio e Foto",
+    "prioridade": "P2",
+    "h1": "Gravação em estúdio e chroma key em São Paulo",
+    "title": "Gravação em Chroma Key em SP | IDA Produtora",
+    "description": "Gravação em estúdio parceiro em São Paulo com chroma key, cenário virtual e teleprompter. Para treinamentos, lives, webinars e vídeos institucionais.",
+    "palavraChave": "gravação em chroma key SP",
+    "secundarias": [
+      "estúdio de gravação para empresas",
+      "gravação em estúdio",
+      "cenário virtual"
+    ],
+    "servicoFormulario": "Estúdio e chroma key",
+    "faq": [
+      "O que é chroma key?",
+      "Que roupa usar?",
+      "Dá para usar cenário virtual com a marca da empresa?",
+      "Onde fica o estúdio?"
+    ],
+    "relacionados": [
+      "/video-de-treinamento",
+      "/podcast-videocast",
+      "/transmissao-ao-vivo"
+    ],
+    "pilar": 9,
+    "leiaNoBlog": {
+      "pilar": "/blog/chroma-key-estudio-guia",
+      "complementares": [
+        "/blog/aluguel-de-estudio-de-gravacao-sp",
+        "/blog/estudio-de-gravacao-para-empresa",
+        "/blog/o-que-e-chroma-key"
+      ]
+    }
+  },
+  {
+    "url": "/podcast-videocast",
+    "nome": "Podcast e videocast",
+    "grupo": "Estúdio e Foto",
+    "prioridade": "P3",
+    "h1": "Gravação de podcast e videocast corporativo",
+    "title": "Podcast Corporativo em São Paulo | IDA Produtora",
+    "description": "Gravação de podcast e videocast para empresas com várias câmeras, áudio profissional e cortes prontos para Reels, LinkedIn e YouTube.",
+    "palavraChave": "gravação de podcast corporativo",
+    "secundarias": [
+      "videocast para empresas",
+      "estúdio de podcast SP",
+      "cortes de podcast"
+    ],
+    "servicoFormulario": "Podcast e videocast",
+    "faq": [
+      "Quantas câmeras vocês usam?",
+      "Vocês entregam cortes para redes?",
+      "Dá para gravar na empresa?",
+      "Vocês publicam o episódio?"
+    ],
+    "relacionados": [
+      "/estudio-chroma-key",
+      "/edicao-de-video",
+      "/comunicacao-interna"
+    ],
+    "pilar": 9,
+    "leiaNoBlog": {
+      "pilar": "/blog/chroma-key-estudio-guia",
+      "complementares": [
+        "/blog/aluguel-de-estudio-de-gravacao-sp",
+        "/blog/estudio-de-gravacao-para-empresa",
+        "/blog/o-que-e-chroma-key"
+      ]
+    }
+  },
+  {
+    "url": "/ativacoes-para-eventos",
+    "nome": "Ativações para eventos",
+    "grupo": "Eventos",
+    "prioridade": "P3",
+    "h1": "Ativações para eventos: cabine de fotos e túnel infinito",
+    "title": "Cabine de Fotos para Eventos Corporativos | IDA",
+    "description": "Cabine de fotos, túnel infinito e totem com a marca da sua empresa. Impressão na hora e fotos digitais para os convidados compartilharem.",
+    "palavraChave": "cabine de fotos para eventos corporativos",
+    "secundarias": [
+      "túnel infinito",
+      "totem de fotos",
+      "ativação de marca em evento"
+    ],
+    "servicoFormulario": "Ativações para eventos",
+    "faq": [
+      "Como funciona o túnel infinito?",
+      "As fotos são impressas na hora?",
+      "Dá para personalizar com a marca?",
+      "Quanto espaço a ativação ocupa?"
+    ],
+    "relacionados": [
+      "/filmagem-de-eventos-corporativos",
+      "/fotografia-corporativa",
+      "/video-memoria-aftermovie"
+    ],
+    "pilar": 7,
+    "leiaNoBlog": {
+      "pilar": "/blog/fotografia-corporativa-guia",
+      "complementares": [
+        "/blog/quanto-custa-fotografia-corporativa",
+        "/blog/banco-de-imagens-proprio",
+        "/blog/fotografia-de-eventos-corporativos"
+      ]
+    }
+  },
+  {
+    "url": "/edicao-de-video",
+    "nome": "Edição de vídeo",
+    "grupo": "Vídeo",
+    "prioridade": "P3",
+    "h1": "Edição de vídeo profissional para empresas",
+    "title": "Edição de Vídeo para Empresas | IDA Produtora",
+    "description": "Edição, correção de cor, trilha licenciada e legendas para vídeos da sua empresa, inclusive material gravado por vocês. Orçamento pelo WhatsApp.",
+    "palavraChave": "edição de vídeo profissional para empresas",
+    "secundarias": [
+      "pós-produção de vídeo",
+      "edição de vídeo corporativo",
+      "legendagem"
+    ],
+    "servicoFormulario": "Edição de vídeo",
+    "faq": [
+      "Vocês editam material gravado por nós?",
+      "Qual o prazo de edição?",
+      "Vocês fazem legendas e versões em outro idioma?",
+      "Quantas rodadas de ajuste estão incluídas?"
+    ],
+    "relacionados": [
+      "/video-institucional",
+      "/podcast-videocast",
+      "/video-depoimento"
+    ],
+    "pilar": 1,
+    "leiaNoBlog": {
+      "pilar": "/blog/video-institucional-guia-completo",
+      "complementares": [
+        "/blog/quanto-custa-video-institucional",
+        "/blog/tipos-de-video-institucional",
+        "/blog/video-institucional-e-publicitario"
+      ]
+    }
+  }
+]

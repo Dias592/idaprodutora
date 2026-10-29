@@ -1,0 +1,66 @@
+---
+id: "P1"
+tipo: "pilar"
+status: "publicado"
+titulo: "Vídeo institucional: o que é, tipos, custos e como fazer"
+metaTitle: "Vídeo institucional: o que é, tipos, custos e como fazer"   # até 60 caracteres
+metaDescription: "..."                                                # até 155 caracteres: resposta curta + promessa
+palavraChave: "vídeo institucional"
+palavrasSecundarias: ["...", "..."]
+pergunta: "O que é um vídeo institucional e como uma empresa produz um que funcione?"
+formato: "Pilar"
+palavras: "2000-2500"
+pilar: 1
+servico: "/video-institucional"
+servicoFormulario: "Vídeo institucional"
+complementares: ["/blog/...", "..."]       # os 10 do cluster, na ordem de data/blog-plan.json
+pilaresRelacionados: ["/blog/...", "/blog/..."]
+autor: "Ivan Dias"
+publishedAt: "2026-11-15"
+updatedAt: "2026-11-15"
+capa: "[PREENCHER: imagem]"
+---
+
+{/* 1. H1 vem do layout a partir de `titulo`. Não repetir aqui. */}
+
+<RespostaDireta>
+{/* 40–60 palavras respondendo `pergunta`, com a palavra-chave na primeira frase. */}
+</RespostaDireta>
+
+<IndiceArtigo />
+
+## {/* H2 de contexto: o que é / por que importa (palavra-chave ou secundária) */}
+
+{/* 150–250 palavras */}
+
+## {/* Um H2 por complementar, na ordem de `complementares` */}
+
+{/* Resumo de 2–3 frases que responde a pergunta do complementar. */}
+{/* Se o complementar estiver publicado: */}
+Leia o guia completo: [Quanto custa um vídeo institucional em 2026](/blog/quanto-custa-video-institucional).
+{/* Se ainda estiver planejado: sem link. */}
+
+{/* ... repetir para os 10 complementares. Após o ~4º H2 (≈40% do texto): */}
+
+<CtaWhatsApp servico="Vídeo institucional" origem="blog-pilar" />
+
+{/* ... continuar os H2 restantes ... */}
+
+<VideoFacade youtubeId="..." titulo="Mahav · Vídeo institucional" />  {/* quando houver vídeo do serviço */}
+
+## Perguntas frequentes sobre vídeo institucional
+
+<Faq itens={[
+  { pergunta: "...", resposta: "..." },
+  /* 6 a 8 perguntas reais ("As pessoas também perguntam") */
+]} />
+
+## Precisa de vídeo institucional na sua empresa?
+
+{/* 2–3 frases + link para a página de serviço com a palavra-chave dela como âncora. */}
+Conheça o serviço de [vídeo institucional em São Paulo](/video-institucional) da IDA Produtora.
+
+<CtaWhatsApp servico="Vídeo institucional" origem="blog-pilar" />
+
+{/* Leia também: os 2 `pilaresRelacionados` como cards. */}
+<LeiaTambem urls={pilaresRelacionados} />

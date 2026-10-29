@@ -1,0 +1,139 @@
+url,tipo_pagina,palavra_chave_principal,palavras_secundarias,intencao,cluster_pilar,prioridade_ou_onda
+/,home,produtora audiovisual São Paulo,produtora de vídeo SP; produtora audiovisual corporativa; produtora de vídeo para empresas,comercial,,P1
+/video-institucional,servico,vídeo institucional São Paulo,produtora de vídeo institucional; vídeo para empresa; vídeo quem somos,comercial,1,P1
+/filmagem-de-eventos-corporativos,servico,filmagem de eventos corporativos SP,cobertura de evento em vídeo; filmagem de congresso; filmagem de convenção,comercial,2,P1
+/transmissao-ao-vivo,servico,transmissão ao vivo de eventos SP,streaming de eventos corporativos; evento híbrido; live corporativa,comercial,3,P1
+/video-memoria-aftermovie,servico,vídeo resumo de evento,aftermovie corporativo; vídeo memória; highlights de evento,comercial,2,P1
+/cobertura-de-shows,servico,filmagem de show São Paulo,gravação de show ao vivo; DVD de show; cobertura de festival,comercial,4,P2
+/imagens-aereas-drone,servico,filmagem com drone São Paulo,imagens aéreas para empresas; drone para eventos; foto aérea de empresa,comercial,5,P2
+/video-360,servico,vídeo 360 graus para empresas,tour virtual 360; vídeo VR corporativo; filmagem 360 de evento,comercial,6,P3
+/fotografia-corporativa,servico,fotografia corporativa SP,fotógrafo de eventos corporativos; foto institucional; fotos de equipe,comercial,7,P1
+/comunicacao-interna,servico,vídeo para comunicação interna,vídeo de endomarketing; vídeo de integração de funcionários; mensagem do CEO em vídeo,comercial,8,P2
+/video-de-treinamento,servico,vídeo de treinamento corporativo,videoaula para empresas; EAD corporativo; vídeo de onboarding,comercial,8,P2
+/video-depoimento,servico,vídeo depoimento de cliente,case em vídeo; vídeo testemunho; prova social em vídeo,comercial,1,P2
+/estudio-chroma-key,servico,gravação em chroma key SP,estúdio de gravação para empresas; gravação em estúdio; cenário virtual,comercial,9,P2
+/podcast-videocast,servico,gravação de podcast corporativo,videocast para empresas; estúdio de podcast SP; cortes de podcast,comercial,9,P3
+/ativacoes-para-eventos,servico,cabine de fotos para eventos corporativos,túnel infinito; totem de fotos; ativação de marca em evento,comercial,7,P3
+/edicao-de-video,servico,edição de vídeo profissional para empresas,pós-produção de vídeo; edição de vídeo corporativo; legendagem,comercial,1,P3
+/produtora-de-video-zona-sul-sp,local-regiao,produtora de vídeo zona sul SP,,comercial-local,,P2
+/produtora-de-video-avenida-paulista,local-regiao,produtora de vídeo Avenida Paulista,,comercial-local,,P2
+/produtora-de-video-alphaville-barueri,local-regiao,produtora de vídeo Alphaville,,comercial-local,,P2
+/produtora-de-video-abc-paulista,local-regiao,produtora de vídeo ABC,,comercial-local,,P2
+/produtora-de-video-guarulhos,local-regiao,produtora de vídeo Guarulhos,,comercial-local,,P2
+/produtora-de-video-campinas,local-regiao,produtora de vídeo Campinas,,comercial-local,,P2
+/filmagem-de-evento-sao-paulo-expo,local-centro-de-eventos,filmagem de evento São Paulo Expo,,comercial-local,,P2
+/filmagem-de-evento-expo-center-norte,local-centro-de-eventos,filmagem de evento Expo Center Norte,,comercial-local,,P2
+/filmagem-de-evento-distrito-anhembi,local-centro-de-eventos,filmagem de evento Anhembi,,comercial-local,,P2
+/filmagem-de-evento-transamerica-expo,local-centro-de-eventos,filmagem de evento Transamerica Expo,,comercial-local,,P2
+/filmagem-de-evento-wtc-events-center,local-centro-de-eventos,filmagem de evento WTC São Paulo,,comercial-local,,P2
+/filmagem-de-evento-frei-caneca,local-centro-de-eventos,filmagem de evento Frei Caneca,,comercial-local,,P2
+/blog/video-institucional-guia-completo,pilar,vídeo institucional,vídeo institucional para empresas; como fazer vídeo institucional; produção de vídeo institucional; vídeo empresarial,informacional,1,onda 1
+/blog/quanto-custa-video-institucional,complementar,quanto custa vídeo institucional,preço vídeo institucional; valor de vídeo institucional; orçamento vídeo institucional,comercial-investigacao,1,onda 2
+/blog/como-fazer-video-institucional,complementar,como fazer vídeo institucional,etapas vídeo institucional; produzir vídeo institucional; planejamento de vídeo,informacional,1,onda 3
+/blog/roteiro-de-video-institucional,complementar,roteiro de vídeo institucional,modelo de roteiro; roteiro para vídeo empresarial; estrutura de roteiro,informacional,1,onda 3
+/blog/duracao-video-institucional,complementar,duração vídeo institucional,tempo de vídeo institucional; vídeo institucional curto; quantos minutos,informacional,1,onda 3
+/blog/tipos-de-video-institucional,complementar,tipos de vídeo institucional,vídeo manifesto; vídeo documental empresa; vídeo com entrevistas,comercial-investigacao,1,onda 2
+/blog/video-institucional-e-publicitario,complementar,vídeo institucional e publicitário,diferença vídeo institucional; vídeo publicitário; vídeo comercial,comercial-investigacao,1,onda 2
+/blog/exemplos-de-video-institucional,complementar,exemplos de vídeo institucional,vídeo institucional criativo; referências de vídeo institucional; boas práticas,informacional,1,onda 3
+/blog/como-se-preparar-para-gravar-video,complementar,como se preparar para gravar vídeo,gravar entrevista; falar para a câmera; dicas de gravação,informacional,1,onda 3
+/blog/trilha-sonora-para-video-institucional,complementar,trilha sonora para vídeo institucional,música licenciada; direitos autorais vídeo; trilha royalty free,informacional,1,onda 3
+/blog/onde-usar-video-institucional,complementar,onde usar vídeo institucional,vídeo no site; vídeo para LinkedIn; vídeo em apresentação comercial,informacional,1,onda 3
+/blog/filmagem-de-eventos-corporativos-guia,pilar,filmagem de eventos corporativos,filmagem de evento empresarial; cobertura de evento em vídeo; vídeo de evento corporativo; aftermovie corporativo,informacional,2,onda 1
+/blog/quanto-custa-filmagem-de-evento,complementar,quanto custa filmagem de evento,preço filmagem de evento; valor cinegrafista evento; orçamento filmagem,comercial-investigacao,2,onda 2
+/blog/checklist-filmagem-de-evento,complementar,checklist filmagem de evento,planejamento de filmagem; roteiro de captação; o que filmar em evento,informacional,2,onda 3
+/blog/o-que-e-aftermovie,complementar,o que é aftermovie,vídeo resumo de evento; aftermovie corporativo; highlights de evento,informacional,2,onda 3
+/blog/video-memoria-de-evento,complementar,vídeo memória de evento,registro em vídeo de evento; vídeo completo do evento; entregáveis de filmagem,informacional,2,onda 3
+/blog/filmagem-de-congresso,complementar,filmagem de congresso,filmagem multicâmera; câmeras para evento; filmar palestra,informacional,2,onda 3
+/blog/filmagem-de-feira-de-negocios,complementar,filmagem de feira de negócios,vídeo de estande; cobertura de feira; vídeo de expositor,informacional,2,onda 3
+/blog/video-de-confraternizacao-empresa,complementar,vídeo de confraternização empresa,festa de fim de ano empresa; vídeo de festa corporativa; filmagem de confraternização,informacional,2,onda 3
+/blog/foto-e-video-para-evento-corporativo,complementar,foto e vídeo para evento corporativo,fotógrafo e cinegrafista; cobertura completa de evento; contratar foto e vídeo,comercial-investigacao,2,onda 2
+/blog/gravacao-de-palestra,complementar,gravação de palestra,áudio de palestra; microfone lapela; gravar palestrante,informacional,2,onda 3
+/blog/filmagem-de-evento-em-sao-paulo,complementar,filmagem de evento em São Paulo,São Paulo Expo; Expo Center Norte; Distrito Anhembi,informacional,2,onda 3
+/blog/transmissao-ao-vivo-de-eventos-guia,pilar,transmissão ao vivo de eventos,live corporativa; streaming de eventos; evento híbrido; transmissão online,informacional,3,onda 1
+/blog/quanto-custa-transmissao-ao-vivo,complementar,quanto custa transmissão ao vivo,preço live corporativa; valor streaming de evento; orçamento transmissão,comercial-investigacao,3,onda 2
+/blog/o-que-e-evento-hibrido,complementar,o que é evento híbrido,evento presencial e online; organizar evento híbrido; público remoto,informacional,3,onda 3
+/blog/como-transmitir-evento-no-youtube,complementar,como transmitir evento no YouTube,live no YouTube; transmissão YouTube empresa; encoder,informacional,3,onda 3
+/blog/plataforma-para-transmissao-ao-vivo,complementar,plataforma para transmissão ao vivo,Zoom ou YouTube; Teams para eventos; plataforma de live,comercial-investigacao,3,onda 2
+/blog/internet-para-transmissao-ao-vivo,complementar,internet para transmissão ao vivo,link dedicado; velocidade de upload para live; bonding 4G,comercial-investigacao,3,onda 2
+/blog/checklist-live-corporativa,complementar,checklist live corporativa,teste de transmissão; plano B para live; ensaio técnico,informacional,3,onda 3
+/blog/transmissao-multicamera,complementar,transmissão multicâmera,corte ao vivo; switcher; direção de imagem,informacional,3,onda 3
+/blog/traducao-simultanea-em-live,complementar,tradução simultânea em live,legenda ao vivo; evento bilíngue; acessibilidade em live,informacional,3,onda 3
+/blog/engajamento-em-evento-online,complementar,engajamento em evento online,chat ao vivo; enquete em live; perguntas do público,informacional,3,onda 3
+/blog/cortes-de-live,complementar,cortes de live,reaproveitar conteúdo; vídeos curtos de live; conteúdo pós-evento,informacional,3,onda 3
+/blog/filmagem-de-shows-guia,pilar,filmagem de show,cobertura de shows; gravação de show ao vivo; filmagem de festival; vídeo de show,informacional,4,onda 1
+/blog/quanto-custa-filmar-show,complementar,quanto custa filmar show,preço filmagem de show; valor gravação de show; orçamento festival,comercial-investigacao,4,onda 2
+/blog/captacao-multicamera-show,complementar,captação multicâmera show,posição de câmeras em show; mapa de câmeras; equipe de filmagem,informacional,4,onda 5
+/blog/audio-da-mesa-para-video,complementar,áudio da mesa para vídeo,captação de áudio de show; multipista; mixagem de show,informacional,4,onda 5
+/blog/gravacao-de-show-ao-vivo,complementar,gravação de show ao vivo,DVD de show; show para streaming; produção de show gravado,informacional,4,onda 5
+/blog/direitos-autorais-filmagem-de-show,complementar,direitos autorais filmagem de show,autorização de imagem; direitos musicais; ECAD,informacional,4,onda 5
+/blog/cobertura-de-festival,complementar,cobertura de festival,equipe de vídeo festival; logística de filmagem; vários palcos,informacional,4,onda 5
+/blog/video-de-show-para-instagram,complementar,vídeo de show para Instagram,Reels de show; vídeo vertical de show; conteúdo para artistas,informacional,4,onda 5
+/blog/transmissao-ao-vivo-de-show,complementar,transmissão ao vivo de show,streaming de show; live de música; transmissão multicâmera de show,informacional,4,onda 5
+/blog/filmar-show-com-pouca-luz,complementar,filmar show com pouca luz,luz de palco; configuração de câmera para show; exposição em show,informacional,4,onda 5
+/blog/aftermovie-de-festival,complementar,aftermovie de festival,vídeo resumo de festival; highlights de festival; vídeo para próxima edição,informacional,4,onda 5
+/blog/filmagem-com-drone-guia,pilar,filmagem com drone,imagens aéreas; filmagem aérea para empresas; drone para eventos; foto aérea,informacional,5,onda 1
+/blog/regras-drone-2026,complementar,regras drone 2026,legislação de drone; ICA 100-40; drone em São Paulo,informacional,5,onda 5
+/blog/quanto-custa-filmagem-com-drone,complementar,quanto custa filmagem com drone,preço drone; valor imagens aéreas; orçamento drone,comercial-investigacao,5,onda 2
+/blog/sarpas-drone,complementar,SARPAS drone,SISANT; homologação Anatel drone; autorização DECEA,informacional,5,onda 5
+/blog/drone-em-evento,complementar,drone em evento,voar sobre pessoas; drone em show; segurança de drone,informacional,5,onda 5
+/blog/filmagem-aerea-de-obra,complementar,filmagem aérea de obra,acompanhamento de obra com drone; vídeo de empreendimento; drone para construtora,informacional,5,onda 5
+/blog/video-com-drone-para-empresa,complementar,vídeo com drone para empresa,imagens aéreas de fábrica; vídeo industrial; drone em indústria,informacional,5,onda 5
+/blog/foto-aerea-de-empresa,complementar,foto aérea de empresa,foto de fachada com drone; foto de terreno; imagem aérea comercial,informacional,5,onda 5
+/blog/onde-nao-pode-voar-drone,complementar,onde não pode voar drone,áreas restritas drone; drone perto de aeroporto; zona de exclusão,informacional,5,onda 5
+/blog/drone-fpv,complementar,drone FPV,voo FPV; drone de corrida em vídeo; plano sequência com drone,informacional,5,onda 5
+/blog/seguro-para-drone,complementar,seguro para drone,seguro RETA; responsabilidade civil drone; contratar operador de drone,informacional,5,onda 5
+/blog/video-360-graus-guia,pilar,vídeo 360 graus,tour virtual 360; vídeo 360 para empresas; vídeo imersivo; realidade virtual,informacional,6,onda 1
+/blog/o-que-e-video-360,complementar,o que é vídeo 360,vídeo 360 explicação; vídeo esférico; usos do vídeo 360,informacional,6,onda 5
+/blog/quanto-custa-video-360,complementar,quanto custa vídeo 360,preço vídeo 360; valor tour virtual; orçamento vídeo imersivo,comercial-investigacao,6,onda 2
+/blog/tour-virtual-360-empresa,complementar,tour virtual 360 empresa,tour virtual de escritório; visita virtual; tour 360 para site,informacional,6,onda 5
+/blog/video-360-ou-tour-virtual,complementar,vídeo 360 ou tour virtual,tour com fotos 360; diferença vídeo 360; escolher formato imersivo,comercial-investigacao,6,onda 2
+/blog/como-assistir-video-360,complementar,como assistir vídeo 360,vídeo 360 no YouTube; óculos VR; vídeo 360 no celular,informacional,6,onda 5
+/blog/treinamento-em-realidade-virtual,complementar,treinamento em realidade virtual,treinamento imersivo; segurança do trabalho em VR; simulação 360,informacional,6,onda 5
+/blog/tour-virtual-de-fabrica,complementar,tour virtual de fábrica,visita virtual à indústria; vídeo de fábrica; employer branding 360,informacional,6,onda 5
+/blog/ativacao-360-em-evento,complementar,ativação 360 em evento,experiência imersiva em evento; estande com VR; ativação de marca 360,informacional,6,onda 5
+/blog/camera-360-profissional,complementar,câmera 360 profissional,resolução de vídeo 360; câmera 8K 360; equipamento 360,informacional,6,onda 5
+/blog/publicar-video-360-youtube,complementar,publicar vídeo 360 YouTube,metadados 360; vídeo 360 no site; player 360,informacional,6,onda 5
+/blog/fotografia-corporativa-guia,pilar,fotografia corporativa e de eventos,fotografia de eventos corporativos; foto institucional; fotógrafo corporativo; banco de imagens da empresa,informacional,7,onda 1
+/blog/quanto-custa-fotografia-corporativa,complementar,quanto custa fotografia corporativa,preço fotógrafo corporativo; valor cobertura fotográfica; orçamento fotografia,comercial-investigacao,7,onda 2
+/blog/fotografia-de-eventos-corporativos,complementar,fotografia de eventos corporativos,cobertura fotográfica de evento; fotos de evento empresa; entrega de fotos,informacional,7,onda 6
+/blog/foto-institucional,complementar,foto institucional,fotos da empresa; fotos de equipe; fotos de processos,informacional,7,onda 6
+/blog/foto-de-equipe-empresa,complementar,foto de equipe empresa,sessão de fotos corporativa; foto de grupo; fotos de colaboradores,informacional,7,onda 6
+/blog/banco-de-imagens-proprio,complementar,banco de imagens próprio,banco de imagens pago; fotos autênticas; imagens de stock,comercial-investigacao,7,onda 2
+/blog/fotos-para-relatorio-anual,complementar,fotos para relatório anual,relatório de sustentabilidade; fotos ESG; fotografia para relatório,informacional,7,onda 6
+/blog/fotografia-de-convencao,complementar,fotografia de convenção,fotos de convenção de vendas; premiação de vendas; evento de vendas,informacional,7,onda 6
+/blog/autorizacao-de-uso-de-imagem,complementar,autorização de uso de imagem,LGPD fotos; termo de uso de imagem; direito de imagem funcionário,informacional,7,onda 6
+/blog/fotos-em-tempo-real-evento,complementar,fotos em tempo real evento,entrega expressa de fotos; fotos para imprensa; fotos durante o evento,informacional,7,onda 6
+/blog/fotografia-de-produto-industrial,complementar,fotografia de produto industrial,foto de produto B2B; fotos para catálogo; fotografia industrial,informacional,7,onda 6
+/blog/video-comunicacao-interna-guia,pilar,como usar vídeo na comunicação interna,vídeo de endomarketing; comunicação interna em vídeo; vídeo para RH; treinamento em vídeo,informacional,8,onda 1
+/blog/quanto-custa-video-de-treinamento,complementar,quanto custa vídeo de treinamento,preço videoaula corporativa; valor EAD corporativo; orçamento treinamento em vídeo,comercial-investigacao,8,onda 2
+/blog/video-de-endomarketing,complementar,vídeo de endomarketing,campanha interna em vídeo; vídeo para colaboradores; endomarketing exemplos,informacional,8,onda 4
+/blog/video-de-onboarding,complementar,vídeo de onboarding,vídeo de integração; boas-vindas a novos funcionários; onboarding em vídeo,informacional,8,onda 4
+/blog/video-mensagem-do-ceo,complementar,vídeo mensagem do CEO,comunicado da liderança; vídeo do presidente; comunicação executiva,informacional,8,onda 4
+/blog/formatos-de-video-de-treinamento,complementar,formatos de vídeo de treinamento,microlearning; videoaula; tutorial em vídeo,informacional,8,onda 4
+/blog/treinamento-ead-corporativo,complementar,treinamento EAD corporativo,converter treinamento em vídeo; plataforma LMS; curso online corporativo,informacional,8,onda 4
+/blog/video-de-seguranca-do-trabalho,complementar,vídeo de segurança do trabalho,treinamento NR em vídeo; vídeo de SST; segurança na indústria,informacional,8,onda 4
+/blog/video-de-employer-branding,complementar,vídeo de employer branding,vídeo de cultura; vídeo para recrutamento; marca empregadora,informacional,8,onda 4
+/blog/video-depoimento-de-funcionario,complementar,vídeo depoimento de funcionário,depoimento interno; história de colaborador; vídeo de carreira,informacional,8,onda 4
+/blog/metricas-de-comunicacao-interna,complementar,métricas de comunicação interna,engajamento interno; indicadores de endomarketing; taxa de visualização,informacional,8,onda 4
+/blog/chroma-key-estudio-guia,pilar,chroma key,gravação em estúdio; estúdio de gravação para empresas; fundo verde; podcast corporativo,informacional,9,onda 1
+/blog/aluguel-de-estudio-de-gravacao-sp,complementar,aluguel de estúdio de gravação SP,preço estúdio de gravação; estúdio por hora; valor estúdio chroma key,comercial-investigacao,9,onda 2
+/blog/o-que-e-chroma-key,complementar,o que é chroma key,fundo verde; cenário virtual; recorte de fundo,informacional,9,onda 6
+/blog/roupa-para-chroma-key,complementar,roupa para chroma key,cor de roupa fundo verde; o que vestir para gravar; erros no chroma key,informacional,9,onda 6
+/blog/como-montar-podcast-corporativo,complementar,como montar podcast corporativo,podcast para empresas; videocast corporativo; programa da empresa,informacional,9,onda 6
+/blog/videocast,complementar,videocast,cortes de podcast; conteúdo para Reels; reaproveitar episódio,informacional,9,onda 6
+/blog/como-usar-teleprompter,complementar,como usar teleprompter,ler teleprompter; gravação com roteiro; falar para câmera,informacional,9,onda 6
+/blog/estudio-de-gravacao-para-empresa,complementar,estúdio de gravação para empresa,montar estúdio na empresa; alugar estúdio; custo de estúdio próprio,comercial-investigacao,9,onda 2
+/blog/cenario-virtual-para-live,complementar,cenário virtual para live,webinar profissional; fundo virtual; estúdio para live,informacional,9,onda 6
+/blog/gravacao-de-videoaula,complementar,gravação de videoaula,set de videoaula; iluminação para videoaula; gravar curso online,informacional,9,onda 6
+/blog/microfone-para-podcast,complementar,microfone para podcast,acústica de estúdio; áudio de podcast; microfone dinâmico,informacional,9,onda 6
+/blog/como-contratar-produtora-audiovisual,pilar,como escolher produtora de vídeo,produtora audiovisual São Paulo; contratar produtora de vídeo; produtora de vídeo para empresas; orçamento de vídeo,informacional,10,onda 1
+/blog/quanto-custa-um-video-para-empresa,complementar,quanto custa um vídeo para empresa,preço de vídeo empresarial; tabela de preços de vídeo; orçamento de produtora,comercial-investigacao,10,onda 2
+/blog/produtora-de-video-sao-paulo,complementar,produtora de vídeo São Paulo,melhor produtora de vídeo; critérios para escolher produtora; portfólio de produtora,comercial-investigacao,10,onda 2
+/blog/briefing-de-video,complementar,briefing de vídeo,modelo de briefing; briefing audiovisual; o que informar à produtora,informacional,10,onda 4
+/blog/produtora-ou-freelancer-de-video,complementar,produtora ou freelancer de vídeo,agência ou produtora; videomaker freelancer; diferença produtora e agência,comercial-investigacao,10,onda 2
+/blog/etapas-da-producao-audiovisual,complementar,etapas da produção audiovisual,pré-produção; pós-produção; fluxo de produção de vídeo,informacional,10,onda 4
+/blog/contrato-de-producao-audiovisual,complementar,contrato de produção audiovisual,contrato de vídeo; cessão de direitos; cláusulas de produtora,informacional,10,onda 4
+/blog/direito-de-imagem-em-video,complementar,direito de imagem em vídeo,termo de autorização de imagem; LGPD em vídeo; uso de imagem de clientes,informacional,10,onda 4
+/blog/prazo-de-producao-de-video,complementar,prazo de produção de vídeo,cronograma de vídeo; tempo de edição; prazo de entrega,informacional,10,onda 4
+/blog/como-produzir-video-de-case,complementar,como produzir vídeo de case,case em vídeo; prova social em vídeo; testemunho de cliente,informacional,10,onda 4
+/blog/video-para-linkedin-empresa,complementar,vídeo para LinkedIn empresa,vídeo no LinkedIn; conteúdo B2B em vídeo; LinkedIn para empresas,informacional,10,onda 4

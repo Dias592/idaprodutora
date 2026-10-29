@@ -1,0 +1,51 @@
+[
+  {
+    "ordem": 1,
+    "nome": "Chandon",
+    "arquivo": "CHANDON.png",
+    "destino": "/clientes/chandon.webp",
+    "autorizado": "[PREENCHER: sim/não]"
+  },
+  {
+    "ordem": 2,
+    "nome": "MAM",
+    "arquivo": "MAM.png",
+    "destino": "/clientes/mam.webp",
+    "autorizado": "[PREENCHER: sim/não]"
+  },
+  {
+    "ordem": 3,
+    "nome": "Bio Ritmo",
+    "arquivo": "BIO RITMO.png",
+    "destino": "/clientes/bio-ritmo.webp",
+    "autorizado": "[PREENCHER: sim/não]"
+  },
+  {
+    "ordem": 4,
+    "nome": "Automec",
+    "arquivo": "AUTOMEC.png",
+    "destino": "/clientes/automec.webp",
+    "autorizado": "[PREENCHER: sim/não]"
+  },
+  {
+    "ordem": 5,
+    "nome": "BR Auto Parts",
+    "arquivo": "BR AUTO PARTS.png",
+    "destino": "/clientes/br-auto-parts.webp",
+    "autorizado": "[PREENCHER: sim/não]"
+  },
+  {
+    "ordem": 6,
+    "nome": "Mahav",
+    "arquivo": "MAHAV.png",
+    "destino": "/clientes/mahav.webp",
+    "autorizado": "[PREENCHER: sim/não]"
+  },
+  {
+    "ordem": 7,
+    "nome": "Caioba Soccer Camp",
+    "arquivo": "CAIOBA SOCCER CAMP.png",
+    "destino": "/clientes/caioba-soccer-camp.webp",
+    "autorizado": "[PREENCHER: sim/não]"
+  }
+]

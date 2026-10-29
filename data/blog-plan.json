@@ -1,0 +1,3762 @@
+[
+  {
+    "id": "P1",
+    "tipo": "pilar",
+    "pilar": 1,
+    "titulo": "Vídeo institucional: o que é, tipos, custos e como fazer",
+    "slug": "video-institucional-guia-completo",
+    "url": "/blog/video-institucional-guia-completo",
+    "palavraChave": "vídeo institucional",
+    "palavrasSecundarias": [
+      "vídeo institucional para empresas",
+      "como fazer vídeo institucional",
+      "produção de vídeo institucional",
+      "vídeo empresarial"
+    ],
+    "pergunta": "O que é um vídeo institucional e como uma empresa produz um que funcione?",
+    "formato": "Pilar",
+    "palavras": "2000-2500",
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "servicosExtras": [
+      "/video-depoimento",
+      "/edicao-de-video"
+    ],
+    "complementares": [
+      "/blog/quanto-custa-video-institucional",
+      "/blog/como-fazer-video-institucional",
+      "/blog/roteiro-de-video-institucional",
+      "/blog/duracao-video-institucional",
+      "/blog/tipos-de-video-institucional",
+      "/blog/video-institucional-e-publicitario",
+      "/blog/exemplos-de-video-institucional",
+      "/blog/como-se-preparar-para-gravar-video",
+      "/blog/trilha-sonora-para-video-institucional",
+      "/blog/onde-usar-video-institucional"
+    ],
+    "pilaresRelacionados": [
+      "/blog/como-contratar-produtora-audiovisual",
+      "/blog/video-comunicacao-interna-guia"
+    ],
+    "cta": {
+      "meio": true,
+      "fim": true
+    },
+    "onda": 1
+  },
+  {
+    "id": "1.1",
+    "tipo": "complementar",
+    "pilar": 1,
+    "titulo": "Quanto custa um vídeo institucional em 2026",
+    "slug": "quanto-custa-video-institucional",
+    "url": "/blog/quanto-custa-video-institucional",
+    "palavraChave": "quanto custa vídeo institucional",
+    "palavrasSecundarias": [
+      "preço vídeo institucional",
+      "valor de vídeo institucional",
+      "orçamento vídeo institucional"
+    ],
+    "pergunta": "Quanto custa produzir um vídeo institucional e o que muda o valor?",
+    "formato": "Preço",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-institucional-guia-completo",
+      "ancora": "vídeo institucional"
+    },
+    "irmaos": [
+      "/blog/onde-usar-video-institucional",
+      "/blog/como-fazer-video-institucional"
+    ],
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "1.2",
+    "tipo": "complementar",
+    "pilar": 1,
+    "titulo": "Como fazer um vídeo institucional: passo a passo",
+    "slug": "como-fazer-video-institucional",
+    "url": "/blog/como-fazer-video-institucional",
+    "palavraChave": "como fazer vídeo institucional",
+    "palavrasSecundarias": [
+      "etapas vídeo institucional",
+      "produzir vídeo institucional",
+      "planejamento de vídeo"
+    ],
+    "pergunta": "Quais são as etapas para fazer um vídeo institucional do zero?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-institucional-guia-completo",
+      "ancora": "vídeo institucional"
+    },
+    "irmaos": [
+      "/blog/quanto-custa-video-institucional",
+      "/blog/roteiro-de-video-institucional"
+    ],
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "1.3",
+    "tipo": "complementar",
+    "pilar": 1,
+    "titulo": "Roteiro de vídeo institucional: modelo para preencher",
+    "slug": "roteiro-de-video-institucional",
+    "url": "/blog/roteiro-de-video-institucional",
+    "palavraChave": "roteiro de vídeo institucional",
+    "palavrasSecundarias": [
+      "modelo de roteiro",
+      "roteiro para vídeo empresarial",
+      "estrutura de roteiro"
+    ],
+    "pergunta": "Como escrever o roteiro de um vídeo institucional?",
+    "formato": "Modelo",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-institucional-guia-completo",
+      "ancora": "vídeo institucional"
+    },
+    "irmaos": [
+      "/blog/como-fazer-video-institucional",
+      "/blog/duracao-video-institucional"
+    ],
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "1.4",
+    "tipo": "complementar",
+    "pilar": 1,
+    "titulo": "Duração ideal de um vídeo institucional",
+    "slug": "duracao-video-institucional",
+    "url": "/blog/duracao-video-institucional",
+    "palavraChave": "duração vídeo institucional",
+    "palavrasSecundarias": [
+      "tempo de vídeo institucional",
+      "vídeo institucional curto",
+      "quantos minutos"
+    ],
+    "pergunta": "Quantos minutos deve ter um vídeo institucional?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-institucional-guia-completo",
+      "ancora": "vídeo institucional"
+    },
+    "irmaos": [
+      "/blog/roteiro-de-video-institucional",
+      "/blog/tipos-de-video-institucional"
+    ],
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "1.5",
+    "tipo": "complementar",
+    "pilar": 1,
+    "titulo": "Tipos de vídeo institucional: manifesto, documental e entrevista",
+    "slug": "tipos-de-video-institucional",
+    "url": "/blog/tipos-de-video-institucional",
+    "palavraChave": "tipos de vídeo institucional",
+    "palavrasSecundarias": [
+      "vídeo manifesto",
+      "vídeo documental empresa",
+      "vídeo com entrevistas"
+    ],
+    "pergunta": "Quais são os tipos de vídeo institucional e quando usar cada um?",
+    "formato": "Comparação",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-institucional-guia-completo",
+      "ancora": "vídeo institucional"
+    },
+    "irmaos": [
+      "/blog/duracao-video-institucional",
+      "/blog/video-institucional-e-publicitario"
+    ],
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "1.6",
+    "tipo": "complementar",
+    "pilar": 1,
+    "titulo": "Vídeo institucional ou publicitário: qual a diferença",
+    "slug": "video-institucional-e-publicitario",
+    "url": "/blog/video-institucional-e-publicitario",
+    "palavraChave": "vídeo institucional e publicitário",
+    "palavrasSecundarias": [
+      "diferença vídeo institucional",
+      "vídeo publicitário",
+      "vídeo comercial"
+    ],
+    "pergunta": "Qual a diferença entre vídeo institucional e vídeo publicitário?",
+    "formato": "Comparação",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-institucional-guia-completo",
+      "ancora": "vídeo institucional"
+    },
+    "irmaos": [
+      "/blog/tipos-de-video-institucional",
+      "/blog/exemplos-de-video-institucional"
+    ],
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "1.7",
+    "tipo": "complementar",
+    "pilar": 1,
+    "titulo": "Exemplos de vídeo institucional que funcionam",
+    "slug": "exemplos-de-video-institucional",
+    "url": "/blog/exemplos-de-video-institucional",
+    "palavraChave": "exemplos de vídeo institucional",
+    "palavrasSecundarias": [
+      "vídeo institucional criativo",
+      "referências de vídeo institucional",
+      "boas práticas"
+    ],
+    "pergunta": "Como são os vídeos institucionais que geram resultado?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-institucional-guia-completo",
+      "ancora": "vídeo institucional"
+    },
+    "irmaos": [
+      "/blog/video-institucional-e-publicitario",
+      "/blog/como-se-preparar-para-gravar-video"
+    ],
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "1.8",
+    "tipo": "complementar",
+    "pilar": 1,
+    "titulo": "Como preparar colaboradores para gravar um vídeo",
+    "slug": "como-se-preparar-para-gravar-video",
+    "url": "/blog/como-se-preparar-para-gravar-video",
+    "palavraChave": "como se preparar para gravar vídeo",
+    "palavrasSecundarias": [
+      "gravar entrevista",
+      "falar para a câmera",
+      "dicas de gravação"
+    ],
+    "pergunta": "Como preparar colaboradores que não têm experiência com câmera?",
+    "formato": "Checklist",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-institucional-guia-completo",
+      "ancora": "vídeo institucional"
+    },
+    "irmaos": [
+      "/blog/exemplos-de-video-institucional",
+      "/blog/trilha-sonora-para-video-institucional"
+    ],
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "1.9",
+    "tipo": "complementar",
+    "pilar": 1,
+    "titulo": "Trilha sonora em vídeo institucional: licenças e direitos",
+    "slug": "trilha-sonora-para-video-institucional",
+    "url": "/blog/trilha-sonora-para-video-institucional",
+    "palavraChave": "trilha sonora para vídeo institucional",
+    "palavrasSecundarias": [
+      "música licenciada",
+      "direitos autorais vídeo",
+      "trilha royalty free"
+    ],
+    "pergunta": "Que música pode ser usada em um vídeo institucional sem problema de direitos?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-institucional-guia-completo",
+      "ancora": "vídeo institucional"
+    },
+    "irmaos": [
+      "/blog/como-se-preparar-para-gravar-video",
+      "/blog/onde-usar-video-institucional"
+    ],
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "1.10",
+    "tipo": "complementar",
+    "pilar": 1,
+    "titulo": "Onde usar o vídeo institucional depois de pronto",
+    "slug": "onde-usar-video-institucional",
+    "url": "/blog/onde-usar-video-institucional",
+    "palavraChave": "onde usar vídeo institucional",
+    "palavrasSecundarias": [
+      "vídeo no site",
+      "vídeo para LinkedIn",
+      "vídeo em apresentação comercial"
+    ],
+    "pergunta": "Em quais canais o vídeo institucional deve ser usado?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-institucional-guia-completo",
+      "ancora": "vídeo institucional"
+    },
+    "irmaos": [
+      "/blog/trilha-sonora-para-video-institucional",
+      "/blog/quanto-custa-video-institucional"
+    ],
+    "servico": "/video-institucional",
+    "servicoNome": "Vídeo institucional",
+    "servicoFormulario": "Vídeo institucional",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "P2",
+    "tipo": "pilar",
+    "pilar": 2,
+    "titulo": "Filmagem de eventos corporativos: guia completo 2026",
+    "slug": "filmagem-de-eventos-corporativos-guia",
+    "url": "/blog/filmagem-de-eventos-corporativos-guia",
+    "palavraChave": "filmagem de eventos corporativos",
+    "palavrasSecundarias": [
+      "filmagem de evento empresarial",
+      "cobertura de evento em vídeo",
+      "vídeo de evento corporativo",
+      "aftermovie corporativo"
+    ],
+    "pergunta": "Como funciona a filmagem de um evento corporativo e o que a empresa recebe?",
+    "formato": "Pilar",
+    "palavras": "2000-2500",
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "servicosExtras": [
+      "/video-memoria-aftermovie",
+      "/fotografia-corporativa"
+    ],
+    "complementares": [
+      "/blog/quanto-custa-filmagem-de-evento",
+      "/blog/checklist-filmagem-de-evento",
+      "/blog/o-que-e-aftermovie",
+      "/blog/video-memoria-de-evento",
+      "/blog/filmagem-de-congresso",
+      "/blog/filmagem-de-feira-de-negocios",
+      "/blog/video-de-confraternizacao-empresa",
+      "/blog/foto-e-video-para-evento-corporativo",
+      "/blog/gravacao-de-palestra",
+      "/blog/filmagem-de-evento-em-sao-paulo"
+    ],
+    "pilaresRelacionados": [
+      "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "/blog/fotografia-corporativa-guia"
+    ],
+    "cta": {
+      "meio": true,
+      "fim": true
+    },
+    "onda": 1
+  },
+  {
+    "id": "2.1",
+    "tipo": "complementar",
+    "pilar": 2,
+    "titulo": "Quanto custa filmar um evento corporativo",
+    "slug": "quanto-custa-filmagem-de-evento",
+    "url": "/blog/quanto-custa-filmagem-de-evento",
+    "palavraChave": "quanto custa filmagem de evento",
+    "palavrasSecundarias": [
+      "preço filmagem de evento",
+      "valor cinegrafista evento",
+      "orçamento filmagem"
+    ],
+    "pergunta": "Quanto custa a filmagem de um evento corporativo?",
+    "formato": "Preço",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-eventos-corporativos-guia",
+      "ancora": "filmagem de eventos corporativos"
+    },
+    "irmaos": [
+      "/blog/filmagem-de-evento-em-sao-paulo",
+      "/blog/checklist-filmagem-de-evento"
+    ],
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "2.2",
+    "tipo": "complementar",
+    "pilar": 2,
+    "titulo": "Checklist para filmar um evento corporativo",
+    "slug": "checklist-filmagem-de-evento",
+    "url": "/blog/checklist-filmagem-de-evento",
+    "palavraChave": "checklist filmagem de evento",
+    "palavrasSecundarias": [
+      "planejamento de filmagem",
+      "roteiro de captação",
+      "o que filmar em evento"
+    ],
+    "pergunta": "O que precisa estar definido antes de filmar um evento?",
+    "formato": "Checklist",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-eventos-corporativos-guia",
+      "ancora": "filmagem de eventos corporativos"
+    },
+    "irmaos": [
+      "/blog/quanto-custa-filmagem-de-evento",
+      "/blog/o-que-e-aftermovie"
+    ],
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "2.3",
+    "tipo": "complementar",
+    "pilar": 2,
+    "titulo": "O que é aftermovie e como usar depois do evento",
+    "slug": "o-que-e-aftermovie",
+    "url": "/blog/o-que-e-aftermovie",
+    "palavraChave": "o que é aftermovie",
+    "palavrasSecundarias": [
+      "vídeo resumo de evento",
+      "aftermovie corporativo",
+      "highlights de evento"
+    ],
+    "pergunta": "O que é um aftermovie e para que ele serve?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-eventos-corporativos-guia",
+      "ancora": "filmagem de eventos corporativos"
+    },
+    "irmaos": [
+      "/blog/checklist-filmagem-de-evento",
+      "/blog/video-memoria-de-evento"
+    ],
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "2.4",
+    "tipo": "complementar",
+    "pilar": 2,
+    "titulo": "Vídeo memória de evento: o que entregar",
+    "slug": "video-memoria-de-evento",
+    "url": "/blog/video-memoria-de-evento",
+    "palavraChave": "vídeo memória de evento",
+    "palavrasSecundarias": [
+      "registro em vídeo de evento",
+      "vídeo completo do evento",
+      "entregáveis de filmagem"
+    ],
+    "pergunta": "O que é um vídeo memória e o que ele deve conter?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-eventos-corporativos-guia",
+      "ancora": "filmagem de eventos corporativos"
+    },
+    "irmaos": [
+      "/blog/o-que-e-aftermovie",
+      "/blog/filmagem-de-congresso"
+    ],
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "2.5",
+    "tipo": "complementar",
+    "pilar": 2,
+    "titulo": "Quantas câmeras são necessárias para filmar um congresso",
+    "slug": "filmagem-de-congresso",
+    "url": "/blog/filmagem-de-congresso",
+    "palavraChave": "filmagem de congresso",
+    "palavrasSecundarias": [
+      "filmagem multicâmera",
+      "câmeras para evento",
+      "filmar palestra"
+    ],
+    "pergunta": "Quantas câmeras um congresso precisa e onde posicionar cada uma?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-eventos-corporativos-guia",
+      "ancora": "filmagem de eventos corporativos"
+    },
+    "irmaos": [
+      "/blog/video-memoria-de-evento",
+      "/blog/filmagem-de-feira-de-negocios"
+    ],
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "2.6",
+    "tipo": "complementar",
+    "pilar": 2,
+    "titulo": "Filmagem de feiras e estandes: como aproveitar",
+    "slug": "filmagem-de-feira-de-negocios",
+    "url": "/blog/filmagem-de-feira-de-negocios",
+    "palavraChave": "filmagem de feira de negócios",
+    "palavrasSecundarias": [
+      "vídeo de estande",
+      "cobertura de feira",
+      "vídeo de expositor"
+    ],
+    "pergunta": "Como aproveitar a filmagem de uma feira de negócios?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-eventos-corporativos-guia",
+      "ancora": "filmagem de eventos corporativos"
+    },
+    "irmaos": [
+      "/blog/filmagem-de-congresso",
+      "/blog/video-de-confraternizacao-empresa"
+    ],
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "2.7",
+    "tipo": "complementar",
+    "pilar": 2,
+    "titulo": "Vídeo de confraternização de fim de ano da empresa",
+    "slug": "video-de-confraternizacao-empresa",
+    "url": "/blog/video-de-confraternizacao-empresa",
+    "palavraChave": "vídeo de confraternização empresa",
+    "palavrasSecundarias": [
+      "festa de fim de ano empresa",
+      "vídeo de festa corporativa",
+      "filmagem de confraternização"
+    ],
+    "pergunta": "Como fazer um bom vídeo da confraternização da empresa?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-eventos-corporativos-guia",
+      "ancora": "filmagem de eventos corporativos"
+    },
+    "irmaos": [
+      "/blog/filmagem-de-feira-de-negocios",
+      "/blog/foto-e-video-para-evento-corporativo"
+    ],
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "2.8",
+    "tipo": "complementar",
+    "pilar": 2,
+    "titulo": "Foto e vídeo no mesmo evento: vale contratar junto?",
+    "slug": "foto-e-video-para-evento-corporativo",
+    "url": "/blog/foto-e-video-para-evento-corporativo",
+    "palavraChave": "foto e vídeo para evento corporativo",
+    "palavrasSecundarias": [
+      "fotógrafo e cinegrafista",
+      "cobertura completa de evento",
+      "contratar foto e vídeo"
+    ],
+    "pergunta": "Vale a pena contratar foto e vídeo do mesmo fornecedor?",
+    "formato": "Comparação",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-eventos-corporativos-guia",
+      "ancora": "filmagem de eventos corporativos"
+    },
+    "irmaos": [
+      "/blog/video-de-confraternizacao-empresa",
+      "/blog/gravacao-de-palestra"
+    ],
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "2.9",
+    "tipo": "complementar",
+    "pilar": 2,
+    "titulo": "Como gravar palestras com áudio de qualidade",
+    "slug": "gravacao-de-palestra",
+    "url": "/blog/gravacao-de-palestra",
+    "palavraChave": "gravação de palestra",
+    "palavrasSecundarias": [
+      "áudio de palestra",
+      "microfone lapela",
+      "gravar palestrante"
+    ],
+    "pergunta": "Como garantir áudio bom na gravação de uma palestra?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-eventos-corporativos-guia",
+      "ancora": "filmagem de eventos corporativos"
+    },
+    "irmaos": [
+      "/blog/foto-e-video-para-evento-corporativo",
+      "/blog/filmagem-de-evento-em-sao-paulo"
+    ],
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "2.10",
+    "tipo": "complementar",
+    "pilar": 2,
+    "titulo": "Filmagem de eventos nos centros de eventos de São Paulo",
+    "slug": "filmagem-de-evento-em-sao-paulo",
+    "url": "/blog/filmagem-de-evento-em-sao-paulo",
+    "palavraChave": "filmagem de evento em São Paulo",
+    "palavrasSecundarias": [
+      "São Paulo Expo",
+      "Expo Center Norte",
+      "Distrito Anhembi"
+    ],
+    "pergunta": "O que muda ao filmar nos principais centros de eventos de São Paulo?",
+    "formato": "Local",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-eventos-corporativos-guia",
+      "ancora": "filmagem de eventos corporativos"
+    },
+    "irmaos": [
+      "/blog/gravacao-de-palestra",
+      "/blog/quanto-custa-filmagem-de-evento"
+    ],
+    "servico": "/filmagem-de-eventos-corporativos",
+    "servicoNome": "Filmagem de eventos corporativos",
+    "servicoFormulario": "Filmagem de evento corporativo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "P3",
+    "tipo": "pilar",
+    "pilar": 3,
+    "titulo": "Transmissão ao vivo de eventos: guia completo para empresas",
+    "slug": "transmissao-ao-vivo-de-eventos-guia",
+    "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+    "palavraChave": "transmissão ao vivo de eventos",
+    "palavrasSecundarias": [
+      "live corporativa",
+      "streaming de eventos",
+      "evento híbrido",
+      "transmissão online"
+    ],
+    "pergunta": "Como uma empresa transmite um evento ao vivo com qualidade profissional?",
+    "formato": "Pilar",
+    "palavras": "2000-2500",
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "servicosExtras": [
+      "/filmagem-de-eventos-corporativos",
+      "/estudio-chroma-key"
+    ],
+    "complementares": [
+      "/blog/quanto-custa-transmissao-ao-vivo",
+      "/blog/o-que-e-evento-hibrido",
+      "/blog/como-transmitir-evento-no-youtube",
+      "/blog/plataforma-para-transmissao-ao-vivo",
+      "/blog/internet-para-transmissao-ao-vivo",
+      "/blog/checklist-live-corporativa",
+      "/blog/transmissao-multicamera",
+      "/blog/traducao-simultanea-em-live",
+      "/blog/engajamento-em-evento-online",
+      "/blog/cortes-de-live"
+    ],
+    "pilaresRelacionados": [
+      "/blog/filmagem-de-eventos-corporativos-guia",
+      "/blog/chroma-key-estudio-guia"
+    ],
+    "cta": {
+      "meio": true,
+      "fim": true
+    },
+    "onda": 1
+  },
+  {
+    "id": "3.1",
+    "tipo": "complementar",
+    "pilar": 3,
+    "titulo": "Quanto custa transmitir um evento ao vivo",
+    "slug": "quanto-custa-transmissao-ao-vivo",
+    "url": "/blog/quanto-custa-transmissao-ao-vivo",
+    "palavraChave": "quanto custa transmissão ao vivo",
+    "palavrasSecundarias": [
+      "preço live corporativa",
+      "valor streaming de evento",
+      "orçamento transmissão"
+    ],
+    "pergunta": "Quanto custa a transmissão ao vivo de um evento?",
+    "formato": "Preço",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "ancora": "transmissão ao vivo de eventos"
+    },
+    "irmaos": [
+      "/blog/cortes-de-live",
+      "/blog/o-que-e-evento-hibrido"
+    ],
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "3.2",
+    "tipo": "complementar",
+    "pilar": 3,
+    "titulo": "O que é evento híbrido e como organizar",
+    "slug": "o-que-e-evento-hibrido",
+    "url": "/blog/o-que-e-evento-hibrido",
+    "palavraChave": "o que é evento híbrido",
+    "palavrasSecundarias": [
+      "evento presencial e online",
+      "organizar evento híbrido",
+      "público remoto"
+    ],
+    "pergunta": "O que é um evento híbrido e como ele funciona?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "ancora": "transmissão ao vivo de eventos"
+    },
+    "irmaos": [
+      "/blog/quanto-custa-transmissao-ao-vivo",
+      "/blog/como-transmitir-evento-no-youtube"
+    ],
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "3.3",
+    "tipo": "complementar",
+    "pilar": 3,
+    "titulo": "Como transmitir um evento ao vivo no YouTube",
+    "slug": "como-transmitir-evento-no-youtube",
+    "url": "/blog/como-transmitir-evento-no-youtube",
+    "palavraChave": "como transmitir evento no YouTube",
+    "palavrasSecundarias": [
+      "live no YouTube",
+      "transmissão YouTube empresa",
+      "encoder"
+    ],
+    "pergunta": "Como fazer a transmissão de um evento pelo YouTube?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "ancora": "transmissão ao vivo de eventos"
+    },
+    "irmaos": [
+      "/blog/o-que-e-evento-hibrido",
+      "/blog/plataforma-para-transmissao-ao-vivo"
+    ],
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "3.4",
+    "tipo": "complementar",
+    "pilar": 3,
+    "titulo": "YouTube, Zoom, Teams ou plataforma própria: onde transmitir",
+    "slug": "plataforma-para-transmissao-ao-vivo",
+    "url": "/blog/plataforma-para-transmissao-ao-vivo",
+    "palavraChave": "plataforma para transmissão ao vivo",
+    "palavrasSecundarias": [
+      "Zoom ou YouTube",
+      "Teams para eventos",
+      "plataforma de live"
+    ],
+    "pergunta": "Qual plataforma usar para transmitir um evento corporativo?",
+    "formato": "Comparação",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "ancora": "transmissão ao vivo de eventos"
+    },
+    "irmaos": [
+      "/blog/como-transmitir-evento-no-youtube",
+      "/blog/internet-para-transmissao-ao-vivo"
+    ],
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "3.5",
+    "tipo": "complementar",
+    "pilar": 3,
+    "titulo": "Internet para live: link dedicado, 4G ou 5G",
+    "slug": "internet-para-transmissao-ao-vivo",
+    "url": "/blog/internet-para-transmissao-ao-vivo",
+    "palavraChave": "internet para transmissão ao vivo",
+    "palavrasSecundarias": [
+      "link dedicado",
+      "velocidade de upload para live",
+      "bonding 4G"
+    ],
+    "pergunta": "Qual internet é necessária para uma transmissão ao vivo estável?",
+    "formato": "Comparação",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "ancora": "transmissão ao vivo de eventos"
+    },
+    "irmaos": [
+      "/blog/plataforma-para-transmissao-ao-vivo",
+      "/blog/checklist-live-corporativa"
+    ],
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "3.6",
+    "tipo": "complementar",
+    "pilar": 3,
+    "titulo": "Checklist técnico para uma live corporativa sem falhas",
+    "slug": "checklist-live-corporativa",
+    "url": "/blog/checklist-live-corporativa",
+    "palavraChave": "checklist live corporativa",
+    "palavrasSecundarias": [
+      "teste de transmissão",
+      "plano B para live",
+      "ensaio técnico"
+    ],
+    "pergunta": "O que testar antes de uma live corporativa?",
+    "formato": "Checklist",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "ancora": "transmissão ao vivo de eventos"
+    },
+    "irmaos": [
+      "/blog/internet-para-transmissao-ao-vivo",
+      "/blog/transmissao-multicamera"
+    ],
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "3.7",
+    "tipo": "complementar",
+    "pilar": 3,
+    "titulo": "Transmissão multicâmera: como funciona",
+    "slug": "transmissao-multicamera",
+    "url": "/blog/transmissao-multicamera",
+    "palavraChave": "transmissão multicâmera",
+    "palavrasSecundarias": [
+      "corte ao vivo",
+      "switcher",
+      "direção de imagem"
+    ],
+    "pergunta": "Como funciona uma transmissão ao vivo com várias câmeras?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "ancora": "transmissão ao vivo de eventos"
+    },
+    "irmaos": [
+      "/blog/checklist-live-corporativa",
+      "/blog/traducao-simultanea-em-live"
+    ],
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "3.8",
+    "tipo": "complementar",
+    "pilar": 3,
+    "titulo": "Tradução simultânea e legendas em transmissões",
+    "slug": "traducao-simultanea-em-live",
+    "url": "/blog/traducao-simultanea-em-live",
+    "palavraChave": "tradução simultânea em live",
+    "palavrasSecundarias": [
+      "legenda ao vivo",
+      "evento bilíngue",
+      "acessibilidade em live"
+    ],
+    "pergunta": "Como incluir tradução simultânea e legendas numa transmissão?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "ancora": "transmissão ao vivo de eventos"
+    },
+    "irmaos": [
+      "/blog/transmissao-multicamera",
+      "/blog/engajamento-em-evento-online"
+    ],
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "3.9",
+    "tipo": "complementar",
+    "pilar": 3,
+    "titulo": "Como engajar o público de um evento online",
+    "slug": "engajamento-em-evento-online",
+    "url": "/blog/engajamento-em-evento-online",
+    "palavraChave": "engajamento em evento online",
+    "palavrasSecundarias": [
+      "chat ao vivo",
+      "enquete em live",
+      "perguntas do público"
+    ],
+    "pergunta": "Como manter o público remoto atento durante um evento online?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "ancora": "transmissão ao vivo de eventos"
+    },
+    "irmaos": [
+      "/blog/traducao-simultanea-em-live",
+      "/blog/cortes-de-live"
+    ],
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "3.10",
+    "tipo": "complementar",
+    "pilar": 3,
+    "titulo": "Como reaproveitar a gravação da live em cortes",
+    "slug": "cortes-de-live",
+    "url": "/blog/cortes-de-live",
+    "palavraChave": "cortes de live",
+    "palavrasSecundarias": [
+      "reaproveitar conteúdo",
+      "vídeos curtos de live",
+      "conteúdo pós-evento"
+    ],
+    "pergunta": "Como transformar a gravação da live em conteúdo para redes?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "ancora": "transmissão ao vivo de eventos"
+    },
+    "irmaos": [
+      "/blog/engajamento-em-evento-online",
+      "/blog/quanto-custa-transmissao-ao-vivo"
+    ],
+    "servico": "/transmissao-ao-vivo",
+    "servicoNome": "Transmissão ao vivo",
+    "servicoFormulario": "Transmissão ao vivo",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 3
+  },
+  {
+    "id": "P4",
+    "tipo": "pilar",
+    "pilar": 4,
+    "titulo": "Filmagem de shows e festivais: guia completo de captação",
+    "slug": "filmagem-de-shows-guia",
+    "url": "/blog/filmagem-de-shows-guia",
+    "palavraChave": "filmagem de show",
+    "palavrasSecundarias": [
+      "cobertura de shows",
+      "gravação de show ao vivo",
+      "filmagem de festival",
+      "vídeo de show"
+    ],
+    "pergunta": "Como é feita a filmagem profissional de um show ou festival?",
+    "formato": "Pilar",
+    "palavras": "2000-2500",
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "servicosExtras": [
+      "/transmissao-ao-vivo",
+      "/imagens-aereas-drone"
+    ],
+    "complementares": [
+      "/blog/quanto-custa-filmar-show",
+      "/blog/captacao-multicamera-show",
+      "/blog/audio-da-mesa-para-video",
+      "/blog/gravacao-de-show-ao-vivo",
+      "/blog/direitos-autorais-filmagem-de-show",
+      "/blog/cobertura-de-festival",
+      "/blog/video-de-show-para-instagram",
+      "/blog/transmissao-ao-vivo-de-show",
+      "/blog/filmar-show-com-pouca-luz",
+      "/blog/aftermovie-de-festival"
+    ],
+    "pilaresRelacionados": [
+      "/blog/transmissao-ao-vivo-de-eventos-guia",
+      "/blog/filmagem-com-drone-guia"
+    ],
+    "cta": {
+      "meio": true,
+      "fim": true
+    },
+    "onda": 1
+  },
+  {
+    "id": "4.1",
+    "tipo": "complementar",
+    "pilar": 4,
+    "titulo": "Quanto custa filmar um show ou festival",
+    "slug": "quanto-custa-filmar-show",
+    "url": "/blog/quanto-custa-filmar-show",
+    "palavraChave": "quanto custa filmar show",
+    "palavrasSecundarias": [
+      "preço filmagem de show",
+      "valor gravação de show",
+      "orçamento festival"
+    ],
+    "pergunta": "Quanto custa a filmagem de um show ou festival?",
+    "formato": "Preço",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-shows-guia",
+      "ancora": "filmagem de show"
+    },
+    "irmaos": [
+      "/blog/aftermovie-de-festival",
+      "/blog/captacao-multicamera-show"
+    ],
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "4.2",
+    "tipo": "complementar",
+    "pilar": 4,
+    "titulo": "Como planejar a captação multicâmera de um show",
+    "slug": "captacao-multicamera-show",
+    "url": "/blog/captacao-multicamera-show",
+    "palavraChave": "captação multicâmera show",
+    "palavrasSecundarias": [
+      "posição de câmeras em show",
+      "mapa de câmeras",
+      "equipe de filmagem"
+    ],
+    "pergunta": "Como planejar câmeras e equipe para filmar um show?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-shows-guia",
+      "ancora": "filmagem de show"
+    },
+    "irmaos": [
+      "/blog/quanto-custa-filmar-show",
+      "/blog/audio-da-mesa-para-video"
+    ],
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "4.3",
+    "tipo": "complementar",
+    "pilar": 4,
+    "titulo": "Áudio da mesa de som na filmagem: como funciona",
+    "slug": "audio-da-mesa-para-video",
+    "url": "/blog/audio-da-mesa-para-video",
+    "palavraChave": "áudio da mesa para vídeo",
+    "palavrasSecundarias": [
+      "captação de áudio de show",
+      "multipista",
+      "mixagem de show"
+    ],
+    "pergunta": "Como o áudio da mesa de som entra no vídeo do show?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-shows-guia",
+      "ancora": "filmagem de show"
+    },
+    "irmaos": [
+      "/blog/captacao-multicamera-show",
+      "/blog/gravacao-de-show-ao-vivo"
+    ],
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "4.4",
+    "tipo": "complementar",
+    "pilar": 4,
+    "titulo": "Gravação de show ao vivo para DVD e streaming: etapas",
+    "slug": "gravacao-de-show-ao-vivo",
+    "url": "/blog/gravacao-de-show-ao-vivo",
+    "palavraChave": "gravação de show ao vivo",
+    "palavrasSecundarias": [
+      "DVD de show",
+      "show para streaming",
+      "produção de show gravado"
+    ],
+    "pergunta": "Quais são as etapas para gravar um show ao vivo?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-shows-guia",
+      "ancora": "filmagem de show"
+    },
+    "irmaos": [
+      "/blog/audio-da-mesa-para-video",
+      "/blog/direitos-autorais-filmagem-de-show"
+    ],
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "4.5",
+    "tipo": "complementar",
+    "pilar": 4,
+    "titulo": "Direitos de imagem e música ao filmar shows",
+    "slug": "direitos-autorais-filmagem-de-show",
+    "url": "/blog/direitos-autorais-filmagem-de-show",
+    "palavraChave": "direitos autorais filmagem de show",
+    "palavrasSecundarias": [
+      "autorização de imagem",
+      "direitos musicais",
+      "ECAD"
+    ],
+    "pergunta": "Que autorizações são necessárias para filmar e publicar um show?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-shows-guia",
+      "ancora": "filmagem de show"
+    },
+    "irmaos": [
+      "/blog/gravacao-de-show-ao-vivo",
+      "/blog/cobertura-de-festival"
+    ],
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "4.6",
+    "tipo": "complementar",
+    "pilar": 4,
+    "titulo": "Cobertura de festival: equipe e logística",
+    "slug": "cobertura-de-festival",
+    "url": "/blog/cobertura-de-festival",
+    "palavraChave": "cobertura de festival",
+    "palavrasSecundarias": [
+      "equipe de vídeo festival",
+      "logística de filmagem",
+      "vários palcos"
+    ],
+    "pergunta": "Como organizar equipe e logística para cobrir um festival?",
+    "formato": "Checklist",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-shows-guia",
+      "ancora": "filmagem de show"
+    },
+    "irmaos": [
+      "/blog/direitos-autorais-filmagem-de-show",
+      "/blog/video-de-show-para-instagram"
+    ],
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "4.7",
+    "tipo": "complementar",
+    "pilar": 4,
+    "titulo": "Vídeo de show para redes sociais: formatos que funcionam",
+    "slug": "video-de-show-para-instagram",
+    "url": "/blog/video-de-show-para-instagram",
+    "palavraChave": "vídeo de show para Instagram",
+    "palavrasSecundarias": [
+      "Reels de show",
+      "vídeo vertical de show",
+      "conteúdo para artistas"
+    ],
+    "pergunta": "Quais formatos de vídeo de show funcionam nas redes sociais?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-shows-guia",
+      "ancora": "filmagem de show"
+    },
+    "irmaos": [
+      "/blog/cobertura-de-festival",
+      "/blog/transmissao-ao-vivo-de-show"
+    ],
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "4.8",
+    "tipo": "complementar",
+    "pilar": 4,
+    "titulo": "Live de show com qualidade de TV",
+    "slug": "transmissao-ao-vivo-de-show",
+    "url": "/blog/transmissao-ao-vivo-de-show",
+    "palavraChave": "transmissão ao vivo de show",
+    "palavrasSecundarias": [
+      "streaming de show",
+      "live de música",
+      "transmissão multicâmera de show"
+    ],
+    "pergunta": "Como transmitir um show ao vivo com qualidade profissional?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-shows-guia",
+      "ancora": "filmagem de show"
+    },
+    "irmaos": [
+      "/blog/video-de-show-para-instagram",
+      "/blog/filmar-show-com-pouca-luz"
+    ],
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "4.9",
+    "tipo": "complementar",
+    "pilar": 4,
+    "titulo": "Luz de palco e câmera: como evitar imagem estourada",
+    "slug": "filmar-show-com-pouca-luz",
+    "url": "/blog/filmar-show-com-pouca-luz",
+    "palavraChave": "filmar show com pouca luz",
+    "palavrasSecundarias": [
+      "luz de palco",
+      "configuração de câmera para show",
+      "exposição em show"
+    ],
+    "pergunta": "Como filmar shows com luz de palco sem perder a imagem?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-shows-guia",
+      "ancora": "filmagem de show"
+    },
+    "irmaos": [
+      "/blog/transmissao-ao-vivo-de-show",
+      "/blog/aftermovie-de-festival"
+    ],
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "4.10",
+    "tipo": "complementar",
+    "pilar": 4,
+    "titulo": "Aftermovie de festival: o que mostrar",
+    "slug": "aftermovie-de-festival",
+    "url": "/blog/aftermovie-de-festival",
+    "palavraChave": "aftermovie de festival",
+    "palavrasSecundarias": [
+      "vídeo resumo de festival",
+      "highlights de festival",
+      "vídeo para próxima edição"
+    ],
+    "pergunta": "O que um aftermovie de festival precisa mostrar?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-de-shows-guia",
+      "ancora": "filmagem de show"
+    },
+    "irmaos": [
+      "/blog/filmar-show-com-pouca-luz",
+      "/blog/quanto-custa-filmar-show"
+    ],
+    "servico": "/cobertura-de-shows",
+    "servicoNome": "Cobertura de shows",
+    "servicoFormulario": "Cobertura de show",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "P5",
+    "tipo": "pilar",
+    "pilar": 5,
+    "titulo": "Filmagem com drone para empresas: regras, usos e custos",
+    "slug": "filmagem-com-drone-guia",
+    "url": "/blog/filmagem-com-drone-guia",
+    "palavraChave": "filmagem com drone",
+    "palavrasSecundarias": [
+      "imagens aéreas",
+      "filmagem aérea para empresas",
+      "drone para eventos",
+      "foto aérea"
+    ],
+    "pergunta": "Quando vale a pena usar drone na comunicação de uma empresa e o que a lei exige?",
+    "formato": "Pilar",
+    "palavras": "2000-2500",
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "servicosExtras": [
+      "/video-institucional",
+      "/video-360"
+    ],
+    "complementares": [
+      "/blog/regras-drone-2026",
+      "/blog/quanto-custa-filmagem-com-drone",
+      "/blog/sarpas-drone",
+      "/blog/drone-em-evento",
+      "/blog/filmagem-aerea-de-obra",
+      "/blog/video-com-drone-para-empresa",
+      "/blog/foto-aerea-de-empresa",
+      "/blog/onde-nao-pode-voar-drone",
+      "/blog/drone-fpv",
+      "/blog/seguro-para-drone"
+    ],
+    "pilaresRelacionados": [
+      "/blog/video-360-graus-guia",
+      "/blog/filmagem-de-eventos-corporativos-guia"
+    ],
+    "cta": {
+      "meio": true,
+      "fim": true
+    },
+    "onda": 1
+  },
+  {
+    "id": "5.1",
+    "tipo": "complementar",
+    "pilar": 5,
+    "titulo": "Regras para filmar com drone em São Paulo em 2026",
+    "slug": "regras-drone-2026",
+    "url": "/blog/regras-drone-2026",
+    "palavraChave": "regras drone 2026",
+    "palavrasSecundarias": [
+      "legislação de drone",
+      "ICA 100-40",
+      "drone em São Paulo"
+    ],
+    "pergunta": "Quais regras valem para voar drone em São Paulo em 2026?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-com-drone-guia",
+      "ancora": "filmagem com drone"
+    },
+    "irmaos": [
+      "/blog/seguro-para-drone",
+      "/blog/quanto-custa-filmagem-com-drone"
+    ],
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "5.2",
+    "tipo": "complementar",
+    "pilar": 5,
+    "titulo": "Quanto custa uma filmagem aérea com drone",
+    "slug": "quanto-custa-filmagem-com-drone",
+    "url": "/blog/quanto-custa-filmagem-com-drone",
+    "palavraChave": "quanto custa filmagem com drone",
+    "palavrasSecundarias": [
+      "preço drone",
+      "valor imagens aéreas",
+      "orçamento drone"
+    ],
+    "pergunta": "Quanto custa contratar uma filmagem aérea com drone?",
+    "formato": "Preço",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-com-drone-guia",
+      "ancora": "filmagem com drone"
+    },
+    "irmaos": [
+      "/blog/regras-drone-2026",
+      "/blog/sarpas-drone"
+    ],
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "5.3",
+    "tipo": "complementar",
+    "pilar": 5,
+    "titulo": "SISANT, SARPAS e Anatel: o que cada um exige",
+    "slug": "sarpas-drone",
+    "url": "/blog/sarpas-drone",
+    "palavraChave": "SARPAS drone",
+    "palavrasSecundarias": [
+      "SISANT",
+      "homologação Anatel drone",
+      "autorização DECEA"
+    ],
+    "pergunta": "O que exigem o SISANT, o SARPAS e a Anatel para voar drone?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-com-drone-guia",
+      "ancora": "filmagem com drone"
+    },
+    "irmaos": [
+      "/blog/quanto-custa-filmagem-com-drone",
+      "/blog/drone-em-evento"
+    ],
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "5.4",
+    "tipo": "complementar",
+    "pilar": 5,
+    "titulo": "Drone em evento com público: pode voar?",
+    "slug": "drone-em-evento",
+    "url": "/blog/drone-em-evento",
+    "palavraChave": "drone em evento",
+    "palavrasSecundarias": [
+      "voar sobre pessoas",
+      "drone em show",
+      "segurança de drone"
+    ],
+    "pergunta": "É permitido voar drone em eventos com público?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-com-drone-guia",
+      "ancora": "filmagem com drone"
+    },
+    "irmaos": [
+      "/blog/sarpas-drone",
+      "/blog/filmagem-aerea-de-obra"
+    ],
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "5.5",
+    "tipo": "complementar",
+    "pilar": 5,
+    "titulo": "Filmagem aérea para construtoras e obras",
+    "slug": "filmagem-aerea-de-obra",
+    "url": "/blog/filmagem-aerea-de-obra",
+    "palavraChave": "filmagem aérea de obra",
+    "palavrasSecundarias": [
+      "acompanhamento de obra com drone",
+      "vídeo de empreendimento",
+      "drone para construtora"
+    ],
+    "pergunta": "Como construtoras usam filmagem aérea nas obras?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-com-drone-guia",
+      "ancora": "filmagem com drone"
+    },
+    "irmaos": [
+      "/blog/drone-em-evento",
+      "/blog/video-com-drone-para-empresa"
+    ],
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "5.6",
+    "tipo": "complementar",
+    "pilar": 5,
+    "titulo": "Drone no vídeo institucional de indústrias",
+    "slug": "video-com-drone-para-empresa",
+    "url": "/blog/video-com-drone-para-empresa",
+    "palavraChave": "vídeo com drone para empresa",
+    "palavrasSecundarias": [
+      "imagens aéreas de fábrica",
+      "vídeo industrial",
+      "drone em indústria"
+    ],
+    "pergunta": "Como o drone valoriza o vídeo institucional de uma indústria?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-com-drone-guia",
+      "ancora": "filmagem com drone"
+    },
+    "irmaos": [
+      "/blog/filmagem-aerea-de-obra",
+      "/blog/foto-aerea-de-empresa"
+    ],
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "5.7",
+    "tipo": "complementar",
+    "pilar": 5,
+    "titulo": "Foto aérea de empresa, fachada e terreno",
+    "slug": "foto-aerea-de-empresa",
+    "url": "/blog/foto-aerea-de-empresa",
+    "palavraChave": "foto aérea de empresa",
+    "palavrasSecundarias": [
+      "foto de fachada com drone",
+      "foto de terreno",
+      "imagem aérea comercial"
+    ],
+    "pergunta": "Para que serve a foto aérea de uma empresa?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-com-drone-guia",
+      "ancora": "filmagem com drone"
+    },
+    "irmaos": [
+      "/blog/video-com-drone-para-empresa",
+      "/blog/onde-nao-pode-voar-drone"
+    ],
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "5.8",
+    "tipo": "complementar",
+    "pilar": 5,
+    "titulo": "Onde é proibido voar drone em São Paulo",
+    "slug": "onde-nao-pode-voar-drone",
+    "url": "/blog/onde-nao-pode-voar-drone",
+    "palavraChave": "onde não pode voar drone",
+    "palavrasSecundarias": [
+      "áreas restritas drone",
+      "drone perto de aeroporto",
+      "zona de exclusão"
+    ],
+    "pergunta": "Em quais áreas de São Paulo o voo de drone é proibido ou restrito?",
+    "formato": "Local",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-com-drone-guia",
+      "ancora": "filmagem com drone"
+    },
+    "irmaos": [
+      "/blog/foto-aerea-de-empresa",
+      "/blog/drone-fpv"
+    ],
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "5.9",
+    "tipo": "complementar",
+    "pilar": 5,
+    "titulo": "Drone FPV: o que é e quando usar",
+    "slug": "drone-fpv",
+    "url": "/blog/drone-fpv",
+    "palavraChave": "drone FPV",
+    "palavrasSecundarias": [
+      "voo FPV",
+      "drone de corrida em vídeo",
+      "plano sequência com drone"
+    ],
+    "pergunta": "O que é drone FPV e quando ele faz diferença no vídeo?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-com-drone-guia",
+      "ancora": "filmagem com drone"
+    },
+    "irmaos": [
+      "/blog/onde-nao-pode-voar-drone",
+      "/blog/seguro-para-drone"
+    ],
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "5.10",
+    "tipo": "complementar",
+    "pilar": 5,
+    "titulo": "Seguro e responsabilidade na filmagem com drone",
+    "slug": "seguro-para-drone",
+    "url": "/blog/seguro-para-drone",
+    "palavraChave": "seguro para drone",
+    "palavrasSecundarias": [
+      "seguro RETA",
+      "responsabilidade civil drone",
+      "contratar operador de drone"
+    ],
+    "pergunta": "Que seguro é necessário para operar drone comercialmente?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/filmagem-com-drone-guia",
+      "ancora": "filmagem com drone"
+    },
+    "irmaos": [
+      "/blog/drone-fpv",
+      "/blog/regras-drone-2026"
+    ],
+    "servico": "/imagens-aereas-drone",
+    "servicoNome": "Imagens aéreas com drone",
+    "servicoFormulario": "Imagens aéreas (drone)",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "P6",
+    "tipo": "pilar",
+    "pilar": 6,
+    "titulo": "Vídeo 360 graus e tour virtual: guia para empresas",
+    "slug": "video-360-graus-guia",
+    "url": "/blog/video-360-graus-guia",
+    "palavraChave": "vídeo 360 graus",
+    "palavrasSecundarias": [
+      "tour virtual 360",
+      "vídeo 360 para empresas",
+      "vídeo imersivo",
+      "realidade virtual"
+    ],
+    "pergunta": "O que é vídeo 360 graus e como empresas usam esse formato?",
+    "formato": "Pilar",
+    "palavras": "2000-2500",
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "servicosExtras": [
+      "/imagens-aereas-drone",
+      "/ativacoes-para-eventos"
+    ],
+    "complementares": [
+      "/blog/o-que-e-video-360",
+      "/blog/quanto-custa-video-360",
+      "/blog/tour-virtual-360-empresa",
+      "/blog/video-360-ou-tour-virtual",
+      "/blog/como-assistir-video-360",
+      "/blog/treinamento-em-realidade-virtual",
+      "/blog/tour-virtual-de-fabrica",
+      "/blog/ativacao-360-em-evento",
+      "/blog/camera-360-profissional",
+      "/blog/publicar-video-360-youtube"
+    ],
+    "pilaresRelacionados": [
+      "/blog/filmagem-com-drone-guia",
+      "/blog/video-institucional-guia-completo"
+    ],
+    "cta": {
+      "meio": true,
+      "fim": true
+    },
+    "onda": 1
+  },
+  {
+    "id": "6.1",
+    "tipo": "complementar",
+    "pilar": 6,
+    "titulo": "O que é vídeo 360 e onde usar",
+    "slug": "o-que-e-video-360",
+    "url": "/blog/o-que-e-video-360",
+    "palavraChave": "o que é vídeo 360",
+    "palavrasSecundarias": [
+      "vídeo 360 explicação",
+      "vídeo esférico",
+      "usos do vídeo 360"
+    ],
+    "pergunta": "O que é um vídeo 360 e em que situações ele funciona?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-360-graus-guia",
+      "ancora": "vídeo 360 graus"
+    },
+    "irmaos": [
+      "/blog/publicar-video-360-youtube",
+      "/blog/quanto-custa-video-360"
+    ],
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "6.2",
+    "tipo": "complementar",
+    "pilar": 6,
+    "titulo": "Quanto custa um vídeo 360 graus",
+    "slug": "quanto-custa-video-360",
+    "url": "/blog/quanto-custa-video-360",
+    "palavraChave": "quanto custa vídeo 360",
+    "palavrasSecundarias": [
+      "preço vídeo 360",
+      "valor tour virtual",
+      "orçamento vídeo imersivo"
+    ],
+    "pergunta": "Quanto custa produzir um vídeo 360 graus?",
+    "formato": "Preço",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-360-graus-guia",
+      "ancora": "vídeo 360 graus"
+    },
+    "irmaos": [
+      "/blog/o-que-e-video-360",
+      "/blog/tour-virtual-360-empresa"
+    ],
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "6.3",
+    "tipo": "complementar",
+    "pilar": 6,
+    "titulo": "Tour virtual 360 para empresas",
+    "slug": "tour-virtual-360-empresa",
+    "url": "/blog/tour-virtual-360-empresa",
+    "palavraChave": "tour virtual 360 empresa",
+    "palavrasSecundarias": [
+      "tour virtual de escritório",
+      "visita virtual",
+      "tour 360 para site"
+    ],
+    "pergunta": "Como um tour virtual 360 ajuda uma empresa a vender?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-360-graus-guia",
+      "ancora": "vídeo 360 graus"
+    },
+    "irmaos": [
+      "/blog/quanto-custa-video-360",
+      "/blog/video-360-ou-tour-virtual"
+    ],
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "6.4",
+    "tipo": "complementar",
+    "pilar": 6,
+    "titulo": "Vídeo 360 ou tour virtual com fotos: qual escolher",
+    "slug": "video-360-ou-tour-virtual",
+    "url": "/blog/video-360-ou-tour-virtual",
+    "palavraChave": "vídeo 360 ou tour virtual",
+    "palavrasSecundarias": [
+      "tour com fotos 360",
+      "diferença vídeo 360",
+      "escolher formato imersivo"
+    ],
+    "pergunta": "Qual a diferença entre vídeo 360 e tour virtual com fotos?",
+    "formato": "Comparação",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-360-graus-guia",
+      "ancora": "vídeo 360 graus"
+    },
+    "irmaos": [
+      "/blog/tour-virtual-360-empresa",
+      "/blog/como-assistir-video-360"
+    ],
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "6.5",
+    "tipo": "complementar",
+    "pilar": 6,
+    "titulo": "Como assistir vídeo 360 no celular, YouTube e óculos VR",
+    "slug": "como-assistir-video-360",
+    "url": "/blog/como-assistir-video-360",
+    "palavraChave": "como assistir vídeo 360",
+    "palavrasSecundarias": [
+      "vídeo 360 no YouTube",
+      "óculos VR",
+      "vídeo 360 no celular"
+    ],
+    "pergunta": "Como assistir a um vídeo 360 em cada dispositivo?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-360-graus-guia",
+      "ancora": "vídeo 360 graus"
+    },
+    "irmaos": [
+      "/blog/video-360-ou-tour-virtual",
+      "/blog/treinamento-em-realidade-virtual"
+    ],
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "6.6",
+    "tipo": "complementar",
+    "pilar": 6,
+    "titulo": "Vídeo 360 para treinamento e segurança do trabalho",
+    "slug": "treinamento-em-realidade-virtual",
+    "url": "/blog/treinamento-em-realidade-virtual",
+    "palavraChave": "treinamento em realidade virtual",
+    "palavrasSecundarias": [
+      "treinamento imersivo",
+      "segurança do trabalho em VR",
+      "simulação 360"
+    ],
+    "pergunta": "Como usar vídeo 360 em treinamentos de segurança?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-360-graus-guia",
+      "ancora": "vídeo 360 graus"
+    },
+    "irmaos": [
+      "/blog/como-assistir-video-360",
+      "/blog/tour-virtual-de-fabrica"
+    ],
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "6.7",
+    "tipo": "complementar",
+    "pilar": 6,
+    "titulo": "Tour virtual de fábrica para clientes e recrutamento",
+    "slug": "tour-virtual-de-fabrica",
+    "url": "/blog/tour-virtual-de-fabrica",
+    "palavraChave": "tour virtual de fábrica",
+    "palavrasSecundarias": [
+      "visita virtual à indústria",
+      "vídeo de fábrica",
+      "employer branding 360"
+    ],
+    "pergunta": "Para que serve um tour virtual de fábrica?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-360-graus-guia",
+      "ancora": "vídeo 360 graus"
+    },
+    "irmaos": [
+      "/blog/treinamento-em-realidade-virtual",
+      "/blog/ativacao-360-em-evento"
+    ],
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "6.8",
+    "tipo": "complementar",
+    "pilar": 6,
+    "titulo": "Vídeo 360 em eventos: ativação imersiva",
+    "slug": "ativacao-360-em-evento",
+    "url": "/blog/ativacao-360-em-evento",
+    "palavraChave": "ativação 360 em evento",
+    "palavrasSecundarias": [
+      "experiência imersiva em evento",
+      "estande com VR",
+      "ativação de marca 360"
+    ],
+    "pergunta": "Como usar vídeo 360 como ativação em eventos?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-360-graus-guia",
+      "ancora": "vídeo 360 graus"
+    },
+    "irmaos": [
+      "/blog/tour-virtual-de-fabrica",
+      "/blog/camera-360-profissional"
+    ],
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "6.9",
+    "tipo": "complementar",
+    "pilar": 6,
+    "titulo": "Câmeras 360: tipos e resolução",
+    "slug": "camera-360-profissional",
+    "url": "/blog/camera-360-profissional",
+    "palavraChave": "câmera 360 profissional",
+    "palavrasSecundarias": [
+      "resolução de vídeo 360",
+      "câmera 8K 360",
+      "equipamento 360"
+    ],
+    "pergunta": "Quais câmeras e resoluções são usadas em vídeo 360 profissional?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-360-graus-guia",
+      "ancora": "vídeo 360 graus"
+    },
+    "irmaos": [
+      "/blog/ativacao-360-em-evento",
+      "/blog/publicar-video-360-youtube"
+    ],
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "6.10",
+    "tipo": "complementar",
+    "pilar": 6,
+    "titulo": "Como publicar vídeo 360 no site e no YouTube",
+    "slug": "publicar-video-360-youtube",
+    "url": "/blog/publicar-video-360-youtube",
+    "palavraChave": "publicar vídeo 360 YouTube",
+    "palavrasSecundarias": [
+      "metadados 360",
+      "vídeo 360 no site",
+      "player 360"
+    ],
+    "pergunta": "Como publicar um vídeo 360 para que funcione no site e no YouTube?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-360-graus-guia",
+      "ancora": "vídeo 360 graus"
+    },
+    "irmaos": [
+      "/blog/camera-360-profissional",
+      "/blog/o-que-e-video-360"
+    ],
+    "servico": "/video-360",
+    "servicoNome": "Vídeo 360°",
+    "servicoFormulario": "Vídeo 360°",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 5
+  },
+  {
+    "id": "P7",
+    "tipo": "pilar",
+    "pilar": 7,
+    "titulo": "Fotografia corporativa e de eventos: guia completo",
+    "slug": "fotografia-corporativa-guia",
+    "url": "/blog/fotografia-corporativa-guia",
+    "palavraChave": "fotografia corporativa e de eventos",
+    "palavrasSecundarias": [
+      "fotografia de eventos corporativos",
+      "foto institucional",
+      "fotógrafo corporativo",
+      "banco de imagens da empresa"
+    ],
+    "pergunta": "Que tipos de fotografia uma empresa precisa e como contratar?",
+    "formato": "Pilar",
+    "palavras": "2000-2500",
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "servicosExtras": [
+      "/ativacoes-para-eventos",
+      "/filmagem-de-eventos-corporativos"
+    ],
+    "complementares": [
+      "/blog/quanto-custa-fotografia-corporativa",
+      "/blog/fotografia-de-eventos-corporativos",
+      "/blog/foto-institucional",
+      "/blog/foto-de-equipe-empresa",
+      "/blog/banco-de-imagens-proprio",
+      "/blog/fotos-para-relatorio-anual",
+      "/blog/fotografia-de-convencao",
+      "/blog/autorizacao-de-uso-de-imagem",
+      "/blog/fotos-em-tempo-real-evento",
+      "/blog/fotografia-de-produto-industrial"
+    ],
+    "pilaresRelacionados": [
+      "/blog/filmagem-de-eventos-corporativos-guia",
+      "/blog/video-institucional-guia-completo"
+    ],
+    "cta": {
+      "meio": true,
+      "fim": true
+    },
+    "onda": 1
+  },
+  {
+    "id": "7.1",
+    "tipo": "complementar",
+    "pilar": 7,
+    "titulo": "Quanto custa fotografia corporativa",
+    "slug": "quanto-custa-fotografia-corporativa",
+    "url": "/blog/quanto-custa-fotografia-corporativa",
+    "palavraChave": "quanto custa fotografia corporativa",
+    "palavrasSecundarias": [
+      "preço fotógrafo corporativo",
+      "valor cobertura fotográfica",
+      "orçamento fotografia"
+    ],
+    "pergunta": "Quanto custa contratar fotografia corporativa?",
+    "formato": "Preço",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/fotografia-corporativa-guia",
+      "ancora": "fotografia corporativa e de eventos"
+    },
+    "irmaos": [
+      "/blog/fotografia-de-produto-industrial",
+      "/blog/fotografia-de-eventos-corporativos"
+    ],
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "7.2",
+    "tipo": "complementar",
+    "pilar": 7,
+    "titulo": "Fotografia de eventos corporativos: o que entregar",
+    "slug": "fotografia-de-eventos-corporativos",
+    "url": "/blog/fotografia-de-eventos-corporativos",
+    "palavraChave": "fotografia de eventos corporativos",
+    "palavrasSecundarias": [
+      "cobertura fotográfica de evento",
+      "fotos de evento empresa",
+      "entrega de fotos"
+    ],
+    "pergunta": "O que uma cobertura fotográfica de evento corporativo deve entregar?",
+    "formato": "Checklist",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/fotografia-corporativa-guia",
+      "ancora": "fotografia corporativa e de eventos"
+    },
+    "irmaos": [
+      "/blog/quanto-custa-fotografia-corporativa",
+      "/blog/foto-institucional"
+    ],
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "7.3",
+    "tipo": "complementar",
+    "pilar": 7,
+    "titulo": "Foto institucional da empresa: ambiente, equipe e processos",
+    "slug": "foto-institucional",
+    "url": "/blog/foto-institucional",
+    "palavraChave": "foto institucional",
+    "palavrasSecundarias": [
+      "fotos da empresa",
+      "fotos de equipe",
+      "fotos de processos"
+    ],
+    "pergunta": "Quais fotos institucionais toda empresa deveria ter?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/fotografia-corporativa-guia",
+      "ancora": "fotografia corporativa e de eventos"
+    },
+    "irmaos": [
+      "/blog/fotografia-de-eventos-corporativos",
+      "/blog/foto-de-equipe-empresa"
+    ],
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "7.4",
+    "tipo": "complementar",
+    "pilar": 7,
+    "titulo": "Foto de equipe: como organizar a sessão na empresa",
+    "slug": "foto-de-equipe-empresa",
+    "url": "/blog/foto-de-equipe-empresa",
+    "palavraChave": "foto de equipe empresa",
+    "palavrasSecundarias": [
+      "sessão de fotos corporativa",
+      "foto de grupo",
+      "fotos de colaboradores"
+    ],
+    "pergunta": "Como organizar uma sessão de foto de equipe sem parar a empresa?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/fotografia-corporativa-guia",
+      "ancora": "fotografia corporativa e de eventos"
+    },
+    "irmaos": [
+      "/blog/foto-institucional",
+      "/blog/banco-de-imagens-proprio"
+    ],
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "7.5",
+    "tipo": "complementar",
+    "pilar": 7,
+    "titulo": "Banco de imagens próprio ou banco pago: o que vale mais",
+    "slug": "banco-de-imagens-proprio",
+    "url": "/blog/banco-de-imagens-proprio",
+    "palavraChave": "banco de imagens próprio",
+    "palavrasSecundarias": [
+      "banco de imagens pago",
+      "fotos autênticas",
+      "imagens de stock"
+    ],
+    "pergunta": "Vale mais ter banco de imagens próprio ou usar banco pago?",
+    "formato": "Comparação",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/fotografia-corporativa-guia",
+      "ancora": "fotografia corporativa e de eventos"
+    },
+    "irmaos": [
+      "/blog/foto-de-equipe-empresa",
+      "/blog/fotos-para-relatorio-anual"
+    ],
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "7.6",
+    "tipo": "complementar",
+    "pilar": 7,
+    "titulo": "Fotos para relatório anual e de sustentabilidade",
+    "slug": "fotos-para-relatorio-anual",
+    "url": "/blog/fotos-para-relatorio-anual",
+    "palavraChave": "fotos para relatório anual",
+    "palavrasSecundarias": [
+      "relatório de sustentabilidade",
+      "fotos ESG",
+      "fotografia para relatório"
+    ],
+    "pergunta": "Que fotos usar em relatório anual e de sustentabilidade?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/fotografia-corporativa-guia",
+      "ancora": "fotografia corporativa e de eventos"
+    },
+    "irmaos": [
+      "/blog/banco-de-imagens-proprio",
+      "/blog/fotografia-de-convencao"
+    ],
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "7.7",
+    "tipo": "complementar",
+    "pilar": 7,
+    "titulo": "Cobertura fotográfica de convenção de vendas",
+    "slug": "fotografia-de-convencao",
+    "url": "/blog/fotografia-de-convencao",
+    "palavraChave": "fotografia de convenção",
+    "palavrasSecundarias": [
+      "fotos de convenção de vendas",
+      "premiação de vendas",
+      "evento de vendas"
+    ],
+    "pergunta": "O que fotografar numa convenção de vendas?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/fotografia-corporativa-guia",
+      "ancora": "fotografia corporativa e de eventos"
+    },
+    "irmaos": [
+      "/blog/fotos-para-relatorio-anual",
+      "/blog/autorizacao-de-uso-de-imagem"
+    ],
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "7.8",
+    "tipo": "complementar",
+    "pilar": 7,
+    "titulo": "Uso de imagem de colaboradores e LGPD",
+    "slug": "autorizacao-de-uso-de-imagem",
+    "url": "/blog/autorizacao-de-uso-de-imagem",
+    "palavraChave": "autorização de uso de imagem",
+    "palavrasSecundarias": [
+      "LGPD fotos",
+      "termo de uso de imagem",
+      "direito de imagem funcionário"
+    ],
+    "pergunta": "O que a LGPD exige para usar fotos de colaboradores?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/fotografia-corporativa-guia",
+      "ancora": "fotografia corporativa e de eventos"
+    },
+    "irmaos": [
+      "/blog/fotografia-de-convencao",
+      "/blog/fotos-em-tempo-real-evento"
+    ],
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "7.9",
+    "tipo": "complementar",
+    "pilar": 7,
+    "titulo": "Entrega de fotos no mesmo dia do evento",
+    "slug": "fotos-em-tempo-real-evento",
+    "url": "/blog/fotos-em-tempo-real-evento",
+    "palavraChave": "fotos em tempo real evento",
+    "palavrasSecundarias": [
+      "entrega expressa de fotos",
+      "fotos para imprensa",
+      "fotos durante o evento"
+    ],
+    "pergunta": "Como funciona a entrega de fotos no mesmo dia do evento?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/fotografia-corporativa-guia",
+      "ancora": "fotografia corporativa e de eventos"
+    },
+    "irmaos": [
+      "/blog/autorizacao-de-uso-de-imagem",
+      "/blog/fotografia-de-produto-industrial"
+    ],
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "7.10",
+    "tipo": "complementar",
+    "pilar": 7,
+    "titulo": "Fotografia de produto para empresas B2B",
+    "slug": "fotografia-de-produto-industrial",
+    "url": "/blog/fotografia-de-produto-industrial",
+    "palavraChave": "fotografia de produto industrial",
+    "palavrasSecundarias": [
+      "foto de produto B2B",
+      "fotos para catálogo",
+      "fotografia industrial"
+    ],
+    "pergunta": "Como fazer fotografia de produto para empresas B2B?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/fotografia-corporativa-guia",
+      "ancora": "fotografia corporativa e de eventos"
+    },
+    "irmaos": [
+      "/blog/fotos-em-tempo-real-evento",
+      "/blog/quanto-custa-fotografia-corporativa"
+    ],
+    "servico": "/fotografia-corporativa",
+    "servicoNome": "Fotografia corporativa",
+    "servicoFormulario": "Fotografia",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "P8",
+    "tipo": "pilar",
+    "pilar": 8,
+    "titulo": "Vídeo para comunicação interna e treinamento: guia",
+    "slug": "video-comunicacao-interna-guia",
+    "url": "/blog/video-comunicacao-interna-guia",
+    "palavraChave": "como usar vídeo na comunicação interna",
+    "palavrasSecundarias": [
+      "vídeo de endomarketing",
+      "comunicação interna em vídeo",
+      "vídeo para RH",
+      "treinamento em vídeo"
+    ],
+    "pergunta": "Como usar vídeo na comunicação interna e nos treinamentos da empresa?",
+    "formato": "Pilar",
+    "palavras": "2000-2500",
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "servicosExtras": [
+      "/video-de-treinamento",
+      "/video-depoimento"
+    ],
+    "complementares": [
+      "/blog/quanto-custa-video-de-treinamento",
+      "/blog/video-de-endomarketing",
+      "/blog/video-de-onboarding",
+      "/blog/video-mensagem-do-ceo",
+      "/blog/formatos-de-video-de-treinamento",
+      "/blog/treinamento-ead-corporativo",
+      "/blog/video-de-seguranca-do-trabalho",
+      "/blog/video-de-employer-branding",
+      "/blog/video-depoimento-de-funcionario",
+      "/blog/metricas-de-comunicacao-interna"
+    ],
+    "pilaresRelacionados": [
+      "/blog/video-institucional-guia-completo",
+      "/blog/chroma-key-estudio-guia"
+    ],
+    "cta": {
+      "meio": true,
+      "fim": true
+    },
+    "onda": 1
+  },
+  {
+    "id": "8.1",
+    "tipo": "complementar",
+    "pilar": 8,
+    "titulo": "Quanto custa um vídeo de treinamento corporativo",
+    "slug": "quanto-custa-video-de-treinamento",
+    "url": "/blog/quanto-custa-video-de-treinamento",
+    "palavraChave": "quanto custa vídeo de treinamento",
+    "palavrasSecundarias": [
+      "preço videoaula corporativa",
+      "valor EAD corporativo",
+      "orçamento treinamento em vídeo"
+    ],
+    "pergunta": "Quanto custa produzir vídeos de treinamento corporativo?",
+    "formato": "Preço",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-comunicacao-interna-guia",
+      "ancora": "como usar vídeo na comunicação interna"
+    },
+    "irmaos": [
+      "/blog/metricas-de-comunicacao-interna",
+      "/blog/video-de-endomarketing"
+    ],
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "8.2",
+    "tipo": "complementar",
+    "pilar": 8,
+    "titulo": "Vídeo de endomarketing: tipos e exemplos",
+    "slug": "video-de-endomarketing",
+    "url": "/blog/video-de-endomarketing",
+    "palavraChave": "vídeo de endomarketing",
+    "palavrasSecundarias": [
+      "campanha interna em vídeo",
+      "vídeo para colaboradores",
+      "endomarketing exemplos"
+    ],
+    "pergunta": "Que tipos de vídeo de endomarketing funcionam?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-comunicacao-interna-guia",
+      "ancora": "como usar vídeo na comunicação interna"
+    },
+    "irmaos": [
+      "/blog/quanto-custa-video-de-treinamento",
+      "/blog/video-de-onboarding"
+    ],
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "8.3",
+    "tipo": "complementar",
+    "pilar": 8,
+    "titulo": "Vídeo de integração de funcionários (onboarding)",
+    "slug": "video-de-onboarding",
+    "url": "/blog/video-de-onboarding",
+    "palavraChave": "vídeo de onboarding",
+    "palavrasSecundarias": [
+      "vídeo de integração",
+      "boas-vindas a novos funcionários",
+      "onboarding em vídeo"
+    ],
+    "pergunta": "O que um vídeo de onboarding precisa mostrar?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-comunicacao-interna-guia",
+      "ancora": "como usar vídeo na comunicação interna"
+    },
+    "irmaos": [
+      "/blog/video-de-endomarketing",
+      "/blog/video-mensagem-do-ceo"
+    ],
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "8.4",
+    "tipo": "complementar",
+    "pilar": 8,
+    "titulo": "Mensagem do CEO em vídeo: como gravar",
+    "slug": "video-mensagem-do-ceo",
+    "url": "/blog/video-mensagem-do-ceo",
+    "palavraChave": "vídeo mensagem do CEO",
+    "palavrasSecundarias": [
+      "comunicado da liderança",
+      "vídeo do presidente",
+      "comunicação executiva"
+    ],
+    "pergunta": "Como gravar uma mensagem do CEO que soe natural?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-comunicacao-interna-guia",
+      "ancora": "como usar vídeo na comunicação interna"
+    },
+    "irmaos": [
+      "/blog/video-de-onboarding",
+      "/blog/formatos-de-video-de-treinamento"
+    ],
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "8.5",
+    "tipo": "complementar",
+    "pilar": 8,
+    "titulo": "Vídeo de treinamento corporativo: formatos que funcionam",
+    "slug": "formatos-de-video-de-treinamento",
+    "url": "/blog/formatos-de-video-de-treinamento",
+    "palavraChave": "formatos de vídeo de treinamento",
+    "palavrasSecundarias": [
+      "microlearning",
+      "videoaula",
+      "tutorial em vídeo"
+    ],
+    "pergunta": "Quais formatos de vídeo de treinamento geram mais aprendizado?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-comunicacao-interna-guia",
+      "ancora": "como usar vídeo na comunicação interna"
+    },
+    "irmaos": [
+      "/blog/video-mensagem-do-ceo",
+      "/blog/treinamento-ead-corporativo"
+    ],
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "8.6",
+    "tipo": "complementar",
+    "pilar": 8,
+    "titulo": "Como transformar treinamento presencial em EAD",
+    "slug": "treinamento-ead-corporativo",
+    "url": "/blog/treinamento-ead-corporativo",
+    "palavraChave": "treinamento EAD corporativo",
+    "palavrasSecundarias": [
+      "converter treinamento em vídeo",
+      "plataforma LMS",
+      "curso online corporativo"
+    ],
+    "pergunta": "Como levar um treinamento presencial para o formato EAD?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-comunicacao-interna-guia",
+      "ancora": "como usar vídeo na comunicação interna"
+    },
+    "irmaos": [
+      "/blog/formatos-de-video-de-treinamento",
+      "/blog/video-de-seguranca-do-trabalho"
+    ],
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "8.7",
+    "tipo": "complementar",
+    "pilar": 8,
+    "titulo": "Vídeo de segurança do trabalho para NRs",
+    "slug": "video-de-seguranca-do-trabalho",
+    "url": "/blog/video-de-seguranca-do-trabalho",
+    "palavraChave": "vídeo de segurança do trabalho",
+    "palavrasSecundarias": [
+      "treinamento NR em vídeo",
+      "vídeo de SST",
+      "segurança na indústria"
+    ],
+    "pergunta": "Como usar vídeo em treinamentos de segurança do trabalho?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-comunicacao-interna-guia",
+      "ancora": "como usar vídeo na comunicação interna"
+    },
+    "irmaos": [
+      "/blog/treinamento-ead-corporativo",
+      "/blog/video-de-employer-branding"
+    ],
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "8.8",
+    "tipo": "complementar",
+    "pilar": 8,
+    "titulo": "Vídeo de cultura organizacional para recrutamento",
+    "slug": "video-de-employer-branding",
+    "url": "/blog/video-de-employer-branding",
+    "palavraChave": "vídeo de employer branding",
+    "palavrasSecundarias": [
+      "vídeo de cultura",
+      "vídeo para recrutamento",
+      "marca empregadora"
+    ],
+    "pergunta": "Como um vídeo de cultura ajuda a atrair candidatos?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-comunicacao-interna-guia",
+      "ancora": "como usar vídeo na comunicação interna"
+    },
+    "irmaos": [
+      "/blog/video-de-seguranca-do-trabalho",
+      "/blog/video-depoimento-de-funcionario"
+    ],
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "8.9",
+    "tipo": "complementar",
+    "pilar": 8,
+    "titulo": "Depoimento de colaborador em vídeo: como produzir",
+    "slug": "video-depoimento-de-funcionario",
+    "url": "/blog/video-depoimento-de-funcionario",
+    "palavraChave": "vídeo depoimento de funcionário",
+    "palavrasSecundarias": [
+      "depoimento interno",
+      "história de colaborador",
+      "vídeo de carreira"
+    ],
+    "pergunta": "Como produzir um depoimento de colaborador que convença?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-comunicacao-interna-guia",
+      "ancora": "como usar vídeo na comunicação interna"
+    },
+    "irmaos": [
+      "/blog/video-de-employer-branding",
+      "/blog/metricas-de-comunicacao-interna"
+    ],
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "8.10",
+    "tipo": "complementar",
+    "pilar": 8,
+    "titulo": "Como medir os resultados de vídeos internos",
+    "slug": "metricas-de-comunicacao-interna",
+    "url": "/blog/metricas-de-comunicacao-interna",
+    "palavraChave": "métricas de comunicação interna",
+    "palavrasSecundarias": [
+      "engajamento interno",
+      "indicadores de endomarketing",
+      "taxa de visualização"
+    ],
+    "pergunta": "Como saber se os vídeos internos estão funcionando?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/video-comunicacao-interna-guia",
+      "ancora": "como usar vídeo na comunicação interna"
+    },
+    "irmaos": [
+      "/blog/video-depoimento-de-funcionario",
+      "/blog/quanto-custa-video-de-treinamento"
+    ],
+    "servico": "/comunicacao-interna",
+    "servicoNome": "Comunicação interna",
+    "servicoFormulario": "Comunicação interna",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "P9",
+    "tipo": "pilar",
+    "pilar": 9,
+    "titulo": "Chroma key e gravação em estúdio: guia para empresas",
+    "slug": "chroma-key-estudio-guia",
+    "url": "/blog/chroma-key-estudio-guia",
+    "palavraChave": "chroma key",
+    "palavrasSecundarias": [
+      "gravação em estúdio",
+      "estúdio de gravação para empresas",
+      "fundo verde",
+      "podcast corporativo"
+    ],
+    "pergunta": "Quando uma empresa deve gravar em estúdio ou com chroma key?",
+    "formato": "Pilar",
+    "palavras": "2000-2500",
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "servicosExtras": [
+      "/podcast-videocast",
+      "/video-de-treinamento"
+    ],
+    "complementares": [
+      "/blog/aluguel-de-estudio-de-gravacao-sp",
+      "/blog/o-que-e-chroma-key",
+      "/blog/roupa-para-chroma-key",
+      "/blog/como-montar-podcast-corporativo",
+      "/blog/videocast",
+      "/blog/como-usar-teleprompter",
+      "/blog/estudio-de-gravacao-para-empresa",
+      "/blog/cenario-virtual-para-live",
+      "/blog/gravacao-de-videoaula",
+      "/blog/microfone-para-podcast"
+    ],
+    "pilaresRelacionados": [
+      "/blog/video-comunicacao-interna-guia",
+      "/blog/transmissao-ao-vivo-de-eventos-guia"
+    ],
+    "cta": {
+      "meio": true,
+      "fim": true
+    },
+    "onda": 1
+  },
+  {
+    "id": "9.1",
+    "tipo": "complementar",
+    "pilar": 9,
+    "titulo": "Quanto custa gravar em estúdio em São Paulo",
+    "slug": "aluguel-de-estudio-de-gravacao-sp",
+    "url": "/blog/aluguel-de-estudio-de-gravacao-sp",
+    "palavraChave": "aluguel de estúdio de gravação SP",
+    "palavrasSecundarias": [
+      "preço estúdio de gravação",
+      "estúdio por hora",
+      "valor estúdio chroma key"
+    ],
+    "pergunta": "Quanto custa gravar em estúdio em São Paulo?",
+    "formato": "Preço",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/chroma-key-estudio-guia",
+      "ancora": "chroma key"
+    },
+    "irmaos": [
+      "/blog/microfone-para-podcast",
+      "/blog/o-que-e-chroma-key"
+    ],
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "9.2",
+    "tipo": "complementar",
+    "pilar": 9,
+    "titulo": "O que é chroma key e quando usar",
+    "slug": "o-que-e-chroma-key",
+    "url": "/blog/o-que-e-chroma-key",
+    "palavraChave": "o que é chroma key",
+    "palavrasSecundarias": [
+      "fundo verde",
+      "cenário virtual",
+      "recorte de fundo"
+    ],
+    "pergunta": "O que é chroma key e em que vídeos ele vale a pena?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/chroma-key-estudio-guia",
+      "ancora": "chroma key"
+    },
+    "irmaos": [
+      "/blog/aluguel-de-estudio-de-gravacao-sp",
+      "/blog/roupa-para-chroma-key"
+    ],
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "9.3",
+    "tipo": "complementar",
+    "pilar": 9,
+    "titulo": "Que roupa usar para gravar em chroma key",
+    "slug": "roupa-para-chroma-key",
+    "url": "/blog/roupa-para-chroma-key",
+    "palavraChave": "roupa para chroma key",
+    "palavrasSecundarias": [
+      "cor de roupa fundo verde",
+      "o que vestir para gravar",
+      "erros no chroma key"
+    ],
+    "pergunta": "Que roupa evitar ao gravar com fundo verde?",
+    "formato": "Checklist",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/chroma-key-estudio-guia",
+      "ancora": "chroma key"
+    },
+    "irmaos": [
+      "/blog/o-que-e-chroma-key",
+      "/blog/como-montar-podcast-corporativo"
+    ],
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "9.4",
+    "tipo": "complementar",
+    "pilar": 9,
+    "titulo": "Como montar um podcast corporativo",
+    "slug": "como-montar-podcast-corporativo",
+    "url": "/blog/como-montar-podcast-corporativo",
+    "palavraChave": "como montar podcast corporativo",
+    "palavrasSecundarias": [
+      "podcast para empresas",
+      "videocast corporativo",
+      "programa da empresa"
+    ],
+    "pergunta": "Como uma empresa monta e mantém um podcast?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/chroma-key-estudio-guia",
+      "ancora": "chroma key"
+    },
+    "irmaos": [
+      "/blog/roupa-para-chroma-key",
+      "/blog/videocast"
+    ],
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "9.5",
+    "tipo": "complementar",
+    "pilar": 9,
+    "titulo": "Videocast: como transformar um episódio em 10 cortes",
+    "slug": "videocast",
+    "url": "/blog/videocast",
+    "palavraChave": "videocast",
+    "palavrasSecundarias": [
+      "cortes de podcast",
+      "conteúdo para Reels",
+      "reaproveitar episódio"
+    ],
+    "pergunta": "Como tirar vários cortes de um episódio de videocast?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/chroma-key-estudio-guia",
+      "ancora": "chroma key"
+    },
+    "irmaos": [
+      "/blog/como-montar-podcast-corporativo",
+      "/blog/como-usar-teleprompter"
+    ],
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "9.6",
+    "tipo": "complementar",
+    "pilar": 9,
+    "titulo": "Teleprompter: como gravar falando naturalmente",
+    "slug": "como-usar-teleprompter",
+    "url": "/blog/como-usar-teleprompter",
+    "palavraChave": "como usar teleprompter",
+    "palavrasSecundarias": [
+      "ler teleprompter",
+      "gravação com roteiro",
+      "falar para câmera"
+    ],
+    "pergunta": "Como usar teleprompter sem parecer que está lendo?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/chroma-key-estudio-guia",
+      "ancora": "chroma key"
+    },
+    "irmaos": [
+      "/blog/videocast",
+      "/blog/estudio-de-gravacao-para-empresa"
+    ],
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "9.7",
+    "tipo": "complementar",
+    "pilar": 9,
+    "titulo": "Estúdio próprio ou estúdio locado: o que compensa",
+    "slug": "estudio-de-gravacao-para-empresa",
+    "url": "/blog/estudio-de-gravacao-para-empresa",
+    "palavraChave": "estúdio de gravação para empresa",
+    "palavrasSecundarias": [
+      "montar estúdio na empresa",
+      "alugar estúdio",
+      "custo de estúdio próprio"
+    ],
+    "pergunta": "Compensa montar um estúdio próprio ou alugar quando precisar?",
+    "formato": "Comparação",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/chroma-key-estudio-guia",
+      "ancora": "chroma key"
+    },
+    "irmaos": [
+      "/blog/como-usar-teleprompter",
+      "/blog/cenario-virtual-para-live"
+    ],
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "9.8",
+    "tipo": "complementar",
+    "pilar": 9,
+    "titulo": "Cenário virtual para webinars e lives",
+    "slug": "cenario-virtual-para-live",
+    "url": "/blog/cenario-virtual-para-live",
+    "palavraChave": "cenário virtual para live",
+    "palavrasSecundarias": [
+      "webinar profissional",
+      "fundo virtual",
+      "estúdio para live"
+    ],
+    "pergunta": "Como usar cenário virtual em webinars e lives?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/chroma-key-estudio-guia",
+      "ancora": "chroma key"
+    },
+    "irmaos": [
+      "/blog/estudio-de-gravacao-para-empresa",
+      "/blog/gravacao-de-videoaula"
+    ],
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "9.9",
+    "tipo": "complementar",
+    "pilar": 9,
+    "titulo": "Videoaula profissional: como montar o set",
+    "slug": "gravacao-de-videoaula",
+    "url": "/blog/gravacao-de-videoaula",
+    "palavraChave": "gravação de videoaula",
+    "palavrasSecundarias": [
+      "set de videoaula",
+      "iluminação para videoaula",
+      "gravar curso online"
+    ],
+    "pergunta": "O que é preciso para gravar videoaulas com qualidade?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/chroma-key-estudio-guia",
+      "ancora": "chroma key"
+    },
+    "irmaos": [
+      "/blog/cenario-virtual-para-live",
+      "/blog/microfone-para-podcast"
+    ],
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "9.10",
+    "tipo": "complementar",
+    "pilar": 9,
+    "titulo": "Áudio para podcast: microfones e acústica",
+    "slug": "microfone-para-podcast",
+    "url": "/blog/microfone-para-podcast",
+    "palavraChave": "microfone para podcast",
+    "palavrasSecundarias": [
+      "acústica de estúdio",
+      "áudio de podcast",
+      "microfone dinâmico"
+    ],
+    "pergunta": "Que microfone e acústica um podcast profissional precisa?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/chroma-key-estudio-guia",
+      "ancora": "chroma key"
+    },
+    "irmaos": [
+      "/blog/gravacao-de-videoaula",
+      "/blog/aluguel-de-estudio-de-gravacao-sp"
+    ],
+    "servico": "/estudio-chroma-key",
+    "servicoNome": "Estúdio e chroma key",
+    "servicoFormulario": "Estúdio e chroma key",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 6
+  },
+  {
+    "id": "P10",
+    "tipo": "pilar",
+    "pilar": 10,
+    "titulo": "Como contratar uma produtora audiovisual em São Paulo",
+    "slug": "como-contratar-produtora-audiovisual",
+    "url": "/blog/como-contratar-produtora-audiovisual",
+    "palavraChave": "como escolher produtora de vídeo",
+    "palavrasSecundarias": [
+      "produtora audiovisual São Paulo",
+      "contratar produtora de vídeo",
+      "produtora de vídeo para empresas",
+      "orçamento de vídeo"
+    ],
+    "pergunta": "Como escolher e contratar a produtora audiovisual certa para a empresa?",
+    "formato": "Pilar",
+    "palavras": "2000-2500",
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "servicosExtras": [
+      "/video-institucional",
+      "/filmagem-de-eventos-corporativos"
+    ],
+    "complementares": [
+      "/blog/quanto-custa-um-video-para-empresa",
+      "/blog/produtora-de-video-sao-paulo",
+      "/blog/briefing-de-video",
+      "/blog/produtora-ou-freelancer-de-video",
+      "/blog/etapas-da-producao-audiovisual",
+      "/blog/contrato-de-producao-audiovisual",
+      "/blog/direito-de-imagem-em-video",
+      "/blog/prazo-de-producao-de-video",
+      "/blog/como-produzir-video-de-case",
+      "/blog/video-para-linkedin-empresa"
+    ],
+    "pilaresRelacionados": [
+      "/blog/video-institucional-guia-completo",
+      "/blog/filmagem-de-eventos-corporativos-guia"
+    ],
+    "cta": {
+      "meio": true,
+      "fim": true
+    },
+    "onda": 1
+  },
+  {
+    "id": "10.1",
+    "tipo": "complementar",
+    "pilar": 10,
+    "titulo": "Quanto custa um vídeo para empresa: valores por tipo",
+    "slug": "quanto-custa-um-video-para-empresa",
+    "url": "/blog/quanto-custa-um-video-para-empresa",
+    "palavraChave": "quanto custa um vídeo para empresa",
+    "palavrasSecundarias": [
+      "preço de vídeo empresarial",
+      "tabela de preços de vídeo",
+      "orçamento de produtora"
+    ],
+    "pergunta": "Quanto custa um vídeo para empresa, por tipo de projeto?",
+    "formato": "Preço",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/como-contratar-produtora-audiovisual",
+      "ancora": "como escolher produtora de vídeo"
+    },
+    "irmaos": [
+      "/blog/video-para-linkedin-empresa",
+      "/blog/produtora-de-video-sao-paulo"
+    ],
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "10.2",
+    "tipo": "complementar",
+    "pilar": 10,
+    "titulo": "Como escolher uma produtora de vídeo em São Paulo",
+    "slug": "produtora-de-video-sao-paulo",
+    "url": "/blog/produtora-de-video-sao-paulo",
+    "palavraChave": "produtora de vídeo São Paulo",
+    "palavrasSecundarias": [
+      "melhor produtora de vídeo",
+      "critérios para escolher produtora",
+      "portfólio de produtora"
+    ],
+    "pergunta": "Quais critérios usar para escolher uma produtora em São Paulo?",
+    "formato": "Comparação",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/como-contratar-produtora-audiovisual",
+      "ancora": "como escolher produtora de vídeo"
+    },
+    "irmaos": [
+      "/blog/quanto-custa-um-video-para-empresa",
+      "/blog/briefing-de-video"
+    ],
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "10.3",
+    "tipo": "complementar",
+    "pilar": 10,
+    "titulo": "Briefing de vídeo: modelo para preencher",
+    "slug": "briefing-de-video",
+    "url": "/blog/briefing-de-video",
+    "palavraChave": "briefing de vídeo",
+    "palavrasSecundarias": [
+      "modelo de briefing",
+      "briefing audiovisual",
+      "o que informar à produtora"
+    ],
+    "pergunta": "O que um briefing de vídeo precisa conter?",
+    "formato": "Modelo",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/como-contratar-produtora-audiovisual",
+      "ancora": "como escolher produtora de vídeo"
+    },
+    "irmaos": [
+      "/blog/produtora-de-video-sao-paulo",
+      "/blog/produtora-ou-freelancer-de-video"
+    ],
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "10.4",
+    "tipo": "complementar",
+    "pilar": 10,
+    "titulo": "Produtora, freelancer ou agência: quem contratar",
+    "slug": "produtora-ou-freelancer-de-video",
+    "url": "/blog/produtora-ou-freelancer-de-video",
+    "palavraChave": "produtora ou freelancer de vídeo",
+    "palavrasSecundarias": [
+      "agência ou produtora",
+      "videomaker freelancer",
+      "diferença produtora e agência"
+    ],
+    "pergunta": "Quando contratar produtora, freelancer ou agência?",
+    "formato": "Comparação",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/como-contratar-produtora-audiovisual",
+      "ancora": "como escolher produtora de vídeo"
+    },
+    "irmaos": [
+      "/blog/briefing-de-video",
+      "/blog/etapas-da-producao-audiovisual"
+    ],
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 2
+  },
+  {
+    "id": "10.5",
+    "tipo": "complementar",
+    "pilar": 10,
+    "titulo": "Pré-produção, produção e pós-produção: o que é cada etapa",
+    "slug": "etapas-da-producao-audiovisual",
+    "url": "/blog/etapas-da-producao-audiovisual",
+    "palavraChave": "etapas da produção audiovisual",
+    "palavrasSecundarias": [
+      "pré-produção",
+      "pós-produção",
+      "fluxo de produção de vídeo"
+    ],
+    "pergunta": "Quais são as etapas de uma produção audiovisual?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/como-contratar-produtora-audiovisual",
+      "ancora": "como escolher produtora de vídeo"
+    },
+    "irmaos": [
+      "/blog/produtora-ou-freelancer-de-video",
+      "/blog/contrato-de-producao-audiovisual"
+    ],
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "10.6",
+    "tipo": "complementar",
+    "pilar": 10,
+    "titulo": "Contrato de produção audiovisual: cláusulas essenciais",
+    "slug": "contrato-de-producao-audiovisual",
+    "url": "/blog/contrato-de-producao-audiovisual",
+    "palavraChave": "contrato de produção audiovisual",
+    "palavrasSecundarias": [
+      "contrato de vídeo",
+      "cessão de direitos",
+      "cláusulas de produtora"
+    ],
+    "pergunta": "Quais cláusulas não podem faltar no contrato com a produtora?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/como-contratar-produtora-audiovisual",
+      "ancora": "como escolher produtora de vídeo"
+    },
+    "irmaos": [
+      "/blog/etapas-da-producao-audiovisual",
+      "/blog/direito-de-imagem-em-video"
+    ],
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "10.7",
+    "tipo": "complementar",
+    "pilar": 10,
+    "titulo": "Direito de imagem em vídeos corporativos",
+    "slug": "direito-de-imagem-em-video",
+    "url": "/blog/direito-de-imagem-em-video",
+    "palavraChave": "direito de imagem em vídeo",
+    "palavrasSecundarias": [
+      "termo de autorização de imagem",
+      "LGPD em vídeo",
+      "uso de imagem de clientes"
+    ],
+    "pergunta": "Como funciona o direito de imagem em vídeos de empresas?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/como-contratar-produtora-audiovisual",
+      "ancora": "como escolher produtora de vídeo"
+    },
+    "irmaos": [
+      "/blog/contrato-de-producao-audiovisual",
+      "/blog/prazo-de-producao-de-video"
+    ],
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "10.8",
+    "tipo": "complementar",
+    "pilar": 10,
+    "titulo": "Quanto tempo leva para produzir um vídeo",
+    "slug": "prazo-de-producao-de-video",
+    "url": "/blog/prazo-de-producao-de-video",
+    "palavraChave": "prazo de produção de vídeo",
+    "palavrasSecundarias": [
+      "cronograma de vídeo",
+      "tempo de edição",
+      "prazo de entrega"
+    ],
+    "pergunta": "Quanto tempo leva, do briefing à entrega, para produzir um vídeo?",
+    "formato": "Conceito",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/como-contratar-produtora-audiovisual",
+      "ancora": "como escolher produtora de vídeo"
+    },
+    "irmaos": [
+      "/blog/direito-de-imagem-em-video",
+      "/blog/como-produzir-video-de-case"
+    ],
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "10.9",
+    "tipo": "complementar",
+    "pilar": 10,
+    "titulo": "Vídeo de case com depoimento de cliente: como produzir",
+    "slug": "como-produzir-video-de-case",
+    "url": "/blog/como-produzir-video-de-case",
+    "palavraChave": "como produzir vídeo de case",
+    "palavrasSecundarias": [
+      "case em vídeo",
+      "prova social em vídeo",
+      "testemunho de cliente"
+    ],
+    "pergunta": "Como produzir um vídeo de case com depoimento de cliente?",
+    "formato": "Como fazer",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/como-contratar-produtora-audiovisual",
+      "ancora": "como escolher produtora de vídeo"
+    },
+    "irmaos": [
+      "/blog/prazo-de-producao-de-video",
+      "/blog/video-para-linkedin-empresa"
+    ],
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  },
+  {
+    "id": "10.10",
+    "tipo": "complementar",
+    "pilar": 10,
+    "titulo": "Vídeos para o LinkedIn da empresa: formatos e frequência",
+    "slug": "video-para-linkedin-empresa",
+    "url": "/blog/video-para-linkedin-empresa",
+    "palavraChave": "vídeo para LinkedIn empresa",
+    "palavrasSecundarias": [
+      "vídeo no LinkedIn",
+      "conteúdo B2B em vídeo",
+      "LinkedIn para empresas"
+    ],
+    "pergunta": "Que vídeos a empresa deve publicar no LinkedIn e com que frequência?",
+    "formato": "Uso",
+    "palavras": "600-800",
+    "linkPilar": {
+      "url": "/blog/como-contratar-produtora-audiovisual",
+      "ancora": "como escolher produtora de vídeo"
+    },
+    "irmaos": [
+      "/blog/como-produzir-video-de-case",
+      "/blog/quanto-custa-um-video-para-empresa"
+    ],
+    "servico": "/orcamento",
+    "servicoNome": "Orçamento",
+    "servicoFormulario": "Outro",
+    "cta": {
+      "meio": false,
+      "fim": true
+    },
+    "onda": 4
+  }
+]
