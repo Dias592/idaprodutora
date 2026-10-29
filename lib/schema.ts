@@ -144,3 +144,25 @@ export const listaVideos = (videos: Parameters<typeof video>[0][]): JsonLd => ({
   "@type": "ItemList",
   itemListElement: videos.map((v, i) => ({ "@type": "ListItem", position: i + 1, item: video(v) })),
 });
+
+/** Página genérica (institucionais): AboutPage, CollectionPage, ContactPage, WebPage. */
+export const pagina = (p: { tipo: "AboutPage" | "CollectionPage" | "ContactPage" | "WebPage"; nome: string; url: string; descricao: string; extra?: JsonLd }): JsonLd => ({
+  "@type": p.tipo,
+  "@id": `${SITE}${p.url}#pagina`,
+  name: p.nome,
+  url: `${SITE}${p.url}`,
+  description: p.descricao,
+  inLanguage: "pt-BR",
+  isPartOf: { "@id": `${SITE}/#website` },
+  about: { "@id": ORG_ID },
+  ...(p.extra ?? {}),
+});
+
+export const pessoa = (p: { nome: string; cargo: string; url: string }): JsonLd => ({
+  "@type": "Person",
+  "@id": `${SITE}${p.url}#${p.nome.toLowerCase().replace(/\s+/g, "-")}`,
+  name: p.nome,
+  jobTitle: p.cargo,
+  url: `${SITE}${p.url}`,
+  worksFor: { "@id": ORG_ID },
+});
