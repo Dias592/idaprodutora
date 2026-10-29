@@ -134,7 +134,7 @@ export function FormularioWhatsApp({
       <div className="col-span-full flex flex-col gap-3">
         <button
           type="submit"
-          className="inline-flex min-h-14 items-center justify-center gap-2.5 rounded-ida bg-accent px-7 text-base font-bold text-accent-contrast transition hover:brightness-110"
+          className="inline-flex min-h-14 items-center justify-center gap-2.5 rounded-ida bg-accent px-7 text-[19px] font-bold text-accent-contrast transition hover:brightness-90"
         >
           <IconeWhatsApp />
           Enviar pelo WhatsApp
@@ -175,7 +175,7 @@ export function CtaWhatsApp({
         }}
         target="_blank"
         rel="noopener"
-        className="inline-flex min-h-[52px] items-center justify-center gap-2.5 self-start rounded-ida bg-accent px-7 text-[15px] font-bold text-accent-contrast no-underline transition hover:brightness-110"
+        className="inline-flex min-h-[52px] items-center justify-center gap-2.5 self-start rounded-ida bg-accent px-7 text-[19px] font-bold text-accent-contrast no-underline transition hover:brightness-90"
       >
         <IconeWhatsApp />
         Pedir orçamento pelo WhatsApp
@@ -196,7 +196,7 @@ export function BotaoWhatsAppFlutuante() {
       target="_blank"
       rel="noopener"
       aria-label="Falar com a IDA no WhatsApp"
-      className="fixed right-4 bottom-4 z-50 flex size-[60px] items-center justify-center rounded-full bg-accent text-accent-contrast shadow-lg transition hover:brightness-110 sm:right-6 sm:bottom-6"
+      className="fixed right-4 bottom-4 z-50 flex size-[60px] items-center justify-center rounded-full bg-accent text-accent-contrast shadow-lg transition hover:brightness-90 sm:right-6 sm:bottom-6"
     >
       <IconeWhatsApp tamanho={28} />
     </a>

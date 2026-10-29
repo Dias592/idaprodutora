@@ -11,7 +11,7 @@ Referência visual aprovada: `design/home-referencia.html` e `design/servico-ref
 | `text` | `#FFFFFF` | Texto principal |
 | `muted` | `#D9D9D9` | Texto secundário, legendas |
 | `accent` | `#FF4D1A` | CTAs, play do logo, barra sob títulos, ícones de destaque |
-| `accent-contrast` | `#0B0B0B` | Texto **dentro** de botão laranja (branco no laranja reprova em contraste) |
+| `accent-contrast` | `#FFFFFF` | Texto **dentro** de botão laranja. Branco no laranja dá 3,3:1: só passa como texto grande, então botões laranja usam **19 px em negrito** e hover escurece (`brightness-90`), nunca clareia |
 | `bg-light` | `#D9D9D9` | Seções claras, se usadas |
 | `text-on-light` | `#0B0B0B` / secundário `#2A2A2A` | Texto em seção clara |
 

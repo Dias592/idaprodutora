@@ -130,7 +130,7 @@ export function Header() {
             }}
             target="_blank"
             rel="noopener"
-            className="hidden min-h-11 items-center gap-2.5 rounded-ida bg-accent px-5 text-sm font-bold text-accent-contrast no-underline transition hover:brightness-110 sm:inline-flex"
+            className="hidden min-h-11 items-center gap-2.5 rounded-ida bg-accent px-5 text-[19px] font-bold text-accent-contrast no-underline transition hover:brightness-90 sm:inline-flex"
           >
             <IconeWhatsApp tamanho={18} />
             Orçamento pelo WhatsApp

@@ -44,8 +44,8 @@ export function TituloSecao({
 
 type Variante = "primario" | "secundario";
 const estilosBotao: Record<Variante, string> = {
-  primario: "bg-accent text-accent-contrast font-bold hover:brightness-110",
-  secundario: "border border-muted text-text font-semibold hover:bg-surface",
+  primario: "bg-accent text-accent-contrast text-[19px] font-bold hover:brightness-90",
+  secundario: "border border-muted text-text text-[19px] font-semibold hover:bg-surface",
 };
 
 export function Botao({
@@ -56,7 +56,7 @@ export function Botao({
   ...props
 }: { href: string; variante?: Variante } & Omit<ComponentProps<"a">, "href">) {
   const classes = cx(
-    "inline-flex min-h-[52px] items-center justify-center gap-2.5 rounded-ida px-7 text-[15px] no-underline transition",
+    "inline-flex min-h-[52px] items-center justify-center gap-2.5 rounded-ida px-7 no-underline transition",
     estilosBotao[variante],
     className,
   );
