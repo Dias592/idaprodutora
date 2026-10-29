@@ -1,25 +1,84 @@
 ---
-id: "3.5"
-tipo: "complementar"
-status: "planejado"
-titulo: "Internet para live: link dedicado, 4G ou 5G"
-metaTitle: ""
-metaDescription: ""
-palavraChave: "internet para transmissão ao vivo"
-palavrasSecundarias: ["link dedicado", "velocidade de upload para live", "bonding 4G"]
-pergunta: "Qual internet é necessária para uma transmissão ao vivo estável?"
-formato: "Comparação"
-palavras: "600-800"
+id: '3.5'
+tipo: complementar
+status: publicado
+titulo: 'Internet para live: link dedicado, 4G ou 5G'
+metaTitle: 'Internet para transmissão ao vivo: link dedicado, 4G ou 5G'
+metaDescription: >-
+  Qual internet para transmissão ao vivo usar: compare link dedicado, Wi-Fi do
+  evento, 4G e 5G, entenda o upload necessário e como testar.
+palavraChave: internet para transmissão ao vivo
+palavrasSecundarias:
+  - link dedicado
+  - velocidade de upload para live
+  - bonding 4G
+pergunta: Qual internet é necessária para uma transmissão ao vivo estável?
+formato: Comparação
+palavras: 600-800
 pilar: 3
-servico: "/transmissao-ao-vivo"
-servicoFormulario: "Transmissão ao vivo"
+servico: /transmissao-ao-vivo
+servicoFormulario: Transmissão ao vivo
 onda: 2
-autor: "Ivan Dias"
-publishedAt: ""
-updatedAt: ""
-capa: ""
-linkPilar: "/blog/transmissao-ao-vivo-de-eventos-guia"
-irmaos: ["/blog/plataforma-para-transmissao-ao-vivo", "/blog/checklist-live-corporativa"]
+autor: Ivan Dias
+publishedAt: '2026-10-29'
+updatedAt: '2026-10-29'
+capa: ''
+linkPilar: /blog/transmissao-ao-vivo-de-eventos-guia
+irmaos:
+  - /blog/plataforma-para-transmissao-ao-vivo
+  - /blog/checklist-live-corporativa
 ---
+<RespostaDireta>
+A internet para transmissão ao vivo precisa ter upload estável, e não só velocidade alta no papel. O mais seguro é um link dedicado e cabeado, usado só pela transmissão. Conexões 4G e 5G, combinadas em equipamentos de agregação (bonding), funcionam como reserva ou em locais sem cabo. O Wi-Fi compartilhado com o público não é confiável.
+</RespostaDireta>
 
-{/* Escrever seguindo templates/complementar.mdx e docs/06-blog.md */}
+A conexão é o ponto mais crítico do guia de [transmissão ao vivo de eventos](/blog/transmissao-ao-vivo-de-eventos-guia).
+
+## Comparação das conexões
+
+| Conexão | Estabilidade | Quando usar | Atenção |
+| --- | --- | --- | --- |
+| Link dedicado cabeado | Alta | Principal opção em qualquer evento | Contratar com antecedência junto ao local |
+| Internet cabeada compartilhada | Média | Escritórios com rede bem dimensionada | Outros usuários consomem banda |
+| Wi-Fi do evento | Baixa | Não recomendado | Dividido com o público |
+| 4G/5G com bonding | Média | Reserva ou locais sem cabo | Sinal cai quando o público chega |
+| Um único chip 4G/5G | Baixa | Só emergência | Oscila muito |
+
+## Por que o upload importa mais
+
+Na internet doméstica, a velocidade anunciada é quase sempre de download, para receber conteúdo. Na transmissão ao vivo, o que importa é o upload, a velocidade de envio. É ele que leva o vídeo das câmeras até o YouTube, o Zoom ou o Teams.
+
+Além da velocidade, a estabilidade conta. Uma conexão que oscila derruba a qualidade da imagem ou interrompe a transmissão. Por isso, a velocidade de upload real medida no local precisa ter folga em relação à taxa configurada no encoder, o equipamento que envia o vídeo.
+
+## Link dedicado: o que é e como contratar
+
+Link dedicado é uma conexão exclusiva, entregue por cabo, com velocidade garantida, usada só pela transmissão. Em centros de eventos, hotéis e auditórios, costuma ser contratado com o próprio local ou com o provedor indicado por ele, com alguns dias de antecedência. Em escritórios, pode ser uma linha separada da rede corporativa.
+
+Peça a velocidade de upload garantida, o tipo de entrega (cabo até a mesa de transmissão) e um contato técnico para o dia do evento.
+
+## Bonding 4G e 5G como reserva
+
+O bonding combina vários chips de operadoras diferentes em um único equipamento, somando as conexões. Se uma operadora cai, as outras seguem transmitindo. É uma ótima reserva para o link dedicado e uma alternativa em locais sem infraestrutura de cabo, como eventos ao ar livre.
+
+O limite é o sinal: quando milhares de pessoas chegam ao evento e usam o celular, as redes móveis ficam congestionadas. Por isso, o teste com 4G e 5G deve considerar o local cheio, não vazio.
+
+## Como testar a internet antes do evento
+
+1. Visite o local e meça o upload real, no ponto onde ficará a mesa de transmissão.
+2. Repita o teste no mesmo horário do evento, se possível.
+3. Faça uma transmissão de teste em modo privado, por pelo menos alguns minutos.
+4. Defina a conexão de reserva e como trocar de uma para outra.
+5. No dia, teste tudo de novo antes da abertura.
+
+Depois da internet, a escolha da <LinkArtigo url="/blog/plataforma-para-transmissao-ao-vivo">plataforma para transmissão ao vivo</LinkArtigo> e o <LinkArtigo url="/blog/checklist-live-corporativa">checklist técnico da live corporativa</LinkArtigo> completam a preparação. Para operar a transmissão com testes e contingência, conheça o serviço de [transmissão ao vivo de eventos em SP](/transmissao-ao-vivo).
+
+## Perguntas frequentes
+
+<Faq itens={[
+  { pergunta: "Posso usar o Wi-Fi do evento para transmitir?", resposta: "Não é recomendado. O Wi-Fi é dividido com o público e não garante o upload estável que a transmissão precisa." },
+  { pergunta: "O que é link dedicado?", resposta: "É uma conexão exclusiva, por cabo, com velocidade garantida, usada só pela transmissão. Costuma ser contratada com o local do evento." },
+  { pergunta: "4G ou 5G serve para live?", resposta: "Serve como reserva, de preferência com bonding de várias operadoras. Como conexão principal, depende muito do sinal no local cheio." },
+  { pergunta: "Como saber se a internet aguenta a transmissão?", resposta: "Medindo o upload real no local, fazendo uma transmissão de teste e mantendo folga em relação à taxa configurada no encoder." }
+]} />
+
+<CtaWhatsApp servico="Transmissão ao vivo" />
