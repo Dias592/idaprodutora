@@ -100,11 +100,12 @@ export const comoFazer = (nome: string, passos: { nome: string; texto: string }[
 
 export const video = (v: {
   titulo: string; descricao: string; youtubeId: string; dataUpload: string; duracao: string;
+  thumbnail?: string; // "maxresdefault" (padrão) ou "sddefault" quando o vídeo não tem maxres
 }): JsonLd => ({
   "@type": "VideoObject",
   name: v.titulo,
   description: v.descricao,
-  thumbnailUrl: `https://i.ytimg.com/vi/${v.youtubeId}/maxresdefault.jpg`,
+  thumbnailUrl: `https://i.ytimg.com/vi/${v.youtubeId}/${v.thumbnail ?? "maxresdefault"}.jpg`,
   uploadDate: v.dataUpload,
   duration: v.duracao,
   embedUrl: `https://www.youtube-nocookie.com/embed/${v.youtubeId}`,

@@ -8,11 +8,12 @@
     ],
     "home": true,
     "showreel": null,
-    "youtubeId": "[PREENCHER]",
-    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
-    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "youtubeId": "-04hqqouNAc",
+    "duracao": "PT1M20S",
+    "dataUpload": "2026-10-29",
     "orientacao": "horizontal",
-    "proporcao": "original"
+    "proporcao": "original",
+    "thumbnail": "maxresdefault"
   },
   {
     "arquivo": "Chandon.mov",
@@ -23,11 +24,12 @@
     ],
     "home": true,
     "showreel": null,
-    "youtubeId": "[PREENCHER]",
-    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
-    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "youtubeId": "JLq77bfNIbM",
+    "duracao": "PT1M44S",
+    "dataUpload": "2026-10-29",
     "orientacao": "horizontal",
-    "proporcao": "original"
+    "proporcao": "original",
+    "thumbnail": "sddefault"
   },
   {
     "arquivo": "Convenção de Vendas Vert.mp4",
@@ -39,11 +41,12 @@
     "home": true,
     "showreel": 2,
     "logoCliente": "BR AUTO PARTS.png",
-    "youtubeId": "[PREENCHER]",
-    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
-    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "youtubeId": "uQlR_yrRtg4",
+    "duracao": "PT3M56S",
+    "dataUpload": "2026-10-29",
     "orientacao": "horizontal",
-    "proporcao": "original"
+    "proporcao": "original",
+    "thumbnail": "maxresdefault"
   },
   {
     "arquivo": "Feira Automec.mov",
@@ -54,11 +57,12 @@
     ],
     "home": true,
     "showreel": 1,
-    "youtubeId": "[PREENCHER]",
-    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
-    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "youtubeId": "gQNtsJPVixI",
+    "duracao": "PT1M24S",
+    "dataUpload": "2026-10-29",
     "orientacao": "horizontal",
-    "proporcao": "original"
+    "proporcao": "original",
+    "thumbnail": "maxresdefault"
   },
   {
     "arquivo": "Mam - Museu de arte moderna de São Paulo.mp4",
@@ -67,11 +71,12 @@
     "servicos": [],
     "home": true,
     "showreel": 3,
-    "youtubeId": "[PREENCHER]",
-    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
-    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "youtubeId": "_CEawfcPbvA",
+    "duracao": "PT59S",
+    "dataUpload": "2026-10-29",
     "orientacao": "horizontal",
-    "proporcao": "original"
+    "proporcao": "original",
+    "thumbnail": "maxresdefault"
   },
   {
     "arquivo": "Caioba - Jogo das Estrelas.mov",
@@ -82,11 +87,12 @@
     ],
     "home": true,
     "showreel": null,
-    "youtubeId": "[PREENCHER]",
-    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
-    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "youtubeId": "r4eWMERZpE0",
+    "duracao": "PT1M17S",
+    "dataUpload": "2026-10-29",
     "orientacao": "horizontal",
-    "proporcao": "original"
+    "proporcao": "original",
+    "thumbnail": "maxresdefault"
   },
   {
     "arquivo": "Confraternização Barcellos Tucunduva e BT LAW Final.mp4",
@@ -97,11 +103,12 @@
     ],
     "home": false,
     "showreel": null,
-    "youtubeId": "[PREENCHER]",
-    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
-    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "youtubeId": "cLJQHmT3qls",
+    "duracao": "PT1M27S",
+    "dataUpload": "2026-10-29",
     "orientacao": "horizontal",
-    "proporcao": "original"
+    "proporcao": "original",
+    "thumbnail": "maxresdefault"
   },
   {
     "arquivo": "Caioba - Bio Ritmo.mov",
@@ -110,10 +117,11 @@
     "servicos": [],
     "home": false,
     "showreel": null,
-    "youtubeId": "[PREENCHER]",
-    "duracao": "[PREENCHER: ISO 8601, ex. PT1M30S]",
-    "dataUpload": "[PREENCHER: AAAA-MM-DD]",
+    "youtubeId": "hdpxg15PzyY",
+    "duracao": "PT40S",
+    "dataUpload": "2026-10-29",
     "orientacao": "horizontal",
-    "proporcao": "original"
+    "proporcao": "original",
+    "thumbnail": "maxresdefault"
   }
 ]
