@@ -1,86 +1,11 @@
-// Fonte única de dados do site: data/*.json + content/**/*.mdx.
-// Nunca reescreva títulos, slugs ou palavras-chave aqui — edite os arquivos de data/ ou o frontmatter.
+// Leitura de content/**/*.mdx (só no servidor). Reexporta os dados de lib/dados.ts.
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 
-import servicosJson from "@/data/servicos.json";
-import locaisJson from "@/data/locais.json";
-import blogPlanJson from "@/data/blog-plan.json";
-import videosJson from "@/data/videos.json";
-import clientesJson from "@/data/clientes.json";
+import { blogPlano, type ArtigoPlano } from "@/lib/dados";
 
-export type Servico = {
-  url: string;
-  nome: string;
-  grupo: "Vídeo" | "Eventos" | "Estúdio e Foto" | null;
-  prioridade: string;
-  h1: string;
-  title: string;
-  description: string;
-  palavraChave: string;
-  secundarias: string[];
-  servicoFormulario: string;
-  faq: string[];
-  relacionados: string[];
-  pilar: number | null;
-  leiaNoBlog: { pilar?: string; complementares?: string[]; pilares?: string[] };
-};
-
-export type Local = {
-  url: string;
-  tipo: "regiao" | "centro";
-  nome: string;
-  h1: string;
-  palavraChave: string;
-  servicoPrincipal: string;
-  servicosSecundarios: string[];
-  [extra: string]: unknown;
-};
-
-export type ArtigoPlano = {
-  id: string;
-  tipo: "pilar" | "complementar";
-  pilar: number;
-  titulo: string;
-  slug: string;
-  url: string;
-  palavraChave: string;
-  palavrasSecundarias: string[];
-  pergunta: string;
-  formato: string;
-  palavras: string;
-  servico: string;
-  servicoNome: string;
-  servicoFormulario: string;
-  onda: number;
-  complementares?: string[];
-  pilaresRelacionados?: string[];
-  linkPilar?: { url: string; ancora: string };
-  irmaos?: string[];
-  [extra: string]: unknown;
-};
-
-export type Video = (typeof videosJson)[number];
-export type Cliente = (typeof clientesJson)[number];
-
-export const servicos = servicosJson as Servico[];
-export const paginasServico = servicos.filter((s) => s.url !== "/");
-export const home = servicos.find((s) => s.url === "/")!;
-export const locais = locaisJson as Local[];
-export const blogPlano = blogPlanJson as ArtigoPlano[];
-export const videos = videosJson;
-export const clientes = [...clientesJson].sort((a, b) => a.ordem - b.ordem);
-
-export const PAGINAS_INSTITUCIONAIS = [
-  "/sobre",
-  "/portfolio",
-  "/clientes",
-  "/orcamento",
-  "/contato",
-  "/politica-de-privacidade",
-  "/termos",
-] as const;
+export * from "@/lib/dados";
 
 // ---------- MDX ----------
 
