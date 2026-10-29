@@ -12,10 +12,10 @@ Todos na **horizontal, na proporção original, sem recorte** (`object-fit: cont
 | Chandon.mov | Chandon · Vídeo institucional | Portfólio da home; /video-institucional |
 | Convenção de Vendas Vert.mp4 | Vert · Convenção de vendas | Portfólio da home; /filmagem-de-eventos-corporativos; showreel |
 | Feira Automec.mov | Automec · Feira de negócios | Portfólio da home; /filmagem-de-eventos-corporativos; showreel |
-| Mam - Museu de arte moderna de São Paulo.mp4 | MAM São Paulo · [PREENCHER: tipo de projeto] | Portfólio da home; showreel |
+| Mam - Museu de arte moderna de São Paulo.mp4 | MAM São Paulo · Feira no museu | Portfólio da home; showreel |
 | Caioba - Jogo das Estrelas.mov | Caioba Soccer Camp · Jogo das Estrelas | Portfólio da home; /video-memoria-aftermovie |
 | Confraternização Barcellos Tucunduva e BT LAW Final.mp4 | Barcellos Tucunduva e BT LAW · Confraternização | /portfolio; artigo "vídeo de confraternização" |
-| Caioba - Bio Ritmo.mov | Caioba · Bio Ritmo | /portfolio |
+| Caioba - Bio Ritmo.mov | Bio Ritmo · Ação institucional na Caioba Soccer Camp | /portfolio |
 
 Arquivo de configuração: `data/videos.json` com `{ arquivo, cliente, projeto, servicos[], youtubeId: "[PREENCHER]", duracao: "[PREENCHER]", dataUpload: "[PREENCHER]" }`. O `VideoObject` usa esses campos.
 
@@ -39,6 +39,8 @@ ffmpeg -ss 00:00:10 -i "materiais/VIDEOS IDA PRODUTORA/Feira Automec.mov" -frame
 ```
 
 Se algum arquivo passar de 2 MB, subir o `-crf` de 2 em 2.
+
+**Cortes gerados (29/10/2026):** Automec `-ss 26` (estande com público), Vert `-ss 125` (brinde + pódio), MAM `-ss 36` (museu à noite + público). Usar `-map 0:v:0` (o .mov da Automec tem duas trilhas de vídeo). O .mp4 da Vert é vertical com rotação 90° no metadado; o ffmpeg já gira para 1920×1080.
 
 ## Logos de clientes (faixa "Quem já confiou")
 

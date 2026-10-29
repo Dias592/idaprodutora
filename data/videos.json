@@ -67,8 +67,10 @@
   {
     "arquivo": "Mam - Museu de arte moderna de São Paulo.mp4",
     "cliente": "MAM São Paulo",
-    "projeto": "[PREENCHER: tipo de projeto]",
-    "servicos": [],
+    "projeto": "Feira no museu",
+    "servicos": [
+      "/filmagem-de-eventos-corporativos"
+    ],
     "home": true,
     "showreel": 3,
     "youtubeId": "_CEawfcPbvA",
@@ -112,9 +114,11 @@
   },
   {
     "arquivo": "Caioba - Bio Ritmo.mov",
-    "cliente": "Caioba · Bio Ritmo",
-    "projeto": "[PREENCHER: tipo de projeto]",
-    "servicos": [],
+    "cliente": "Bio Ritmo",
+    "projeto": "Ação institucional na Caioba Soccer Camp",
+    "servicos": [
+      "/video-institucional"
+    ],
     "home": false,
     "showreel": null,
     "youtubeId": "hdpxg15PzyY",
