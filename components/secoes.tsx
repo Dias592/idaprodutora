@@ -191,7 +191,7 @@ export function Etapas({ etapas }: { etapas: { titulo: string; texto: string }[]
     <ol className="m-0 grid list-none grid-cols-[repeat(auto-fit,minmax(min(240px,100%),1fr))] gap-8 p-0">
       {etapas.map((e, i) => (
         <li key={e.titulo} className="flex flex-col gap-3 border-t border-surface pt-6">
-          <span className="text-sm font-bold text-accent">{String(i + 1).padStart(2, "0")}</span>
+          <span className="text-[19px] font-bold text-accent">{String(i + 1).padStart(2, "0")}</span>
           <h3 className="m-0 text-[19px] font-semibold">{e.titulo}</h3>
           <p className="m-0 text-[15px] leading-relaxed text-muted">{e.texto}</p>
         </li>
