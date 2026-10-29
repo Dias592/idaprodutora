@@ -2,10 +2,10 @@ import type { MetadataRoute } from "next";
 
 import { SITE } from "@/lib/schema";
 
-// Mesmas regras de seo/robots.txt.
+// Regras de seo/robots.txt. /styleguide não é citada: em produção ela responde 404.
 export default function robots(): MetadataRoute.Robots {
   return {
-    rules: { userAgent: "*", allow: "/", disallow: "/styleguide" },
+    rules: { userAgent: "*", allow: "/" },
     sitemap: `${SITE}/sitemap.xml`,
   };
 }

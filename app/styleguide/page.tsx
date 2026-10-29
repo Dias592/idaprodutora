@@ -1,5 +1,6 @@
-// Vitrine do design system (fase 1). Fora do índice: noindex + Disallow no robots.
+// Vitrine do design system (fase 1), só para desenvolvimento. Em produção responde 404.
 import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 
 import { Botao, Container, Eyebrow, IconeWhatsApp, TituloSecao } from "@/components/ui";
 import {
@@ -49,6 +50,9 @@ function Bloco({ nome, children }: { nome: string; children: React.ReactNode }) 
 }
 
 export default function Styleguide() {
+  // Página interna: só existe no `npm run dev`. No site publicado vira 404.
+  if (process.env.NODE_ENV === "production") notFound();
+
   const mahav = videos.find((v) => v.cliente === "Mahav")!;
   const pilar = blogPlano.find((a) => a.tipo === "pilar")!;
   const complementar = blogPlano.find((a) => a.tipo === "complementar")!;
