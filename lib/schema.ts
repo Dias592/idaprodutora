@@ -149,6 +149,27 @@ export const listaVideos = (videos: Parameters<typeof video>[0][]): JsonLd => ({
   itemListElement: videos.map((v, i) => ({ "@type": "ListItem", position: i + 1, item: video(v) })),
 });
 
+/** Galeria de fotos (ImageGallery com ImageObject), para o /portfolio. */
+export const galeriaImagens = (p: { nome: string; url: string; fotos: { id: string; alt: string; largura: number; altura: number }[] }): JsonLd => ({
+  "@type": "ImageGallery",
+  "@id": `${SITE}${p.url}#fotos`,
+  name: p.nome,
+  url: `${SITE}${p.url}`,
+  inLanguage: "pt-BR",
+  author: { "@id": ORG_ID },
+  image: p.fotos.map((f) => ({
+    "@type": "ImageObject",
+    contentUrl: `${SITE}/portfolio/fotos/ampliadas/${f.id}.webp`,
+    thumbnailUrl: `${SITE}/portfolio/fotos/${f.id}.webp`,
+    width: f.largura,
+    height: f.altura,
+    caption: f.alt,
+    creditText: "IDA Produtora Audiovisual",
+    copyrightNotice: "IDA Produtora Audiovisual",
+    creator: { "@id": ORG_ID },
+  })),
+});
+
 /** Página genérica (institucionais): AboutPage, CollectionPage, ContactPage, WebPage. */
 export const pagina = (p: { tipo: "AboutPage" | "CollectionPage" | "ContactPage" | "WebPage"; nome: string; url: string; descricao: string; extra?: JsonLd }): JsonLd => ({
   "@type": p.tipo,

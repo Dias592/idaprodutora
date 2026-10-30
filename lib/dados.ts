@@ -72,6 +72,8 @@ export const videos = videosJson;
 export type Foto = (typeof fotosJson)[number];
 /** Fotos de portfólio da home (versões otimizadas em public/portfolio/fotos, geradas por scripts/fotos-home.mjs). */
 export const fotosHome = fotosJson.filter((f) => f.home);
+/** Todas as fotos de portfólio, as da home primeiro (/portfolio). */
+export const fotosPortfolio = [...fotosHome, ...fotosJson.filter((f) => !f.home)];
 export const clientes = [...clientesJson].sort((a, b) => a.ordem - b.ordem);
 
 export const PAGINAS_INSTITUCIONAIS = [

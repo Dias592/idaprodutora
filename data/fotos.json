@@ -3,456 +3,608 @@
   "id": "foto-01",
   "arquivo": "HOME/Conv. Vend. 03-12-198.jpg",
   "alt": "Participantes atentos durante a convenção de vendas corporativa",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-02",
   "arquivo": "HOME/Conv. Vend. 03-12-204.jpg",
   "alt": "Participantes de camisa branca acompanhando a palestra na convenção de vendas",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-03",
   "arquivo": "HOME/Conv. Vend. 03-12-214.jpg",
   "alt": "Plateia aplaudindo durante a convenção de vendas corporativa",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-04",
   "arquivo": "HOME/Conv. Vend. 03-12-317.jpg",
   "alt": "Participantes em pé aplaudindo na convenção de vendas",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-05",
   "arquivo": "HOME/Conv. Vend. 03-12-366.jpg",
   "alt": "Apresentadores no palco diante do telão de LED da convenção de vendas",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-06",
   "arquivo": "HOME/Conv. Vend. 03-12-396.jpg",
   "alt": "Palestrante com microfone entre os participantes da convenção de vendas",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-07",
   "arquivo": "HOME/Conv. Vend. 03-12-411.jpg",
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-08",
   "arquivo": "HOME/Conv. Vend. 03-12-444.jpg",
   "alt": "Equipe completa reunida no palco para a foto oficial da convenção",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-09",
   "arquivo": "HOME/Conv. Vend. 03-12-448.jpg",
   "alt": "Salão da convenção de vendas visto do fundo, com plateia e telão",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-10",
   "arquivo": "HOME/Conv. Vend. 03-12-506.jpg",
   "alt": "Palestrante caminhando no palco com iluminação cênica",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-11",
   "arquivo": "HOME/Conv. Vend. 03-12-544.jpg",
   "alt": "Plateia levantando as mãos durante dinâmica da convenção de vendas",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-12",
   "arquivo": "HOME/Conv. Vend. 03-12-61.jpg",
   "alt": "Telão de boas-vindas na abertura da convenção de vendas",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-13",
   "arquivo": "HOME/Conv. Vend. 03-12-621.jpg",
   "alt": "Palestrante apresentando gráfico no telão da convenção",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-14",
   "arquivo": "HOME/Conv. Vend. 03-12-71.jpg",
   "alt": "Participantes em pé com iluminação verde no salão da convenção",
-  "home": true
+  "home": true,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-15",
   "arquivo": "HOME/Conv. Vend. 03-12-724.jpg",
   "alt": "Palestrante convidado no palco da convenção de vendas",
-  "home": true
+  "home": true,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-16",
   "arquivo": "HOME/Conv. Vend. 03-12-807.jpg",
   "alt": "Palestrante convidado no palco da convenção de vendas",
-  "home": true
+  "home": true,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-17",
   "arquivo": "Conv. Vend. 03-12-11.jpg",
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-18",
   "arquivo": "Conv. Vend. 03-12-12.jpg",
   "alt": "Equipe comemorando no palco durante a convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-19",
   "arquivo": "Conv. Vend. 03-12-15.jpg",
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-20",
   "arquivo": "Conv. Vend. 03-12-190.jpg",
   "alt": "Palestrante com microfone diante do telão da convenção",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-21",
   "arquivo": "Conv. Vend. 03-12-194.jpg",
   "alt": "Palestrante no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-22",
   "arquivo": "Conv. Vend. 03-12-197.jpg",
   "alt": "Salão da convenção de vendas com iluminação azul",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-23",
   "arquivo": "Conv. Vend. 03-12-202.jpg",
   "alt": "Participantes fazendo anotações durante a palestra",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-24",
   "arquivo": "Conv. Vend. 03-12-206.jpg",
   "alt": "Participante concentrado anotando durante a convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-25",
   "arquivo": "Conv. Vend. 03-12-208.jpg",
   "alt": "Detalhe de anotações em caderno durante a convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-26",
   "arquivo": "Conv. Vend. 03-12-210.jpg",
   "alt": "Apresentadora no púlpito conduzindo a convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-27",
   "arquivo": "Conv. Vend. 03-12-22.jpg",
   "alt": "Participantes em movimento na área de exposição, em foto de longa exposição",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-28",
   "arquivo": "Conv. Vend. 03-12-27.jpg",
   "alt": "Participantes caminhando para o salão da convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-29",
   "arquivo": "Conv. Vend. 03-12-313.jpg",
   "alt": "Participante falando ao microfone na plateia da convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-30",
   "arquivo": "Conv. Vend. 03-12-369.jpg",
   "alt": "Apresentadores no palco com telão de LED da convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-31",
   "arquivo": "Conv. Vend. 03-12-374.jpg",
   "alt": "Três apresentadores no palco diante do telão",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-32",
   "arquivo": "Conv. Vend. 03-12-377.jpg",
   "alt": "Estande de patrocinador na área de exposição do evento",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-33",
   "arquivo": "Conv. Vend. 03-12-378.jpg",
   "alt": "Área de exposição da convenção com bandeiras de patrocinadores",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-34",
   "arquivo": "Conv. Vend. 03-12-379.jpg",
   "alt": "Expositor de produtos na área de exposição do evento",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-35",
   "arquivo": "Conv. Vend. 03-12-380.jpg",
   "alt": "Bandeiras de patrocinadores na área de exposição da convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-36",
   "arquivo": "Conv. Vend. 03-12-381.jpg",
   "alt": "Túnel inflável de entrada na área de exposição do evento",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-37",
   "arquivo": "Conv. Vend. 03-12-382.jpg",
   "alt": "Expositor de produtos no hall da convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-38",
   "arquivo": "Conv. Vend. 03-12-414.jpg",
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-39",
   "arquivo": "Conv. Vend. 03-12-42.jpg",
   "alt": "Telão de boas-vindas ao lado do palco da convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-40",
   "arquivo": "Conv. Vend. 03-12-421.jpg",
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-41",
   "arquivo": "Conv. Vend. 03-12-423.jpg",
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-42",
   "arquivo": "Conv. Vend. 03-12-430.jpg",
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-43",
   "arquivo": "Conv. Vend. 03-12-437.jpg",
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-44",
   "arquivo": "Conv. Vend. 03-12-440.jpg",
   "alt": "Equipe reunida no palco diante do telão da convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-45",
   "arquivo": "Conv. Vend. 03-12-447.jpg",
   "alt": "Salão da convenção de vendas montado antes da abertura",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-46",
   "arquivo": "Conv. Vend. 03-12-462.jpg",
   "alt": "Participantes posando para foto durante a convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-47",
   "arquivo": "Conv. Vend. 03-12-469.jpg",
   "alt": "Participantes no coffee break da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-48",
   "arquivo": "Conv. Vend. 03-12-475.jpg",
   "alt": "Equipe posando na área de exposição da convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-49",
   "arquivo": "Conv. Vend. 03-12-476.jpg",
   "alt": "Palco e plateia da convenção de vendas com iluminação cênica azul",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-50",
   "arquivo": "Conv. Vend. 03-12-477.jpg",
   "alt": "Palestrante no palco apontando para o telão, visto do alto",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-51",
   "arquivo": "Conv. Vend. 03-12-479.jpg",
   "alt": "Palco e plateia da convenção de vendas com iluminação cênica azul",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-52",
   "arquivo": "Conv. Vend. 03-12-481.jpg",
   "alt": "Silhueta de participante diante do telão da convenção",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-53",
   "arquivo": "Conv. Vend. 03-12-494.jpg",
   "alt": "Palco e plateia da convenção de vendas com iluminação cênica azul",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-54",
   "arquivo": "Conv. Vend. 03-12-495.jpg",
   "alt": "Plateia da convenção de vendas vista do alto",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-55",
   "arquivo": "Conv. Vend. 03-12-499.jpg",
   "alt": "Palco e plateia da convenção de vendas com iluminação cênica azul",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-56",
   "arquivo": "Conv. Vend. 03-12-540.jpg",
   "alt": "Palestrante com microfone no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-57",
   "arquivo": "Conv. Vend. 03-12-542.jpg",
   "alt": "Palestrante com microfone no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-58",
   "arquivo": "Conv. Vend. 03-12-552.jpg",
   "alt": "Palestrante no palco com a plateia ao fundo",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-59",
   "arquivo": "Conv. Vend. 03-12-555.jpg",
   "alt": "Palestrante com microfone no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-60",
   "arquivo": "Conv. Vend. 03-12-64.jpg",
   "alt": "Palestrante no púlpito diante do telão da convenção",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-61",
   "arquivo": "Conv. Vend. 03-12-65.jpg",
   "alt": "Plateia da convenção com iluminação verde no salão",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-62",
   "arquivo": "Conv. Vend. 03-12-672.jpg",
   "alt": "Palestrante apresentando conteúdo digital no telão",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-63",
   "arquivo": "Conv. Vend. 03-12-673.jpg",
   "alt": "Palestrante circulando pelo palco durante a apresentação",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-64",
   "arquivo": "Conv. Vend. 03-12-696.jpg",
   "alt": "Momento de premiação no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-65",
   "arquivo": "Conv. Vend. 03-12-726.jpg",
   "alt": "Palestrante convidado no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-66",
   "arquivo": "Conv. Vend. 03-12-729.jpg",
   "alt": "Palestrante convidado no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-67",
   "arquivo": "Conv. Vend. 03-12-741.jpg",
   "alt": "Palestrante convidado diante do telão com sua trajetória",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-68",
   "arquivo": "Conv. Vend. 03-12-750.jpg",
   "alt": "Palestrante convidado no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-69",
   "arquivo": "Conv. Vend. 03-12-752.jpg",
   "alt": "Palestrante convidado no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-70",
   "arquivo": "Conv. Vend. 03-12-757.jpg",
   "alt": "Palestrante convidado no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  },
  {
   "id": "foto-71",
   "arquivo": "Conv. Vend. 03-12-78.jpg",
   "alt": "Plateia da convenção com a bandeira do Brasil no telão",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-72",
   "arquivo": "Conv. Vend. 03-12-783.jpg",
   "alt": "Palestrante convidado no palco com telão de apresentação",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-73",
   "arquivo": "Conv. Vend. 03-12-785.jpg",
   "alt": "Palestrante convidado apresentando no palco da convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-74",
   "arquivo": "Conv. Vend. 03-12-79.jpg",
   "alt": "Salão da convenção de vendas lotado visto do fundo",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-75",
   "arquivo": "Conv. Vend. 03-12-797.jpg",
   "alt": "Palestrante convidado gesticulando no palco da convenção",
-  "home": false
+  "home": false,
+  "largura": 1800,
+  "altura": 1200
  },
  {
   "id": "foto-76",
   "arquivo": "Conv. Vend. 03-12-91.jpg",
   "alt": "Palestrante com microfone no palco da convenção de vendas",
-  "home": false
+  "home": false,
+  "largura": 1200,
+  "altura": 1800
  }
 ]

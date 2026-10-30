@@ -1,4 +1,5 @@
 // Home (docs/02-paginas.md, ordem das seções; referência visual em design/home-referencia.html).
+import { GaleriaFotos } from "@/components/GaleriaFotos";
 import type { Metadata } from "next";
 
 import { Botao, Container, JsonLd, TituloSecao } from "@/components/ui";
@@ -7,7 +8,6 @@ import {
   Etapas,
   FaixaClientes,
   Faq,
-  GaleriaFotos,
   GradePortfolio,
   GradeServicos,
   Hero,
@@ -102,7 +102,14 @@ export default function Home() {
 
       <Secao id="portfolio" eyebrow="PORTFÓLIO" titulo="Histórias reais, em todos os ângulos" fundo="surface">
         <GradePortfolio videos={videos.filter((v) => v.home)} />
-        <GaleriaFotos titulo="Fotografia de eventos corporativos" fotos={fotosHome} />
+        <div className="mt-14">
+          <GaleriaFotos titulo="Fotografia de eventos corporativos" fotos={fotosHome} />
+        </div>
+        <div className="mt-10 flex justify-center">
+          <Botao href="/portfolio" variante="secundario">
+            Ver portfólio completo
+          </Botao>
+        </div>
       </Secao>
 
       <Secao id="como-funciona" eyebrow="COMO FUNCIONA" titulo="Do briefing à entrega, em 4 etapas">
