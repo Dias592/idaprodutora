@@ -58,8 +58,13 @@ export function pilaresPublicados(): ArtigoPlano[] {
   return blogPlano.filter((a) => a.tipo === "pilar" && publicados.has(a.slug));
 }
 
-/** Data ISO válida ou undefined (campos vazios ou [PREENCHER] são ignorados). */
+/** Data de hoje em São Paulo (AAAA-MM-DD), no momento do build. */
+export const hojeSP = (): string => new Date().toLocaleDateString("en-CA", { timeZone: "America/Sao_Paulo" });
+
+/** Data ISO válida ou undefined (campos vazios ou [PREENCHER] são ignorados). Nunca devolve data futura. */
 export function dataValida(valor: unknown): string | undefined {
   if (typeof valor !== "string" || !/^\d{4}-\d{2}-\d{2}/.test(valor)) return undefined;
-  return valor;
+  const data = valor.slice(0, 10);
+  const hoje = hojeSP();
+  return data > hoje ? hoje : data;
 }

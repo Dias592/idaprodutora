@@ -21,10 +21,12 @@ export function complementaresPublicados(numero: number): ArtigoPublicado[] {
   return publicados().filter((a) => a.plano.tipo === "complementar" && a.plano.pilar === numero);
 }
 
-export const dataArtigo = (a: ArtigoPublicado) => ({
-  publicado: dataValida(a.doc.frontmatter.publishedAt) ?? "",
-  atualizado: dataValida(a.doc.frontmatter.updatedAt) ?? dataValida(a.doc.frontmatter.publishedAt) ?? "",
-});
+export const dataArtigo = (a: ArtigoPublicado) => {
+  const publicado = dataValida(a.doc.frontmatter.publishedAt) ?? "";
+  const atualizado = dataValida(a.doc.frontmatter.updatedAt) ?? publicado;
+  // atualização nunca anterior à publicação
+  return { publicado, atualizado: atualizado && publicado && atualizado < publicado ? publicado : atualizado };
+};
 
 export const formatarData = (iso: string) => {
   const [a, m, d] = iso.split("-").map(Number);

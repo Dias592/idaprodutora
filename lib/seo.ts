@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 import { SITE } from "@/lib/schema";
 
-const IMAGEM_PADRAO = { url: "/brand/og-image.png", width: 1200, height: 630, alt: "IDA Produtora Audiovisual" };
+const IMAGEM_PADRAO = { url: "/brand/og-image.png", width: 1200, height: 630, type: "image/png", alt: "Logo da IDA Produtora Audiovisual" };
 
 type Opcoes = {
   titulo: string;
@@ -13,7 +13,7 @@ type Opcoes = {
   /** caminho relativo, ex.: /blog/briefing-de-video */
   caminho: string;
   tipo?: "website" | "article";
-  imagem?: { url: string; width: number; height: number; alt?: string } | null;
+  imagem?: { url: string; width: number; height: number; alt?: string; type?: string } | null;
   publicado?: string;
   atualizado?: string;
   secao?: string;
@@ -22,7 +22,7 @@ type Opcoes = {
 
 export function compartilhamento(o: Opcoes): Pick<Metadata, "openGraph" | "twitter"> {
   const url = `${SITE}${o.caminho}`;
-  const imagem = o.imagem ? { alt: o.titulo, ...o.imagem } : IMAGEM_PADRAO;
+  const imagem = o.imagem ? { alt: o.titulo, type: "image/webp", ...o.imagem } : IMAGEM_PADRAO;
   const base = {
     url,
     title: o.titulo,

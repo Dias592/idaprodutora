@@ -2,6 +2,7 @@
 // Junta um rascunho (frontmatter com metaTitle/metaDescription + corpo MDX) ao arquivo de content/blog/<slug>.mdx,
 // preservando o frontmatter do plano (títulos, slugs e palavras-chave não mudam) e marcando status "publicado".
 // O slug vem do nome do rascunho. Valida os limites de docs/03 (title até 60, description até 155).
+import { dataPermitida } from "./hoje-sp.mjs";
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
@@ -18,7 +19,7 @@ if (!fs.existsSync(destino)) throw new Error(`Não existe ${destino} (slug fora 
 
 const novo = matter(fs.readFileSync(rascunho, "utf8"));
 const atual = matter(fs.readFileSync(destino, "utf8"));
-const hoje = dataArg ?? new Date().toISOString().slice(0, 10);
+const hoje = dataPermitida(dataArg);
 
 const { metaTitle, metaDescription } = novo.data;
 const erros = [];

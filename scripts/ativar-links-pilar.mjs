@@ -2,11 +2,12 @@
 // Para cada complementar publicado, insere no pilar correspondente o link "Leia o guia completo: <título>"
 // no fim do H2 daquele complementar (docs/04: complementar publicado → pilar atualizado no mesmo commit).
 // Os H2 do pilar seguem a ordem de `complementares` no plano, depois do primeiro H2 (contexto).
+import { dataPermitida } from "./hoje-sp.mjs";
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 
-const hoje = process.argv[2] ?? new Date().toISOString().slice(0, 10);
+const hoje = dataPermitida(process.argv[2]);
 const plano = JSON.parse(fs.readFileSync("data/blog-plan.json", "utf8"));
 const status = (slug) => matter(fs.readFileSync(path.join("content/blog", `${slug}.mdx`), "utf8")).data.status;
 

@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { compartilhamento } from "@/lib/seo";
 import { Montserrat } from "next/font/google";
 
 import { SITE, grafo, organizacao } from "@/lib/schema";
@@ -24,21 +25,7 @@ export const metadata: Metadata = {
   description: home.description,
   applicationName: "IDA Produtora Audiovisual",
   alternates: { canonical: SITE },
-  openGraph: {
-    type: "website",
-    locale: "pt_BR",
-    siteName: "IDA Produtora Audiovisual",
-    url: SITE,
-    title: home.title,
-    description: home.description,
-    images: [{ url: "/brand/og-image.png", width: 1200, height: 630, alt: "IDA Produtora Audiovisual" }],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: home.title,
-    description: home.description,
-    images: ["/brand/og-image.png"],
-  },
+  ...compartilhamento({ titulo: home.title, descricao: home.description, caminho: "" }),
   formatDetection: { telephone: false },
 };
 
