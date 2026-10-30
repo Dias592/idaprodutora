@@ -4,6 +4,7 @@ import Link from "next/link";
 import { Container } from "@/components/ui";
 import { GRUPOS_MENU, servicoPorUrl } from "@/lib/catalogo";
 import { WHATSAPP_EXIBICAO, WHATSAPP_URL } from "@/lib/whatsapp";
+import { INSTAGRAM } from "@/lib/redes";
 
 const linkRodape = "inline-flex min-h-8 items-center text-text no-underline hover:text-accent";
 
@@ -31,9 +32,11 @@ export function Footer() {
           <a href={WHATSAPP_URL} target="_blank" rel="noopener" className={linkRodape}>
             WhatsApp {WHATSAPP_EXIBICAO}
           </a>
-          <a href="https://instagram.com/idaprodutora" target="_blank" rel="noopener" className={linkRodape}>
-            Instagram @idaprodutora
-          </a>
+          {INSTAGRAM && (
+            <a href={INSTAGRAM.url} target="_blank" rel="noopener" className={linkRodape}>
+              Instagram {INSTAGRAM.usuario}
+            </a>
+          )}
           <span className="inline-flex min-h-8 items-center text-muted">São Paulo e região</span>
           <p className="m-0 mt-4 mb-2 text-xs tracking-[0.2em] text-muted">A IDA</p>
           <Link href="/sobre" className={linkRodape}>Sobre</Link>

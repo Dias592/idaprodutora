@@ -1,6 +1,8 @@
 // Geradores de JSON-LD da IDA Produtora.
 // Uso: <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(grafo([...])) }} />
 
+import { perfisAtivos } from "@/lib/redes";
+
 export const SITE = "https://idaprodutora.com.br";
 export const ORG_ID = `${SITE}/#org`;
 export const WHATSAPP = "+55-11-95302-5177";
@@ -33,7 +35,7 @@ export const organizacao = (): JsonLd => ({
     availableLanguage: "pt-BR",
     url: "https://wa.me/5511953025177",
   },
-  sameAs: ["https://instagram.com/idaprodutora"],
+  ...(perfisAtivos().length ? { sameAs: perfisAtivos() } : {}),
   founder: { "@type": "Person", name: "Ivan Dias", url: `${SITE}/sobre` },
   knowsAbout: [
     "vídeo institucional", "filmagem de eventos corporativos", "transmissão ao vivo", "filmagem de shows",

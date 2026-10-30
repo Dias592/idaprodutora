@@ -1,15 +1,16 @@
-// /contato — WhatsApp, Instagram e área atendida (sem endereço de rua). ContactPage.
+// /contato — WhatsApp, redes (quando ativas em lib/redes.ts) e área atendida (sem endereço de rua). ContactPage.
 import { CabecalhoInstitucional, metadataInstitucional } from "@/components/PaginaInstitucional";
 import { Botao, Container, IconeWhatsApp } from "@/components/ui";
 import { WHATSAPP_EXIBICAO, linkWhatsApp } from "@/lib/whatsapp";
+import { INSTAGRAM } from "@/lib/redes";
 
-const DESCRICAO = "Fale com a IDA Produtora Audiovisual pelo WhatsApp (11) 95302-5177 ou pelo Instagram @idaprodutora. Atendemos São Paulo e região.";
+const DESCRICAO = "Fale com a IDA Produtora Audiovisual pelo WhatsApp (11) 95302-5177. Atendimento direto com quem produz, em São Paulo e região.";
 
 export const metadata = metadataInstitucional({ titulo: "Contato | IDA Produtora", descricao: DESCRICAO, url: "/contato" });
 
 const CANAIS = [
   { rotulo: "WhatsApp", valor: WHATSAPP_EXIBICAO, href: linkWhatsApp("Olá, IDA Produtora! Vim pela página de contato.") },
-  { rotulo: "Instagram", valor: "@idaprodutora", href: "https://instagram.com/idaprodutora" },
+  ...(INSTAGRAM ? [{ rotulo: "Instagram", valor: INSTAGRAM.usuario, href: INSTAGRAM.url }] : []),
   { rotulo: "Área atendida", valor: "São Paulo e região", href: null },
 ];
 

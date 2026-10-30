@@ -7,7 +7,11 @@ import { Breadcrumb } from "@/components/secoes";
 import { BarraLaranja, Container, Eyebrow, JsonLd } from "@/components/ui";
 import { artigo, complementaresPublicados, dataArtigo, formatarData, pilarDe, publicados, slugsPublicados } from "@/lib/blog";
 import { renderizarMdx } from "@/lib/mdx";
-import { SITE, artigo as artigoSchema, grafo } from "@/lib/schema";
+import { capaDoArtigo, videoDoArtigo } from "@/lib/midia-blog";
+import { VideoFacade } from "@/components/VideoFacade";
+import { dadosVideoSchema } from "@/components/secoes";
+import Image from "next/image";
+import { SITE, artigo as artigoSchema, grafo, video as videoSchema } from "@/lib/schema";
 
 export const dynamicParams = false;
 
@@ -39,7 +43,8 @@ export async function generateMetadata({ params }: PageProps<"/blog/[slug]">): P
       modifiedTime: atualizado || undefined,
       authors: [`${SITE}/sobre`],
     },
-    twitter: { title: titulo, description: descricao },
+    twitter: { title: titulo, description: descricao, ...(capaDoArtigo(slug) ? { images: [capaDoArtigo(slug)!] } : {}) },
+    ...(capaDoArtigo(slug) ? { openGraph: { type: "article", url, title: titulo, description: descricao, locale: "pt_BR", images: [{ url: capaDoArtigo(slug)!, width: 1600, height: 900 }] } } : {}),
   };
 }
 
@@ -51,6 +56,8 @@ export default async function PaginaArtigo({ params }: PageProps<"/blog/[slug]">
   const { publicado, atualizado } = dataArtigo(a);
   const pilar = pilarDe(plano.pilar);
   const ehPilar = plano.tipo === "pilar";
+  const capa = capaDoArtigo(slug);
+  const video = videoDoArtigo(slug);
 
   const conteudo = await renderizarMdx(doc.conteudo, {
     titulo: plano.titulo,
@@ -77,9 +84,11 @@ export default async function PaginaArtigo({ params }: PageProps<"/blog/[slug]">
             publishedAt: publicado,
             updatedAt: atualizado,
             palavraChave: plano.palavraChave,
+            capa,
             pilarUrl: ehPilar ? undefined : pilar.url,
             complementaresPublicados: ehPilar ? complementaresPublicados(plano.pilar).map((c) => c.plano.url) : undefined,
           }),
+          ...(video ? [videoSchema(dadosVideoSchema(video))] : []),
         ])}
       />
       <Container>
@@ -103,7 +112,29 @@ export default async function PaginaArtigo({ params }: PageProps<"/blog/[slug]">
               )}
             </p>
           </header>
+          {capa && (
+            <Image
+              src={capa}
+              alt={`Imagem de capa: ${plano.titulo}`}
+              width={1600}
+              height={900}
+              priority
+              sizes="(min-width: 800px) 760px, 100vw"
+              className="mt-8 aspect-video w-full rounded-ida object-cover"
+            />
+          )}
           <div className="prosa mt-8 max-w-none">{conteudo}</div>
+          {video && (
+            <section aria-labelledby="video-ida" className="mt-12 border-t border-surface pt-8">
+              <h2 id="video-ida" className="m-0 mb-2 text-2xl font-bold">
+                Trabalho da IDA Produtora
+              </h2>
+              <p className="m-0 mb-5 text-[15px] text-muted">
+                {video.cliente} · {video.projeto}. Veja mais no <Link href="/portfolio" className="text-text underline underline-offset-4 hover:text-accent">portfólio</Link>.
+              </p>
+              <VideoFacade youtubeId={video.youtubeId} titulo={`${video.cliente} · ${video.projeto}`} thumbnail={video.thumbnail} />
+            </section>
+          )}
           {!ehPilar && (
             <p className="mt-12 border-t border-surface pt-6 text-[15px] text-muted">
               Este artigo faz parte do guia{" "}
