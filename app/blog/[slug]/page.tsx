@@ -11,7 +11,8 @@ import { capaDoArtigo, videoDoArtigo } from "@/lib/midia-blog";
 import { VideoFacade } from "@/components/VideoFacade";
 import { dadosVideoSchema } from "@/components/secoes";
 import Image from "next/image";
-import { SITE, artigo as artigoSchema, grafo, video as videoSchema } from "@/lib/schema";
+import { SITE, artigo as artigoSchema, comoFazer, grafo, video as videoSchema } from "@/lib/schema";
+import { passosDoMdx } from "@/components/blog";
 
 export const dynamicParams = false;
 
@@ -89,6 +90,7 @@ export default async function PaginaArtigo({ params }: PageProps<"/blog/[slug]">
             complementaresPublicados: ehPilar ? complementaresPublicados(plano.pilar).map((c) => c.plano.url) : undefined,
           }),
           ...(video ? [videoSchema(dadosVideoSchema(video))] : []),
+          ...(plano.formato === "Como fazer" && passosDoMdx(doc.conteudo).length >= 2 ? [comoFazer(plano.titulo, passosDoMdx(doc.conteudo))] : []),
         ])}
       />
       <Container>

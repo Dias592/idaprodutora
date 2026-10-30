@@ -85,3 +85,19 @@ export function LeiaTambem({
     </section>
   );
 }
+
+/** Passos de um artigo "Como fazer": a primeira lista numerada do MDX vira HowTo (nome = trecho em negrito). */
+export function passosDoMdx(fonte: string): { nome: string; texto: string }[] {
+  const linhas = fonte.split("\n");
+  const inicio = linhas.findIndex((l) => /^1\.\s+/.test(l));
+  if (inicio < 0) return [];
+  const passos: { nome: string; texto: string }[] = [];
+  for (let i = inicio; i < linhas.length && /^\d+\.\s+/.test(linhas[i]); i++) {
+    const item = linhas[i].replace(/^\d+\.\s+/, "").replace(/\[([^\]]+)\]\([^)]*\)/g, "$1");
+    const negrito = /^\*\*(.+?)\*\*[:.]?\s*(.*)$/.exec(item);
+    const nome = (negrito ? negrito[1] : item.split(/[.:]/)[0]).replace(/[*_`]/g, "").trim();
+    const texto = (negrito ? negrito[2] || negrito[1] : item).replace(/[*_`]/g, "").trim();
+    passos.push({ nome, texto });
+  }
+  return passos;
+}
