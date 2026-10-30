@@ -10,9 +10,9 @@ import { renderizarMdx } from "@/lib/mdx";
 import { altDaCapa, capaDoArtigo, videoDoArtigo } from "@/lib/midia-blog";
 import { VideoFacade } from "@/components/VideoFacade";
 import { dadosVideoSchema } from "@/components/secoes";
-import Image from "next/image";
 import { SITE, artigo as artigoSchema, comoFazer, grafo, video as videoSchema } from "@/lib/schema";
 import { passosDoMdx } from "@/components/blog";
+import { CapaArtigo } from "@/components/CapaArtigo";
 import { compartilhamento } from "@/lib/seo";
 
 export const dynamicParams = false;
@@ -114,17 +114,14 @@ export default async function PaginaArtigo({ params }: PageProps<"/blog/[slug]">
               )}
             </p>
           </header>
-          {capa && (
-            <Image
-              src={capa}
-              alt={altDaCapa(slug) ?? `Imagem de capa: ${plano.titulo}`}
-              width={1600}
-              height={900}
-              priority
-              sizes="(min-width: 800px) 760px, 100vw"
-              className="mt-8 aspect-video w-full rounded-ida object-cover"
-            />
-          )}
+          <CapaArtigo
+            slug={slug}
+            titulo={plano.titulo}
+            servicoNome={plano.servicoNome}
+            prioridade
+            sizes="(min-width: 800px) 760px, 100vw"
+            className="mt-8 rounded-ida"
+          />
           <div className="prosa mt-8 max-w-none">{conteudo}</div>
           {video && (
             <section aria-labelledby="video-ida" className="mt-12 border-t border-surface pt-8">

@@ -2,6 +2,7 @@
 import Link from "next/link";
 import GithubSlugger from "github-slugger";
 
+import { CapaArtigo } from "@/components/CapaArtigo";
 import { blogPlano, type ArtigoPlano } from "@/lib/dados";
 
 export type ItemIndice = { id: string; titulo: string };
@@ -46,14 +47,25 @@ export function CardArtigo({ artigo, resumo }: { artigo: ArtigoPlano; resumo?: s
   return (
     <Link
       href={artigo.url}
-      className="group flex flex-col gap-3 rounded-ida border border-surface bg-bg p-7 text-text no-underline transition hover:border-accent"
+      className="group flex flex-col overflow-hidden rounded-ida border border-surface bg-bg text-text no-underline transition hover:border-accent"
     >
-      <p className="m-0 text-[11px] tracking-[0.3em] text-muted uppercase">
-        {artigo.tipo === "pilar" ? "Guia completo" : artigo.formato} · {artigo.servicoNome}
-      </p>
-      <h3 className="m-0 text-lg leading-snug font-semibold">{artigo.titulo}</h3>
-      <p className="m-0 text-[15px] leading-relaxed text-muted">{resumo ?? artigo.pergunta}</p>
-      <span className="mt-auto text-[13px] font-semibold tracking-[0.08em] text-accent">LER ARTIGO →</span>
+      <div className="overflow-hidden">
+        <CapaArtigo
+          slug={artigo.slug}
+          titulo={artigo.titulo}
+          servicoNome={artigo.servicoNome}
+          sizes="(min-width: 1240px) 400px, (min-width: 768px) 50vw, 100vw"
+          className="transition duration-300 group-hover:scale-[1.03]"
+        />
+      </div>
+      <div className="flex flex-1 flex-col gap-3 p-7">
+        <p className="m-0 text-[11px] tracking-[0.3em] text-muted uppercase">
+          {artigo.tipo === "pilar" ? "Guia completo" : artigo.formato} · {artigo.servicoNome}
+        </p>
+        <h3 className="m-0 text-lg leading-snug font-semibold">{artigo.titulo}</h3>
+        <p className="m-0 text-[15px] leading-relaxed text-muted">{resumo ?? artigo.pergunta}</p>
+        <span className="mt-auto text-[13px] font-semibold tracking-[0.08em] text-accent">LER ARTIGO →</span>
+      </div>
     </Link>
   );
 }
