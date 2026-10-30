@@ -6,6 +6,7 @@ import locaisJson from "@/data/locais.json";
 import blogPlanJson from "@/data/blog-plan.json";
 import videosJson from "@/data/videos.json";
 import clientesJson from "@/data/clientes.json";
+import fotosJson from "@/data/fotos.json";
 
 export type Servico = {
   url: string;
@@ -67,6 +68,10 @@ export const home = servicos.find((s) => s.url === "/")!;
 export const locais = locaisJson as Local[];
 export const blogPlano = blogPlanJson as ArtigoPlano[];
 export const videos = videosJson;
+
+export type Foto = (typeof fotosJson)[number];
+/** Fotos de portfólio da home (versões otimizadas em public/portfolio/fotos, geradas por scripts/fotos-home.mjs). */
+export const fotosHome = fotosJson.filter((f) => f.home);
 export const clientes = [...clientesJson].sort((a, b) => a.ordem - b.ordem);
 
 export const PAGINAS_INSTITUCIONAIS = [

@@ -117,7 +117,7 @@ export const video = (v: {
 
 type Artigo = {
   tipo: "pilar" | "complementar";
-  titulo: string; metaDescription: string; url: string; capa?: string;
+  titulo: string; metaDescription: string; url: string; capa?: string; capaAlt?: string;
   publishedAt: string; updatedAt: string; palavraChave: string;
   pilarUrl?: string; complementaresPublicados?: string[];
 };
@@ -128,7 +128,9 @@ export const artigo = (a: Artigo): JsonLd => ({
   headline: a.titulo,
   description: a.metaDescription,
   url: `${SITE}${a.url}`,
-  image: a.capa ? `${SITE}${a.capa}` : `${SITE}/brand/og-image.png`,
+  image: a.capa
+    ? { "@type": "ImageObject", url: `${SITE}${a.capa}`, width: 1600, height: 900, ...(a.capaAlt ? { caption: a.capaAlt } : {}) }
+    : `${SITE}/brand/og-image.png`,
   datePublished: a.publishedAt,
   dateModified: a.updatedAt,
   inLanguage: "pt-BR",

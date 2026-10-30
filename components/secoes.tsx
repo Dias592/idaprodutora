@@ -9,7 +9,7 @@ import { BarraLaranja, Botao, Container, Eyebrow, JsonLd, TituloSecao, cx } from
 import { VideoFacade } from "@/components/VideoFacade";
 import type { ServicoVitrine } from "@/lib/catalogo";
 import { breadcrumb, faq as faqSchema, grafo, listaVideos } from "@/lib/schema";
-import { clientes, type Video } from "@/lib/dados";
+import { clientes, type Foto, type Video } from "@/lib/dados";
 
 // ---------- Hero ----------
 
@@ -181,6 +181,30 @@ export function GradePortfolio({ videos, comSchema = true, prioridade = false }:
         ))}
       </div>
     </>
+  );
+}
+
+// ---------- Galeria de fotos ----------
+
+export function GaleriaFotos({ fotos, titulo }: { fotos: Foto[]; titulo: string }) {
+  return (
+    <div className="mt-14">
+      <h3 className="m-0 mb-6 text-[19px] font-semibold">{titulo}</h3>
+      <ul className="m-0 grid list-none grid-cols-2 gap-2 p-0 md:grid-cols-4 md:gap-3">
+        {fotos.map((f) => (
+          <li key={f.id} className="m-0 overflow-hidden rounded-ida bg-bg">
+            <Image
+              src={`/portfolio/fotos/${f.id}.webp`}
+              alt={f.alt}
+              width={1500}
+              height={1000}
+              sizes="(min-width: 1240px) 300px, (min-width: 768px) 25vw, 50vw"
+              className="aspect-[3/2] h-auto w-full object-cover transition duration-300 hover:scale-[1.03]"
+            />
+          </li>
+        ))}
+      </ul>
+    </div>
   );
 }
 

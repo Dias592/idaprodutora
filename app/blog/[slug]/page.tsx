@@ -7,7 +7,7 @@ import { Breadcrumb } from "@/components/secoes";
 import { BarraLaranja, Container, Eyebrow, JsonLd } from "@/components/ui";
 import { artigo, complementaresPublicados, dataArtigo, formatarData, pilarDe, publicados, slugsPublicados } from "@/lib/blog";
 import { renderizarMdx } from "@/lib/mdx";
-import { capaDoArtigo, videoDoArtigo } from "@/lib/midia-blog";
+import { altDaCapa, capaDoArtigo, videoDoArtigo } from "@/lib/midia-blog";
 import { VideoFacade } from "@/components/VideoFacade";
 import { dadosVideoSchema } from "@/components/secoes";
 import Image from "next/image";
@@ -40,7 +40,7 @@ export async function generateMetadata({ params }: PageProps<"/blog/[slug]">): P
       descricao,
       caminho: a.plano.url,
       tipo: "article",
-      imagem: capaDoArtigo(slug) ? { url: capaDoArtigo(slug)!, width: 1600, height: 900 } : null,
+      imagem: capaDoArtigo(slug) ? { url: capaDoArtigo(slug)!, width: 1600, height: 900, alt: altDaCapa(slug) ?? titulo } : null,
       publicado,
       atualizado,
       tags: [a.plano.palavraChave, ...(a.plano.palavrasSecundarias ?? [])],
@@ -85,6 +85,7 @@ export default async function PaginaArtigo({ params }: PageProps<"/blog/[slug]">
             updatedAt: atualizado,
             palavraChave: plano.palavraChave,
             capa,
+            capaAlt: altDaCapa(slug),
             pilarUrl: ehPilar ? undefined : pilar.url,
             complementaresPublicados: ehPilar ? complementaresPublicados(plano.pilar).map((c) => c.plano.url) : undefined,
           }),
@@ -116,7 +117,7 @@ export default async function PaginaArtigo({ params }: PageProps<"/blog/[slug]">
           {capa && (
             <Image
               src={capa}
-              alt={`Imagem de capa: ${plano.titulo}`}
+              alt={altDaCapa(slug) ?? `Imagem de capa: ${plano.titulo}`}
               width={1600}
               height={900}
               priority

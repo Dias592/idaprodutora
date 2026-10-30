@@ -7,6 +7,7 @@ import {
   Etapas,
   FaixaClientes,
   Faq,
+  GaleriaFotos,
   GradePortfolio,
   GradeServicos,
   Hero,
@@ -18,7 +19,7 @@ import {
 import { ShowreelRotativo } from "@/components/ShowreelRotativo";
 import { FormularioWhatsApp } from "@/components/whatsapp";
 import { CARDS_HOME, TAMBEM_FAZEMOS, catalogo, servicoPorUrl } from "@/lib/catalogo";
-import { home, videos } from "@/lib/dados";
+import { fotosHome, home, videos } from "@/lib/dados";
 import { SITE, catalogo as catalogoSchema, grafo, website } from "@/lib/schema";
 import { WHATSAPP_EXIBICAO, WHATSAPP_URL } from "@/lib/whatsapp";
 import Link from "next/link";
@@ -101,6 +102,7 @@ export default function Home() {
 
       <Secao id="portfolio" eyebrow="PORTFÓLIO" titulo="Histórias reais, em todos os ângulos" fundo="surface">
         <GradePortfolio videos={videos.filter((v) => v.home)} />
+        <GaleriaFotos titulo="Fotografia de eventos corporativos" fotos={fotosHome} />
       </Secao>
 
       <Secao id="como-funciona" eyebrow="COMO FUNCIONA" titulo="Do briefing à entrega, em 4 etapas">

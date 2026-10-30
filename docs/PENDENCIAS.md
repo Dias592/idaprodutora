@@ -27,3 +27,9 @@ Lista do que não pode ser inventado e precisa de informação ou decisão da ID
 - [ ] **ID do GA4** (`NEXT_PUBLIC_GA_ID` nas variáveis de ambiente da Hostinger). No GA4, desligar Enhanced Measurement → Outbound clicks (docs/07).
 - [ ] **Google Search Console e Bing Webmaster Tools**: verificar o domínio e enviar `https://idaprodutora.com.br/sitemap.xml`.
 - [ ] Depois de cada deploy: `npm run indexnow`.
+
+## Fotos de portfólio (adicionadas em 2026-10-30)
+
+- 76 fotos de uma convenção de vendas (`materiais/Portifolio imagens`, catálogo em `data/fotos.json`): 16 na galeria da home e 76 como capas de artigos.
+- As fotos mostram marcas no telão e pessoas identificáveis, incluindo um palestrante convidado. Confirmar a autorização do cliente para uso no portfólio. O site não cita o nome do cliente em textos, alt ou legendas; para citar, é preciso confirmar a autorização e adicioná-lo em `data/clientes.json`.
+- 34 complementares estão sem capa (76 fotos para 110 artigos). Para completar, acrescentar fotos novas à pasta e rodar `node scripts/distribuir-midia.mjs fotos "materiais/Portifolio imagens"`: o script usa só fotos ainda não usadas e não repete.

@@ -5,7 +5,8 @@
 // Regras dos vídeos (só existem 8 para 110 artigos, então eles se repetem):
 //   - distribuição equilibrada (cada vídeo aparece ~o mesmo número de vezes);
 //   - um artigo nunca repete o vídeo do seu pilar nem o dos irmãos que ele linka.
-// Regras das fotos: cada foto é usada uma única vez. Rodar de novo mantém o que já foi distribuído.
+// Regras das fotos: cada foto é usada uma única vez (sem repetir). Pilares têm prioridade. Rodar de novo mantém o que já foi
+// distribuído e usa só fotos novas — basta acrescentar fotos à pasta (ou ao data/fotos.json).
 import fs from "node:fs";
 import path from "node:path";
 import sharp from "sharp";
@@ -51,23 +52,37 @@ if (modo === "videos") {
   fs.writeFileSync(ARQUIVO, JSON.stringify(midia, null, 2) + "\n");
   console.log("Vídeos distribuídos:", Object.entries(usos).map(([id, n]) => `${videos.find((v) => v.youtubeId === id).cliente}: ${n}`).join(" · "));
 } else if (modo === "fotos") {
+  // Fonte: data/fotos.json (id, arquivo relativo à pasta, alt). Fotos soltas fora do catálogo também entram, com alt genérico.
   if (!pasta || !fs.existsSync(pasta)) throw new Error("Informe a pasta das fotos: node scripts/distribuir-midia.mjs fotos <pasta>");
+  const catalogo = fs.existsSync("data/fotos.json") ? JSON.parse(fs.readFileSync("data/fotos.json", "utf8")) : [];
+  const noCatalogo = new Set(catalogo.map((f) => f.arquivo));
+  const soltas = fs
+    .readdirSync(pasta, { recursive: true })
+    .map((f) => f.split(path.sep).join("/"))
+    .filter((f) => /\.(jpe?g|png|webp|avif|tiff?)$/i.test(f) && !noCatalogo.has(f))
+    .map((f) => ({ id: f, arquivo: f, alt: "Foto de evento corporativo produzida pela IDA Produtora" }));
   const usadas = new Set(Object.values(midia).map((m) => m.origemCapa).filter(Boolean));
-  const fotos = embaralhar(
-    fs.readdirSync(pasta).filter((f) => /\.(jpe?g|png|webp|avif|tiff?)$/i.test(f) && !usadas.has(f)),
-  );
+  const fotos = embaralhar([...catalogo, ...soltas].filter((f) => !usadas.has(f.id)));
+  // Pilares primeiro: se faltar foto, quem fica sem capa são complementares.
   const semCapa = plano.filter((a) => !midia[a.slug]?.capa);
-  if (fotos.length < semCapa.length) console.warn(`Atenção: ${fotos.length} fotos novas para ${semCapa.length} artigos sem capa. Os restantes ficam sem foto.`);
+  const fila = [...embaralhar(semCapa.filter((a) => a.tipo === "pilar")), ...embaralhar(semCapa.filter((a) => a.tipo !== "pilar"))];
+  if (fotos.length < fila.length) console.warn(`Atenção: ${fotos.length} fotos novas para ${fila.length} artigos sem capa. ${fila.length - fotos.length} complementares ficam sem foto até chegarem mais.`);
   fs.mkdirSync("public/blog/capas", { recursive: true });
-  for (const [i, artigo] of semCapa.entries()) {
+  let geradas = 0;
+  for (const [i, artigo] of fila.entries()) {
     const foto = fotos[i];
     if (!foto) break;
     const destino = `public/blog/capas/${artigo.slug}.webp`;
-    await sharp(path.join(pasta, foto)).rotate().resize({ width: 1600, height: 900, fit: "cover" }).webp({ quality: 80 }).toFile(destino);
-    midia[artigo.slug] = { ...midia[artigo.slug], capa: `/blog/capas/${artigo.slug}.webp`, origemCapa: foto };
+    await sharp(path.join(pasta, foto.arquivo))
+      .rotate()
+      .resize({ width: 1600, height: 900, fit: "cover", position: sharp.strategy.attention })
+      .webp({ quality: 74, effort: 5 })
+      .toFile(destino);
+    midia[artigo.slug] = { ...midia[artigo.slug], capa: `/blog/capas/${artigo.slug}.webp`, origemCapa: foto.id, altCapa: foto.alt };
+    geradas++;
   }
   fs.writeFileSync(ARQUIVO, JSON.stringify(midia, null, 2) + "\n");
-  console.log(`${Math.min(fotos.length, semCapa.length)} capas geradas em public/blog/capas/.`);
+  console.log(`${geradas} capas geradas em public/blog/capas/.`);
 } else {
   console.error("Uso: node scripts/distribuir-midia.mjs videos | fotos <pasta>");
   process.exit(1);
