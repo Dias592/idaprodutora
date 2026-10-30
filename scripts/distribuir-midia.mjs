@@ -83,7 +83,52 @@ if (modo === "videos") {
   }
   fs.writeFileSync(ARQUIVO, JSON.stringify(midia, null, 2) + "\n");
   console.log(`${geradas} capas geradas em public/blog/capas/.`);
+} else if (modo === "fotos-home") {
+  // Completa artigos sem capa reutilizando as fotos "home" do catálogo (autorizado pelo cliente).
+  // Regras: uso equilibrado; nunca a mesma foto do pilar ou dos irmãos; cada reuso com enquadramento diferente.
+  const base = pasta ?? "materiais/Portifolio imagens";
+  const home = JSON.parse(fs.readFileSync("data/fotos.json", "utf8")).filter((f) => f.home);
+  const usos = Object.fromEntries(home.map((f) => [f.id, 0]));
+  for (const m of Object.values(midia)) if (m.origemCapa in usos) usos[m.origemCapa]++;
+  const reenquadrar = [
+    { zoom: 0.8, x: 0.0 }, // aproximado à esquerda
+    { zoom: 0.8, x: 1.0 }, // aproximado à direita
+    { zoom: 0.7, x: 0.5 }, // mais fechado, centro
+  ];
+  let geradas = 0;
+  for (const pilar of plano.filter((a) => a.tipo === "pilar")) {
+    const cluster = [pilar, ...pilar.complementares.map((u) => plano.find((a) => a.url === u))];
+    for (const artigo of cluster) {
+      if (midia[artigo.slug]?.capa) continue;
+      const vizinhos = new Set([
+        pilar.slug,
+        ...(artigo.irmaos ?? []).map(slugDe),
+        ...plano.filter((a) => (a.irmaos ?? []).includes(artigo.url)).map((a) => a.slug),
+      ]);
+      vizinhos.delete(artigo.slug);
+      const proibidas = new Set([...vizinhos].map((s) => midia[s]?.origemCapa).filter(Boolean));
+      const foto = embaralhar(home.filter((f) => !proibidas.has(f.id))).sort((a, b) => usos[a.id] - usos[b.id])[0];
+      const r = reenquadrar[(usos[foto.id] - 1 + reenquadrar.length) % reenquadrar.length];
+      const img = sharp(path.join(base, foto.arquivo)).rotate();
+      const { data, info } = await img.toBuffer({ resolveWithObject: true });
+      const w = Math.round(info.width * r.zoom);
+      const h = Math.round(info.height * r.zoom);
+      const left = Math.round((info.width - w) * r.x);
+      const top = Math.round((info.height - h) / 2);
+      const destino = `public/blog/capas/${artigo.slug}.webp`;
+      await sharp(data)
+        .extract({ left, top, width: w, height: h })
+        .resize({ width: 1600, height: 900, fit: "cover", position: sharp.strategy.attention })
+        .webp({ quality: 74, effort: 5 })
+        .toFile(destino);
+      midia[artigo.slug] = { ...midia[artigo.slug], capa: `/blog/capas/${artigo.slug}.webp`, origemCapa: foto.id, altCapa: foto.alt };
+      usos[foto.id]++;
+      geradas++;
+    }
+  }
+  fs.writeFileSync(ARQUIVO, JSON.stringify(midia, null, 2) + "\n");
+  console.log(`${geradas} capas geradas com fotos da home. Usos por foto:`, Object.values(usos).join(" "));
 } else {
-  console.error("Uso: node scripts/distribuir-midia.mjs videos | fotos <pasta>");
+  console.error("Uso: node scripts/distribuir-midia.mjs videos | fotos <pasta> | fotos-home [pasta]");
   process.exit(1);
 }

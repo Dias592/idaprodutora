@@ -1,35 +1,35 @@
-# Pendências do site (o que depende da IDA)
+﻿# PendÃªncias do site (o que depende da IDA)
 
-Lista do que não pode ser inventado e precisa de informação ou decisão da IDA. Atualizada em 29/10/2026.
+Lista do que nÃ£o pode ser inventado e precisa de informaÃ§Ã£o ou decisÃ£o da IDA. Atualizada em 29/10/2026.
 
 ## Bloqueia ou afeta o site no ar
 
-- [ ] **www.idaprodutora.com.br responde 503.** O suporte da Hostinger precisa vincular o `www` ao mesmo app Node.js (alias). Não criar redirecionamento no domínio principal (causa loop).
-- [ ] **Autorização dos clientes** para aparecer na faixa de logos, em /clientes e no portfólio (Chandon e MAM costumam exigir aprovação). Enquanto não houver, avaliar retirar o logo. Arquivo: `data/clientes.json` (campo `autorizado`).
-- [ ] **Assinatura “RD · Rafael Douglas”** no fim de vários vídeos (MAM, Automec, Vert). Regra 1 do CLAUDE.md: não citar outros negócios. Decidir se fica ou se sobem versões sem a tela final no YouTube.
+- [ ] **www.idaprodutora.com.br responde 503.** O suporte da Hostinger precisa vincular o `www` ao mesmo app Node.js (alias). NÃ£o criar redirecionamento no domÃ­nio principal (causa loop).
+- [ ] **AutorizaÃ§Ã£o dos clientes** para aparecer na faixa de logos, em /clientes e no portfÃ³lio (Chandon e MAM costumam exigir aprovaÃ§Ã£o). Enquanto nÃ£o houver, avaliar retirar o logo. Arquivo: `data/clientes.json` (campo `autorizado`).
+- [ ] **Assinatura â€œRD Â· Rafael Douglasâ€** no fim de vÃ¡rios vÃ­deos (MAM, Automec, Vert). Regra 1 do CLAUDE.md: nÃ£o citar outros negÃ³cios. Decidir se fica ou se sobem versÃµes sem a tela final no YouTube.
 
-## Conteúdo comercial
+## ConteÃºdo comercial
 
-- [ ] **Preços “a partir de”** de cada pacote. Hoje todos aparecem como “Sob consulta” (`content/servicos/*.mdx`, campo `pacotes`).
-- [ ] **Validar os pacotes** propostos em cada serviço (nomes e descrições foram escritos a partir da maquete e dos docs).
-- [ ] **Prazos de entrega** por serviço. Hoje o texto diz que o prazo é combinado no orçamento.
-- [ ] **História da IDA para /sobre**: ano de início, trajetória do Ivan Dias, equipe, equipamentos, parceiros (só audiovisual).
-- [ ] **CNPJ / razão social**, se quiser exibir no rodapé e na política de privacidade.
+- [ ] **PreÃ§os â€œa partir deâ€** de cada pacote. Hoje todos aparecem como â€œSob consultaâ€ (`content/servicos/*.mdx`, campo `pacotes`).
+- [ ] **Validar os pacotes** propostos em cada serviÃ§o (nomes e descriÃ§Ãµes foram escritos a partir da maquete e dos docs).
+- [ ] **Prazos de entrega** por serviÃ§o. Hoje o texto diz que o prazo Ã© combinado no orÃ§amento.
+- [ ] **HistÃ³ria da IDA para /sobre**: ano de inÃ­cio, trajetÃ³ria do Ivan Dias, equipe, equipamentos, parceiros (sÃ³ audiovisual).
+- [ ] **CNPJ / razÃ£o social**, se quiser exibir no rodapÃ© e na polÃ­tica de privacidade.
 
-## Mídia
+## MÃ­dia
 
-- [ ] **Vídeos para serviços sem portfólio**: cobertura de shows, drone, 360°, treinamento, depoimentos, estúdio, podcast e ativações (hoje sem vídeo no topo da página). Transmissão ao vivo e fotografia usam vídeos de eventos.
-- [ ] **Fotos de portfólio** (fotografia corporativa e de eventos) e capas para o blog.
-- [ ] **Logos de clientes em SVG**, se existirem (hoje são WebP gerados dos PNG).
+- [ ] **VÃ­deos para serviÃ§os sem portfÃ³lio**: cobertura de shows, drone, 360Â°, treinamento, depoimentos, estÃºdio, podcast e ativaÃ§Ãµes (hoje sem vÃ­deo no topo da pÃ¡gina). TransmissÃ£o ao vivo e fotografia usam vÃ­deos de eventos.
+- [ ] **Fotos de portfÃ³lio** (fotografia corporativa e de eventos) e capas para o blog.
+- [ ] **Logos de clientes em SVG**, se existirem (hoje sÃ£o WebP gerados dos PNG).
 
-## Medição e indexação
+## MediÃ§Ã£o e indexaÃ§Ã£o
 
-- [ ] **ID do GA4** (`NEXT_PUBLIC_GA_ID` nas variáveis de ambiente da Hostinger). No GA4, desligar Enhanced Measurement → Outbound clicks (docs/07).
-- [ ] **Google Search Console e Bing Webmaster Tools**: verificar o domínio e enviar `https://idaprodutora.com.br/sitemap.xml`.
+- [ ] **ID do GA4** (`NEXT_PUBLIC_GA_ID` nas variÃ¡veis de ambiente da Hostinger). No GA4, desligar Enhanced Measurement â†’ Outbound clicks (docs/07).
+- [ ] **Google Search Console e Bing Webmaster Tools**: verificar o domÃ­nio e enviar `https://idaprodutora.com.br/sitemap.xml`.
 - [ ] Depois de cada deploy: `npm run indexnow`.
 
-## Fotos de portfólio (adicionadas em 2026-10-30)
+## Fotos de portfÃ³lio (adicionadas em 2026-10-30)
 
-- 76 fotos de uma convenção de vendas (`materiais/Portifolio imagens`, catálogo em `data/fotos.json`): 16 na galeria da home e 76 como capas de artigos.
-- As fotos mostram marcas no telão e pessoas identificáveis, incluindo um palestrante convidado. Confirmar a autorização do cliente para uso no portfólio. O site não cita o nome do cliente em textos, alt ou legendas; para citar, é preciso confirmar a autorização e adicioná-lo em `data/clientes.json`.
-- 34 complementares estão sem capa (76 fotos para 110 artigos). Para completar, acrescentar fotos novas à pasta e rodar `node scripts/distribuir-midia.mjs fotos "materiais/Portifolio imagens"`: o script usa só fotos ainda não usadas e não repete.
+- 76 fotos de uma convenÃ§Ã£o de vendas (`materiais/Portifolio imagens`, catÃ¡logo em `data/fotos.json`): 16 na galeria da home e 76 como capas de artigos.
+- As fotos mostram marcas no telÃ£o e pessoas identificÃ¡veis, incluindo um palestrante convidado. Confirmar a autorizaÃ§Ã£o do cliente para uso no portfÃ³lio. O site nÃ£o cita o nome do cliente em textos, alt ou legendas; para citar, Ã© preciso confirmar a autorizaÃ§Ã£o e adicionÃ¡-lo em `data/clientes.json`.
+- 34 complementares estÃ£o sem capa (76 fotos para 110 artigos). Para completar, acrescentar fotos novas Ã  pasta e rodar `node scripts/distribuir-midia.mjs fotos "materiais/Portifolio imagens"`: o script usa sÃ³ fotos ainda nÃ£o usadas e nÃ£o repete.

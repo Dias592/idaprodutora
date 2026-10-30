@@ -24,10 +24,16 @@
     "altCapa": "Foto oficial da equipe reunida no palco da convenção de vendas"
   },
   "duracao-video-institucional": {
-    "video": "gQNtsJPVixI"
+    "video": "gQNtsJPVixI",
+    "capa": "/blog/capas/duracao-video-institucional.webp",
+    "origemCapa": "foto-06",
+    "altCapa": "Palestrante com microfone entre os participantes da convenção de vendas"
   },
   "tipos-de-video-institucional": {
-    "video": "uQlR_yrRtg4"
+    "video": "uQlR_yrRtg4",
+    "capa": "/blog/capas/tipos-de-video-institucional.webp",
+    "origemCapa": "foto-02",
+    "altCapa": "Participantes de camisa branca acompanhando a palestra na convenção de vendas"
   },
   "video-institucional-e-publicitario": {
     "video": "-04hqqouNAc",
@@ -96,7 +102,10 @@
     "altCapa": "Expositor de produtos no hall da convenção"
   },
   "filmagem-de-feira-de-negocios": {
-    "video": "JLq77bfNIbM"
+    "video": "JLq77bfNIbM",
+    "capa": "/blog/capas/filmagem-de-feira-de-negocios.webp",
+    "origemCapa": "foto-16",
+    "altCapa": "Palestrante convidado no palco da convenção de vendas"
   },
   "video-de-confraternizacao-empresa": {
     "video": "hdpxg15PzyY",
@@ -105,7 +114,10 @@
     "altCapa": "Foto oficial da equipe reunida no palco da convenção de vendas"
   },
   "foto-e-video-para-evento-corporativo": {
-    "video": "uQlR_yrRtg4"
+    "video": "uQlR_yrRtg4",
+    "capa": "/blog/capas/foto-e-video-para-evento-corporativo.webp",
+    "origemCapa": "foto-03",
+    "altCapa": "Plateia aplaudindo durante a convenção de vendas corporativa"
   },
   "gravacao-de-palestra": {
     "video": "_CEawfcPbvA",
@@ -126,7 +138,10 @@
     "altCapa": "Palco e plateia da convenção de vendas com iluminação cênica azul"
   },
   "quanto-custa-transmissao-ao-vivo": {
-    "video": "-04hqqouNAc"
+    "video": "-04hqqouNAc",
+    "capa": "/blog/capas/quanto-custa-transmissao-ao-vivo.webp",
+    "origemCapa": "foto-04",
+    "altCapa": "Participantes em pé aplaudindo na convenção de vendas"
   },
   "o-que-e-evento-hibrido": {
     "video": "uQlR_yrRtg4",
@@ -177,7 +192,10 @@
     "altCapa": "Participantes posando para foto durante a convenção de vendas"
   },
   "cortes-de-live": {
-    "video": "cLJQHmT3qls"
+    "video": "cLJQHmT3qls",
+    "capa": "/blog/capas/cortes-de-live.webp",
+    "origemCapa": "foto-13",
+    "altCapa": "Palestrante apresentando gráfico no telão da convenção"
   },
   "filmagem-de-shows-guia": {
     "video": "gQNtsJPVixI",
@@ -192,10 +210,16 @@
     "altCapa": "Participantes atentos durante a convenção de vendas corporativa"
   },
   "captacao-multicamera-show": {
-    "video": "hdpxg15PzyY"
+    "video": "hdpxg15PzyY",
+    "capa": "/blog/capas/captacao-multicamera-show.webp",
+    "origemCapa": "foto-07",
+    "altCapa": "Foto oficial da equipe reunida no palco da convenção de vendas"
   },
   "audio-da-mesa-para-video": {
-    "video": "r4eWMERZpE0"
+    "video": "r4eWMERZpE0",
+    "capa": "/blog/capas/audio-da-mesa-para-video.webp",
+    "origemCapa": "foto-14",
+    "altCapa": "Participantes em pé com iluminação verde no salão da convenção"
   },
   "gravacao-de-show-ao-vivo": {
     "video": "_CEawfcPbvA",
@@ -204,7 +228,10 @@
     "altCapa": "Plateia da convenção de vendas vista do alto"
   },
   "direitos-autorais-filmagem-de-show": {
-    "video": "JLq77bfNIbM"
+    "video": "JLq77bfNIbM",
+    "capa": "/blog/capas/direitos-autorais-filmagem-de-show.webp",
+    "origemCapa": "foto-11",
+    "altCapa": "Plateia levantando as mãos durante dinâmica da convenção de vendas"
   },
   "cobertura-de-festival": {
     "video": "r4eWMERZpE0",
@@ -213,7 +240,10 @@
     "altCapa": "Participantes no coffee break da convenção de vendas"
   },
   "video-de-show-para-instagram": {
-    "video": "_CEawfcPbvA"
+    "video": "_CEawfcPbvA",
+    "capa": "/blog/capas/video-de-show-para-instagram.webp",
+    "origemCapa": "foto-12",
+    "altCapa": "Telão de boas-vindas na abertura da convenção de vendas"
   },
   "transmissao-ao-vivo-de-show": {
     "video": "cLJQHmT3qls",
@@ -222,10 +252,16 @@
     "altCapa": "Palestrante no palco apontando para o telão, visto do alto"
   },
   "filmar-show-com-pouca-luz": {
-    "video": "hdpxg15PzyY"
+    "video": "hdpxg15PzyY",
+    "capa": "/blog/capas/filmar-show-com-pouca-luz.webp",
+    "origemCapa": "foto-15",
+    "altCapa": "Palestrante convidado no palco da convenção de vendas"
   },
   "aftermovie-de-festival": {
-    "video": "JLq77bfNIbM"
+    "video": "JLq77bfNIbM",
+    "capa": "/blog/capas/aftermovie-de-festival.webp",
+    "origemCapa": "foto-09",
+    "altCapa": "Salão da convenção de vendas visto do fundo, com plateia e telão"
   },
   "filmagem-com-drone-guia": {
     "video": "gQNtsJPVixI",
@@ -276,7 +312,10 @@
     "altCapa": "Palestrante convidado no palco da convenção de vendas"
   },
   "onde-nao-pode-voar-drone": {
-    "video": "hdpxg15PzyY"
+    "video": "hdpxg15PzyY",
+    "capa": "/blog/capas/onde-nao-pode-voar-drone.webp",
+    "origemCapa": "foto-01",
+    "altCapa": "Participantes atentos durante a convenção de vendas corporativa"
   },
   "drone-fpv": {
     "video": "r4eWMERZpE0",
@@ -297,10 +336,16 @@
     "altCapa": "Equipe comemorando no palco durante a convenção de vendas"
   },
   "o-que-e-video-360": {
-    "video": "hdpxg15PzyY"
+    "video": "hdpxg15PzyY",
+    "capa": "/blog/capas/o-que-e-video-360.webp",
+    "origemCapa": "foto-10",
+    "altCapa": "Palestrante caminhando no palco com iluminação cênica"
   },
   "quanto-custa-video-360": {
-    "video": "JLq77bfNIbM"
+    "video": "JLq77bfNIbM",
+    "capa": "/blog/capas/quanto-custa-video-360.webp",
+    "origemCapa": "foto-08",
+    "altCapa": "Equipe completa reunida no palco para a foto oficial da convenção"
   },
   "tour-virtual-360-empresa": {
     "video": "uQlR_yrRtg4",
@@ -309,7 +354,10 @@
     "altCapa": "Palestrante convidado no palco da convenção de vendas"
   },
   "video-360-ou-tour-virtual": {
-    "video": "r4eWMERZpE0"
+    "video": "r4eWMERZpE0",
+    "capa": "/blog/capas/video-360-ou-tour-virtual.webp",
+    "origemCapa": "foto-05",
+    "altCapa": "Apresentadores no palco diante do telão de LED da convenção de vendas"
   },
   "como-assistir-video-360": {
     "video": "_CEawfcPbvA",
@@ -330,10 +378,16 @@
     "altCapa": "Estande de patrocinador na área de exposição do evento"
   },
   "ativacao-360-em-evento": {
-    "video": "uQlR_yrRtg4"
+    "video": "uQlR_yrRtg4",
+    "capa": "/blog/capas/ativacao-360-em-evento.webp",
+    "origemCapa": "foto-07",
+    "altCapa": "Foto oficial da equipe reunida no palco da convenção de vendas"
   },
   "camera-360-profissional": {
-    "video": "hdpxg15PzyY"
+    "video": "hdpxg15PzyY",
+    "capa": "/blog/capas/camera-360-profissional.webp",
+    "origemCapa": "foto-10",
+    "altCapa": "Palestrante caminhando no palco com iluminação cênica"
   },
   "publicar-video-360-youtube": {
     "video": "cLJQHmT3qls",
@@ -372,7 +426,10 @@
     "altCapa": "Palestrante convidado no palco da convenção de vendas"
   },
   "banco-de-imagens-proprio": {
-    "video": "-04hqqouNAc"
+    "video": "-04hqqouNAc",
+    "capa": "/blog/capas/banco-de-imagens-proprio.webp",
+    "origemCapa": "foto-08",
+    "altCapa": "Equipe completa reunida no palco para a foto oficial da convenção"
   },
   "fotos-para-relatorio-anual": {
     "video": "r4eWMERZpE0",
@@ -381,13 +438,22 @@
     "altCapa": "Palestrante com microfone no palco da convenção de vendas"
   },
   "fotografia-de-convencao": {
-    "video": "cLJQHmT3qls"
+    "video": "cLJQHmT3qls",
+    "capa": "/blog/capas/fotografia-de-convencao.webp",
+    "origemCapa": "foto-04",
+    "altCapa": "Participantes em pé aplaudindo na convenção de vendas"
   },
   "autorizacao-de-uso-de-imagem": {
-    "video": "JLq77bfNIbM"
+    "video": "JLq77bfNIbM",
+    "capa": "/blog/capas/autorizacao-de-uso-de-imagem.webp",
+    "origemCapa": "foto-16",
+    "altCapa": "Palestrante convidado no palco da convenção de vendas"
   },
   "fotos-em-tempo-real-evento": {
-    "video": "_CEawfcPbvA"
+    "video": "_CEawfcPbvA",
+    "capa": "/blog/capas/fotos-em-tempo-real-evento.webp",
+    "origemCapa": "foto-13",
+    "altCapa": "Palestrante apresentando gráfico no telão da convenção"
   },
   "fotografia-de-produto-industrial": {
     "video": "hdpxg15PzyY",
@@ -402,7 +468,10 @@
     "altCapa": "Foto oficial da equipe reunida no palco da convenção de vendas"
   },
   "quanto-custa-video-de-treinamento": {
-    "video": "JLq77bfNIbM"
+    "video": "JLq77bfNIbM",
+    "capa": "/blog/capas/quanto-custa-video-de-treinamento.webp",
+    "origemCapa": "foto-11",
+    "altCapa": "Plateia levantando as mãos durante dinâmica da convenção de vendas"
   },
   "video-de-endomarketing": {
     "video": "uQlR_yrRtg4",
@@ -423,7 +492,10 @@
     "altCapa": "Salão da convenção de vendas lotado visto do fundo"
   },
   "formatos-de-video-de-treinamento": {
-    "video": "hdpxg15PzyY"
+    "video": "hdpxg15PzyY",
+    "capa": "/blog/capas/formatos-de-video-de-treinamento.webp",
+    "origemCapa": "foto-01",
+    "altCapa": "Participantes atentos durante a convenção de vendas corporativa"
   },
   "treinamento-ead-corporativo": {
     "video": "-04hqqouNAc",
@@ -432,7 +504,10 @@
     "altCapa": "Palestrante com microfone no palco da convenção de vendas"
   },
   "video-de-seguranca-do-trabalho": {
-    "video": "cLJQHmT3qls"
+    "video": "cLJQHmT3qls",
+    "capa": "/blog/capas/video-de-seguranca-do-trabalho.webp",
+    "origemCapa": "foto-02",
+    "altCapa": "Participantes de camisa branca acompanhando a palestra na convenção de vendas"
   },
   "video-de-employer-branding": {
     "video": "JLq77bfNIbM",
@@ -447,7 +522,10 @@
     "altCapa": "Salão da convenção de vendas montado antes da abertura"
   },
   "metricas-de-comunicacao-interna": {
-    "video": "r4eWMERZpE0"
+    "video": "r4eWMERZpE0",
+    "capa": "/blog/capas/metricas-de-comunicacao-interna.webp",
+    "origemCapa": "foto-03",
+    "altCapa": "Plateia aplaudindo durante a convenção de vendas corporativa"
   },
   "chroma-key-estudio-guia": {
     "video": "gQNtsJPVixI",
@@ -456,7 +534,10 @@
     "altCapa": "Plateia da convenção com iluminação verde no salão"
   },
   "aluguel-de-estudio-de-gravacao-sp": {
-    "video": "-04hqqouNAc"
+    "video": "-04hqqouNAc",
+    "capa": "/blog/capas/aluguel-de-estudio-de-gravacao-sp.webp",
+    "origemCapa": "foto-14",
+    "altCapa": "Participantes em pé com iluminação verde no salão da convenção"
   },
   "o-que-e-chroma-key": {
     "video": "cLJQHmT3qls",
@@ -495,7 +576,10 @@
     "altCapa": "Telão de boas-vindas ao lado do palco da convenção"
   },
   "cenario-virtual-para-live": {
-    "video": "r4eWMERZpE0"
+    "video": "r4eWMERZpE0",
+    "capa": "/blog/capas/cenario-virtual-para-live.webp",
+    "origemCapa": "foto-09",
+    "altCapa": "Salão da convenção de vendas visto do fundo, com plateia e telão"
   },
   "gravacao-de-videoaula": {
     "video": "uQlR_yrRtg4",
@@ -504,7 +588,10 @@
     "altCapa": "Foto oficial da equipe reunida no palco da convenção de vendas"
   },
   "microfone-para-podcast": {
-    "video": "cLJQHmT3qls"
+    "video": "cLJQHmT3qls",
+    "capa": "/blog/capas/microfone-para-podcast.webp",
+    "origemCapa": "foto-15",
+    "altCapa": "Palestrante convidado no palco da convenção de vendas"
   },
   "como-contratar-produtora-audiovisual": {
     "video": "gQNtsJPVixI",
@@ -513,7 +600,10 @@
     "altCapa": "Foto oficial da equipe reunida no palco da convenção de vendas"
   },
   "quanto-custa-um-video-para-empresa": {
-    "video": "-04hqqouNAc"
+    "video": "-04hqqouNAc",
+    "capa": "/blog/capas/quanto-custa-um-video-para-empresa.webp",
+    "origemCapa": "foto-12",
+    "altCapa": "Telão de boas-vindas na abertura da convenção de vendas"
   },
   "produtora-de-video-sao-paulo": {
     "video": "_CEawfcPbvA",
@@ -528,7 +618,10 @@
     "altCapa": "Plateia da convenção com a bandeira do Brasil no telão"
   },
   "produtora-ou-freelancer-de-video": {
-    "video": "hdpxg15PzyY"
+    "video": "hdpxg15PzyY",
+    "capa": "/blog/capas/produtora-ou-freelancer-de-video.webp",
+    "origemCapa": "foto-05",
+    "altCapa": "Apresentadores no palco diante do telão de LED da convenção de vendas"
   },
   "etapas-da-producao-audiovisual": {
     "video": "uQlR_yrRtg4",
@@ -537,13 +630,22 @@
     "altCapa": "Túnel inflável de entrada na área de exposição do evento"
   },
   "contrato-de-producao-audiovisual": {
-    "video": "-04hqqouNAc"
+    "video": "-04hqqouNAc",
+    "capa": "/blog/capas/contrato-de-producao-audiovisual.webp",
+    "origemCapa": "foto-06",
+    "altCapa": "Palestrante com microfone entre os participantes da convenção de vendas"
   },
   "direito-de-imagem-em-video": {
-    "video": "r4eWMERZpE0"
+    "video": "r4eWMERZpE0",
+    "capa": "/blog/capas/direito-de-imagem-em-video.webp",
+    "origemCapa": "foto-05",
+    "altCapa": "Apresentadores no palco diante do telão de LED da convenção de vendas"
   },
   "prazo-de-producao-de-video": {
-    "video": "cLJQHmT3qls"
+    "video": "cLJQHmT3qls",
+    "capa": "/blog/capas/prazo-de-producao-de-video.webp",
+    "origemCapa": "foto-01",
+    "altCapa": "Participantes atentos durante a convenção de vendas corporativa"
   },
   "como-produzir-video-de-case": {
     "video": "uQlR_yrRtg4",
