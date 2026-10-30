@@ -23,6 +23,7 @@ import { servicoPorUrl } from "@/lib/catalogo";
 import { artigosPublicados, blogPlano, videos } from "@/lib/content";
 import { renderizarMdx } from "@/lib/mdx";
 import { paginaServico, slugsServicosPublicados } from "@/lib/servico-conteudo";
+import { compartilhamento } from "@/lib/seo";
 import { SITE, comoFazer, faq as faqSchema, grafo, servico as servicoSchema, video as videoSchema } from "@/lib/schema";
 
 export const dynamicParams = false;
@@ -40,8 +41,7 @@ export async function generateMetadata({ params }: PageProps<"/[slug]">): Promis
     title: p.servico.title,
     description: p.servico.description,
     alternates: { canonical: url },
-    openGraph: { type: "website", url, title: p.servico.title, description: p.servico.description, locale: "pt_BR" },
-    twitter: { title: p.servico.title, description: p.servico.description },
+    ...compartilhamento({ titulo: p.servico.title, descricao: p.servico.description, caminho: p.servico.url }),
   };
 }
 

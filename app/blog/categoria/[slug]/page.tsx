@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: PageProps<"/blog/categoria/[s
   const p = pilaresPublicados().find((a) => a.plano.slug === slug);
   if (!p) return {};
   return metadataInstitucional({
-    titulo: `${p.plano.servicoNome}: artigos e guias | IDA Produtora`,
+    titulo: ((t) => (t.length <= 60 ? t : `${p.plano.servicoNome}: artigos e guias`))(`${p.plano.servicoNome}: artigos e guias | IDA Produtora`),
     descricao: descricaoDe(p.plano.servicoNome),
     url: `/blog/categoria/${slug}`,
   });

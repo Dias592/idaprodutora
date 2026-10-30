@@ -13,6 +13,7 @@ import { dadosVideoSchema } from "@/components/secoes";
 import Image from "next/image";
 import { SITE, artigo as artigoSchema, comoFazer, grafo, video as videoSchema } from "@/lib/schema";
 import { passosDoMdx } from "@/components/blog";
+import { compartilhamento } from "@/lib/seo";
 
 export const dynamicParams = false;
 
@@ -34,18 +35,16 @@ export async function generateMetadata({ params }: PageProps<"/blog/[slug]">): P
     description: descricao,
     alternates: { canonical: url },
     authors: [{ name: "Ivan Dias", url: `${SITE}/sobre` }],
-    openGraph: {
-      type: "article",
-      url,
-      title: titulo,
-      description: descricao,
-      locale: "pt_BR",
-      publishedTime: publicado || undefined,
-      modifiedTime: atualizado || undefined,
-      authors: [`${SITE}/sobre`],
-    },
-    twitter: { title: titulo, description: descricao, ...(capaDoArtigo(slug) ? { images: [capaDoArtigo(slug)!] } : {}) },
-    ...(capaDoArtigo(slug) ? { openGraph: { type: "article", url, title: titulo, description: descricao, locale: "pt_BR", images: [{ url: capaDoArtigo(slug)!, width: 1600, height: 900 }] } } : {}),
+    ...compartilhamento({
+      titulo,
+      descricao,
+      caminho: a.plano.url,
+      tipo: "article",
+      imagem: capaDoArtigo(slug) ? { url: capaDoArtigo(slug)!, width: 1600, height: 900 } : null,
+      publicado,
+      atualizado,
+      tags: [a.plano.palavraChave, ...(a.plano.palavrasSecundarias ?? [])],
+    }),
   };
 }
 

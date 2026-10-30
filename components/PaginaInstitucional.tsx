@@ -5,6 +5,7 @@ import type { ReactNode } from "react";
 import { BarraLaranja, Container, Eyebrow, JsonLd } from "@/components/ui";
 import { Breadcrumb } from "@/components/secoes";
 import { SITE, grafo, pagina } from "@/lib/schema";
+import { compartilhamento } from "@/lib/seo";
 
 type Tipo = "AboutPage" | "CollectionPage" | "ContactPage" | "WebPage";
 
@@ -12,7 +13,7 @@ export const metadataInstitucional = (p: { titulo: string; descricao: string; ur
   title: p.titulo,
   description: p.descricao,
   alternates: { canonical: `${SITE}${p.url}` },
-  openGraph: { type: "website", url: `${SITE}${p.url}`, title: p.titulo, description: p.descricao, locale: "pt_BR" },
+  ...compartilhamento({ titulo: p.titulo, descricao: p.descricao, caminho: p.url }),
   ...(p.indexar === false ? { robots: { index: false, follow: true } } : {}),
 });
 
