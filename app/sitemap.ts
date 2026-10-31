@@ -12,6 +12,8 @@ import {
   paginasServico,
   pilaresPublicados,
 } from "@/lib/content";
+import { fotosHome, fotosPortfolio } from "@/lib/dados";
+import { capaDoArtigo } from "@/lib/midia-blog";
 
 // Uma URL só entra no sitemap quando a página existe de fato:
 // serviços e locais → quando há content/<colecao>/<slug>.mdx publicado;
@@ -21,9 +23,13 @@ const rotaExiste = (rota: string) =>
   fs.existsSync(path.join(process.cwd(), "app", "(site)", rota.slice(1), "page.tsx"));
 
 const url = (caminho: string) => (caminho === "/" ? SITE : `${SITE}${caminho}`);
+// Sitemap de imagens (Google Imagens): fotos ampliadas da galeria e capas dos artigos.
+const fotoAmpliada = (id: string) => `${SITE}/portfolio/fotos/ampliadas/${id}.webp`;
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const entradas: MetadataRoute.Sitemap = [{ url: url("/"), changeFrequency: "weekly", priority: 1 }];
+  const entradas: MetadataRoute.Sitemap = [
+    { url: url("/"), changeFrequency: "weekly", priority: 1, images: fotosHome.map((f) => fotoAmpliada(f.id)) },
+  ];
 
   const porSlug = (colecao: "servicos" | "locais") =>
     new Map(documentosPublicados(colecao).map((d) => [d.slug, d.frontmatter]));
@@ -43,7 +49,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   for (const rota of PAGINAS_INSTITUCIONAIS) {
-    if (rotaExiste(rota)) entradas.push({ url: url(rota), changeFrequency: "yearly", priority: 0.5 });
+    if (!rotaExiste(rota)) continue;
+    const imagens = rota === "/portfolio" ? { images: fotosPortfolio.map((f) => fotoAmpliada(f.id)) } : {};
+    entradas.push({ url: url(rota), changeFrequency: "yearly", priority: 0.5, ...imagens });
   }
 
   const artigos = artigosPublicados();
@@ -58,6 +66,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: dataValida(a.frontmatter.updatedAt) ?? dataValida(a.frontmatter.publishedAt),
         changeFrequency: "monthly",
         priority: a.frontmatter.tipo === "pilar" ? 0.8 : 0.6,
+        ...(capaDoArtigo(a.slug) ? { images: [`${SITE}${capaDoArtigo(a.slug)}`] } : {}),
       });
     }
   }
