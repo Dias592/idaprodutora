@@ -103,7 +103,7 @@ export default function Home() {
       <Secao id="portfolio" eyebrow="PORTFÓLIO" titulo="Histórias reais, em todos os ângulos" fundo="surface">
         <GradePortfolio videos={videos.filter((v) => v.home)} />
         <div className="mt-14">
-          <GaleriaFotos titulo="Fotografia de eventos corporativos" fotos={fotosHome} />
+          <GaleriaFotos titulo="Fotografia de eventos corporativos" fotos={fotosHome} inicial={16} passo={16} />
         </div>
         <div className="mt-10 flex justify-center">
           <Botao href="/portfolio" variante="secundario">

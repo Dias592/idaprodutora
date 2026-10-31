@@ -5,7 +5,8 @@
   "alt": "Participantes atentos durante a convenção de vendas corporativa",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-02",
@@ -13,7 +14,8 @@
   "alt": "Participantes de camisa branca acompanhando a palestra na convenção de vendas",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-03",
@@ -21,7 +23,8 @@
   "alt": "Plateia aplaudindo durante a convenção de vendas corporativa",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-04",
@@ -29,7 +32,8 @@
   "alt": "Participantes em pé aplaudindo na convenção de vendas",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-05",
@@ -37,7 +41,8 @@
   "alt": "Apresentadores no palco diante do telão de LED da convenção de vendas",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-06",
@@ -45,7 +50,8 @@
   "alt": "Palestrante com microfone entre os participantes da convenção de vendas",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-07",
@@ -53,7 +59,8 @@
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-08",
@@ -61,7 +68,8 @@
   "alt": "Equipe completa reunida no palco para a foto oficial da convenção",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-09",
@@ -69,7 +77,8 @@
   "alt": "Salão da convenção de vendas visto do fundo, com plateia e telão",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-10",
@@ -77,7 +86,8 @@
   "alt": "Palestrante caminhando no palco com iluminação cênica",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-11",
@@ -85,7 +95,8 @@
   "alt": "Plateia levantando as mãos durante dinâmica da convenção de vendas",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-12",
@@ -93,7 +104,8 @@
   "alt": "Telão de boas-vindas na abertura da convenção de vendas",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-13",
@@ -101,7 +113,8 @@
   "alt": "Palestrante apresentando gráfico no telão da convenção",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-14",
@@ -109,7 +122,8 @@
   "alt": "Participantes em pé com iluminação verde no salão da convenção",
   "home": true,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-15",
@@ -117,7 +131,8 @@
   "alt": "Palestrante convidado no palco da convenção de vendas",
   "home": true,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-16",
@@ -125,7 +140,8 @@
   "alt": "Palestrante convidado no palco da convenção de vendas",
   "home": true,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-17",
@@ -133,7 +149,8 @@
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-18",
@@ -141,7 +158,8 @@
   "alt": "Equipe comemorando no palco durante a convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-19",
@@ -149,7 +167,8 @@
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-20",
@@ -157,7 +176,8 @@
   "alt": "Palestrante com microfone diante do telão da convenção",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-21",
@@ -165,7 +185,8 @@
   "alt": "Palestrante no palco da convenção de vendas",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-22",
@@ -173,7 +194,8 @@
   "alt": "Salão da convenção de vendas com iluminação azul",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-23",
@@ -181,7 +203,8 @@
   "alt": "Participantes fazendo anotações durante a palestra",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-24",
@@ -189,7 +212,8 @@
   "alt": "Participante concentrado anotando durante a convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-25",
@@ -197,7 +221,8 @@
   "alt": "Detalhe de anotações em caderno durante a convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-26",
@@ -205,7 +230,8 @@
   "alt": "Apresentadora no púlpito conduzindo a convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-27",
@@ -213,7 +239,8 @@
   "alt": "Participantes em movimento na área de exposição, em foto de longa exposição",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-28",
@@ -221,7 +248,8 @@
   "alt": "Participantes caminhando para o salão da convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-29",
@@ -229,7 +257,8 @@
   "alt": "Participante falando ao microfone na plateia da convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-30",
@@ -237,7 +266,8 @@
   "alt": "Apresentadores no palco com telão de LED da convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-31",
@@ -245,7 +275,8 @@
   "alt": "Três apresentadores no palco diante do telão",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-32",
@@ -253,7 +284,8 @@
   "alt": "Estande de patrocinador na área de exposição do evento",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-33",
@@ -261,7 +293,8 @@
   "alt": "Área de exposição da convenção com bandeiras de patrocinadores",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-34",
@@ -269,7 +302,8 @@
   "alt": "Expositor de produtos na área de exposição do evento",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-35",
@@ -277,7 +311,8 @@
   "alt": "Bandeiras de patrocinadores na área de exposição da convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-36",
@@ -285,7 +320,8 @@
   "alt": "Túnel inflável de entrada na área de exposição do evento",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-37",
@@ -293,7 +329,8 @@
   "alt": "Expositor de produtos no hall da convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-38",
@@ -301,7 +338,8 @@
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-39",
@@ -309,7 +347,8 @@
   "alt": "Telão de boas-vindas ao lado do palco da convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-40",
@@ -317,7 +356,8 @@
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-41",
@@ -325,7 +365,8 @@
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-42",
@@ -333,7 +374,8 @@
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-43",
@@ -341,7 +383,8 @@
   "alt": "Foto oficial da equipe reunida no palco da convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-44",
@@ -349,7 +392,8 @@
   "alt": "Equipe reunida no palco diante do telão da convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-45",
@@ -357,7 +401,8 @@
   "alt": "Salão da convenção de vendas montado antes da abertura",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-46",
@@ -365,7 +410,8 @@
   "alt": "Participantes posando para foto durante a convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-47",
@@ -373,7 +419,8 @@
   "alt": "Participantes no coffee break da convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-48",
@@ -381,7 +428,8 @@
   "alt": "Equipe posando na área de exposição da convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-49",
@@ -389,7 +437,8 @@
   "alt": "Palco e plateia da convenção de vendas com iluminação cênica azul",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-50",
@@ -397,7 +446,8 @@
   "alt": "Palestrante no palco apontando para o telão, visto do alto",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-51",
@@ -405,7 +455,8 @@
   "alt": "Palco e plateia da convenção de vendas com iluminação cênica azul",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-52",
@@ -413,7 +464,8 @@
   "alt": "Silhueta de participante diante do telão da convenção",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-53",
@@ -421,7 +473,8 @@
   "alt": "Palco e plateia da convenção de vendas com iluminação cênica azul",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-54",
@@ -429,7 +482,8 @@
   "alt": "Plateia da convenção de vendas vista do alto",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-55",
@@ -437,7 +491,8 @@
   "alt": "Palco e plateia da convenção de vendas com iluminação cênica azul",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-56",
@@ -445,7 +500,8 @@
   "alt": "Palestrante com microfone no palco da convenção de vendas",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-57",
@@ -453,7 +509,8 @@
   "alt": "Palestrante com microfone no palco da convenção de vendas",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-58",
@@ -461,7 +518,8 @@
   "alt": "Palestrante no palco com a plateia ao fundo",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-59",
@@ -469,7 +527,8 @@
   "alt": "Palestrante com microfone no palco da convenção de vendas",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-60",
@@ -477,7 +536,8 @@
   "alt": "Palestrante no púlpito diante do telão da convenção",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-61",
@@ -485,7 +545,8 @@
   "alt": "Plateia da convenção com iluminação verde no salão",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-62",
@@ -493,7 +554,8 @@
   "alt": "Palestrante apresentando conteúdo digital no telão",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-63",
@@ -501,7 +563,8 @@
   "alt": "Palestrante circulando pelo palco durante a apresentação",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-64",
@@ -509,7 +572,8 @@
   "alt": "Momento de premiação no palco da convenção de vendas",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-65",
@@ -517,7 +581,8 @@
   "alt": "Palestrante convidado no palco da convenção de vendas",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-66",
@@ -525,7 +590,8 @@
   "alt": "Palestrante convidado no palco da convenção de vendas",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-67",
@@ -533,7 +599,8 @@
   "alt": "Palestrante convidado diante do telão com sua trajetória",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-68",
@@ -541,7 +608,8 @@
   "alt": "Palestrante convidado no palco da convenção de vendas",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-69",
@@ -549,7 +617,8 @@
   "alt": "Palestrante convidado no palco da convenção de vendas",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-70",
@@ -557,7 +626,8 @@
   "alt": "Palestrante convidado no palco da convenção de vendas",
   "home": false,
   "largura": 1200,
-  "altura": 1800
+  "altura": 1800,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-71",
@@ -565,7 +635,8 @@
   "alt": "Plateia da convenção com a bandeira do Brasil no telão",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-72",
@@ -573,7 +644,8 @@
   "alt": "Palestrante convidado no palco com telão de apresentação",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-73",
@@ -581,7 +653,8 @@
   "alt": "Palestrante convidado apresentando no palco da convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-74",
@@ -589,7 +662,8 @@
   "alt": "Salão da convenção de vendas lotado visto do fundo",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-75",
@@ -597,7 +671,8 @@
   "alt": "Palestrante convidado gesticulando no palco da convenção",
   "home": false,
   "largura": 1800,
-  "altura": 1200
+  "altura": 1200,
+  "evento": "Convenção de vendas"
  },
  {
   "id": "foto-76",
@@ -605,6 +680,493 @@
   "alt": "Palestrante com microfone no palco da convenção de vendas",
   "home": false,
   "largura": 1200,
+  "altura": 1800,
+  "evento": "Convenção de vendas"
+ },
+ {
+  "id": "foto-77",
+  "arquivo": "HOME/Chandon_Kart_Cal_666.jpg",
+  "alt": "Karts na pista durante a corrida do evento da Chandon",
+  "home": true,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-78",
+  "arquivo": "HOME/Chandon_Kart_Cal_907.jpg",
+  "alt": "Pódio dos pilotos no evento de kart da Chandon",
+  "home": true,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-79",
+  "arquivo": "HOME/Chandon_Kart_Mar_1481.jpg",
+  "alt": "Convidados posando no painel da Chandon no evento de kart",
+  "home": true,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-80",
+  "arquivo": "HOME/Chandon_Kart_Mar_1489.jpg",
+  "alt": "Piloto no kart pronto para a largada no evento da Chandon",
+  "home": true,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-81",
+  "arquivo": "HOME/Chandon_Kart_Mau_24.jpg",
+  "alt": "Grid de largada dos karts sob o pórtico quadriculado da Chandon",
+  "home": true,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-82",
+  "arquivo": "HOME/Chandon_Kart_Mau_469.jpg",
+  "alt": "Largada da corrida de kart com bandeira quadriculada",
+  "home": true,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-83",
+  "arquivo": "HOME/Chandon_Kart_Mau_479.jpg",
+  "alt": "Karts alinhados no grid de largada do evento da Chandon",
+  "home": true,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-84",
+  "arquivo": "HOME/Labora45.jpg",
+  "alt": "Plateia acompanhando painel no auditório do MAM São Paulo",
+  "home": true,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-85",
+  "arquivo": "HOME/Labora51.jpg",
+  "alt": "Debate com convidados no auditório do MAM São Paulo",
+  "home": true,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-86",
+  "arquivo": "HOME/Labora57.jpg",
+  "alt": "Plateia e palco com iluminação cênica no auditório do MAM",
+  "home": true,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-87",
+  "arquivo": "HOME/Labora104.jpg",
+  "alt": "Salão do Museu de Arte Moderna de São Paulo preparado para a recepção",
+  "home": true,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-88",
+  "arquivo": "HOME/Labora106.jpg",
+  "alt": "Mesa de recepção montada no salão do MAM São Paulo",
+  "home": true,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-89",
+  "arquivo": "HOME/Labora132.jpg",
+  "alt": "Apresentação cultural no palco do evento no MAM São Paulo",
+  "home": true,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-90",
+  "arquivo": "Chandon_Kart_Cal_282.jpg",
+  "alt": "Pilotos posando com champanhe no painel do evento de kart da Chandon",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-91",
+  "arquivo": "Chandon_Kart_Cal_491.jpg",
+  "alt": "Pista do kartódromo com placa da Chandon",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-92",
+  "arquivo": "Chandon_Kart_Cal_649.jpg",
+  "alt": "Karts disputando curva no kartódromo",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-93",
+  "arquivo": "Chandon_Kart_Cal_688.jpg",
+  "alt": "Arquibancada e karts na pista do evento da Chandon",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-94",
+  "arquivo": "Chandon_Kart_Cal_720.jpg",
+  "alt": "Pórtico de chegada quadriculado no kartódromo",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-95",
+  "arquivo": "Chandon_Kart_Cal_746.jpg",
+  "alt": "Convidados acompanhando a corrida da área VIP do kartódromo",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-96",
+  "arquivo": "Chandon_Kart_Cal_812.jpg",
+  "alt": "Pódio com pilotos comemorando no evento de kart",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-97",
+  "arquivo": "Chandon_Kart_Cal_922.jpg",
+  "alt": "Pilotos no pódio diante do painel da Chandon",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-98",
+  "arquivo": "Chandon_Kart_Cal_949.jpg",
+  "alt": "Convidados brindando na área VIP do kartódromo",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-99",
+  "arquivo": "Chandon_Kart_Cal_967.jpg",
+  "alt": "Convidados posando com pilotos no painel do evento de kart da Chandon",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-100",
+  "arquivo": "Chandon_Kart_Cal_981.jpg",
+  "alt": "Convidados posando com pilotos no painel do evento de kart da Chandon",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-101",
+  "arquivo": "Chandon_Kart_Cal_1014.jpg",
+  "alt": "Convidados e pilotos reunidos no painel do evento de kart",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-102",
+  "arquivo": "Chandon_Kart_Cal_1122.jpg",
+  "alt": "Convidados em volta de uma pista de autorama na área de convivência",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-103",
+  "arquivo": "Chandon_Kart_Mar_1467.jpg",
+  "alt": "Convidados posando no painel do evento de kart",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1200,
   "altura": 1800
+ },
+ {
+  "id": "foto-104",
+  "arquivo": "Chandon_Kart_Mar_1471.jpg",
+  "alt": "Piloto ajustando a balaclava antes da corrida de kart",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-105",
+  "arquivo": "Chandon_Kart_Mar_1474.jpg",
+  "alt": "Grupo de pilotas posando no painel do evento de kart",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-106",
+  "arquivo": "Chandon_Kart_Mar_1476.jpg",
+  "alt": "Pilotos reunidos para a foto oficial do evento de kart",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-107",
+  "arquivo": "Chandon_Kart_Mar_1483.jpg",
+  "alt": "Dois pilotos posando no painel da Chandon",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-108",
+  "arquivo": "Chandon_Kart_Mar_1486.jpg",
+  "alt": "Duas pilotas posando com macacão de corrida no evento",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-109",
+  "arquivo": "Chandon_Kart_Mar_1487.jpg",
+  "alt": "Pilotos e organizadores na foto oficial do evento de kart",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-110",
+  "arquivo": "Chandon_Kart_Mau_167.jpg",
+  "alt": "Karts largando sob o pórtico do evento da Chandon",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-111",
+  "arquivo": "Chandon_Kart_Mau_397.jpg",
+  "alt": "Piloto no kart aguardando a largada",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-112",
+  "arquivo": "Chandon_Kart_Rod_140.jpg",
+  "alt": "Pilotos se cumprimentando no painel do evento de kart",
+  "home": false,
+  "evento": "Evento de kart da Chandon",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-113",
+  "arquivo": "Labora9.jpg",
+  "alt": "Logotipo do MAM na parede do Museu de Arte Moderna de São Paulo",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-114",
+  "arquivo": "Labora10.jpg",
+  "alt": "Auditório do MAM preparado para o painel",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-115",
+  "arquivo": "Labora12.jpg",
+  "alt": "Auditório do MAM com poltronas vermelhas e iluminação cênica",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-116",
+  "arquivo": "Labora19.jpg",
+  "alt": "Fones de tradução simultânea organizados para os convidados",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-117",
+  "arquivo": "Labora20.jpg",
+  "alt": "Entrada do MAM São Paulo recebendo os convidados",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-118",
+  "arquivo": "Labora33.jpg",
+  "alt": "Painel artístico iluminado no MAM durante o evento",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-119",
+  "arquivo": "Labora40.jpg",
+  "alt": "Área externa do MAM com iluminação cênica à noite",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-120",
+  "arquivo": "Labora43.jpg",
+  "alt": "Jardim do MAM iluminado durante o evento",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-121",
+  "arquivo": "Labora46.jpg",
+  "alt": "Palestrante conduzindo debate no auditório do MAM",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-122",
+  "arquivo": "Labora61.jpg",
+  "alt": "Telão de apresentação no evento do MAM São Paulo",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-123",
+  "arquivo": "Labora89.jpg",
+  "alt": "Salão do MAM com bar e iluminação colorida",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-124",
+  "arquivo": "Labora94.jpg",
+  "alt": "Buffet servido na recepção do evento no MAM",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-125",
+  "arquivo": "Labora97.jpg",
+  "alt": "Salão do MAM São Paulo preparado para a recepção",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-126",
+  "arquivo": "Labora128.jpg",
+  "alt": "Apresentação cultural na área externa do MAM",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-127",
+  "arquivo": "Labora137.jpg",
+  "alt": "Percussionistas em apresentação no evento do MAM",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-128",
+  "arquivo": "Labora181.jpg",
+  "alt": "Convidados no salão do MAM durante a recepção",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-129",
+  "arquivo": "Labora188.jpg",
+  "alt": "DJ comandando a música no evento do MAM",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
+ },
+ {
+  "id": "foto-130",
+  "arquivo": "Labora193.jpg",
+  "alt": "Convidadas brindando no evento do MAM São Paulo",
+  "home": false,
+  "evento": "Evento no MAM São Paulo",
+  "largura": 1800,
+  "altura": 1200
  }
 ]

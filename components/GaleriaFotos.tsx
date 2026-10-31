@@ -5,15 +5,18 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
 
-export type FotoGaleria = { id: string; alt: string; largura: number; altura: number };
+import { cx } from "@/components/ui";
+
+export type FotoGaleria = { id: string; alt: string; largura: number; altura: number; evento?: string };
 
 export function GaleriaFotos({
-  fotos,
+  fotos: todas,
   titulo,
   inicial,
   passo = 24,
   nivelTitulo = "h3",
   idTitulo,
+  filtrarPorEvento = false,
 }: {
   fotos: FotoGaleria[];
   titulo: string;
@@ -22,8 +25,13 @@ export function GaleriaFotos({
   passo?: number;
   nivelTitulo?: "h2" | "h3";
   idTitulo?: string;
+  /** botões para filtrar por evento (campo "evento" de data/fotos.json) */
+  filtrarPorEvento?: boolean;
 }) {
-  const [visiveis, setVisiveis] = useState(inicial ?? fotos.length);
+  const eventos = filtrarPorEvento ? [...new Set(todas.map((f) => f.evento).filter((e): e is string => !!e))] : [];
+  const [evento, setEvento] = useState<string | null>(null);
+  const fotos = evento ? todas.filter((f) => f.evento === evento) : todas;
+  const [visiveis, setVisiveis] = useState(inicial ?? todas.length);
   const [aberta, setAberta] = useState<number | null>(null);
   const dialogo = useRef<HTMLDialogElement>(null);
   const toque = useRef<number | null>(null);
@@ -56,6 +64,32 @@ export function GaleriaFotos({
       <Titulo id={idTitulo} className="m-0 mb-6 text-[19px] font-semibold">
         {titulo}
       </Titulo>
+      {eventos.length > 1 && (
+        <>
+          <div role="group" aria-label="Filtrar fotos por evento" className="mb-8 flex flex-wrap gap-2">
+            {[null, ...eventos].map((e) => (
+              <button
+                key={e ?? "todas"}
+                type="button"
+                aria-pressed={evento === e}
+                onClick={() => {
+                  setEvento(e);
+                  setVisiveis(inicial ?? todas.length);
+                }}
+                className={cx(
+                  "min-h-11 cursor-pointer rounded-ida border bg-transparent px-4 text-sm font-semibold transition",
+                  evento === e ? "border-accent bg-surface text-text" : "border-surface text-muted hover:border-accent hover:text-text",
+                )}
+              >
+                {e ?? "Todas"}
+              </button>
+            ))}
+          </div>
+          <p className="sr-only" aria-live="polite">
+            {fotos.length} foto(s) exibida(s)
+          </p>
+        </>
+      )}
       <ul className="m-0 grid list-none grid-cols-2 gap-2 p-0 md:grid-cols-4 md:gap-3">
         {fotos.slice(0, visiveis).map((f, i) => (
           <li key={f.id} className="m-0 overflow-hidden rounded-ida bg-bg">

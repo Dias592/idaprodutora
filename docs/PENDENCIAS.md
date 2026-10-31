@@ -32,4 +32,10 @@ Lista do que nÃ£o pode ser inventado e precisa de informaÃ§Ã£o ou decisÃ�
 
 - 76 fotos de uma convenÃ§Ã£o de vendas (`materiais/Portifolio imagens`, catÃ¡logo em `data/fotos.json`): 16 na galeria da home e 76 como capas de artigos.
 - As fotos mostram marcas no telÃ£o e pessoas identificÃ¡veis, incluindo um palestrante convidado. Confirmar a autorizaÃ§Ã£o do cliente para uso no portfÃ³lio. O site nÃ£o cita o nome do cliente em textos, alt ou legendas; para citar, Ã© preciso confirmar a autorizaÃ§Ã£o e adicionÃ¡-lo em `data/clientes.json`.
-- 34 complementares estÃ£o sem capa (76 fotos para 110 artigos). Para completar, acrescentar fotos novas Ã  pasta e rodar `node scripts/distribuir-midia.mjs fotos "materiais/Portifolio imagens"`: o script usa sÃ³ fotos ainda nÃ£o usadas e nÃ£o repete.
+- 34 complementares estÃ£o sem capa (76 fotos para 110 artigos). Para completar, acrescentar fotos novas Ã  pasta e rodar `node scripts/distribuir-midia.mjs fotos "materiais/Portifolio imagens"`: o script usa sÃ³ fotos ainda nÃ£o usadas e nÃ£o repete.## Fotos de portfólio (atualizado em 2026-10-30)
+
+- 130 fotos em `materiais/Portifolio imagens` (catálogo em `data/fotos.json`, com alt e evento): 76 da convenção de vendas, 30 do evento de kart da Chandon e 24 do evento no MAM São Paulo. 29 marcadas para a home (pasta HOME).
+- Home: galeria com as 29 fotos da HOME (16 visíveis + "Ver mais"). /portfolio: as 130, com filtro por evento e visualizador.
+- Capas: os 110 artigos com foto única, sem repetição. Sobram 20 fotos usadas só no portfólio.
+- Fotos novas: colocar na pasta, acrescentar ao `data/fotos.json` (alt e evento), rodar `node scripts/fotos-portfolio.mjs`.
+- **Autorização:** as fotos mostram marcas (BR AutoParts, Disauto, Chandon, MAM) e pessoas identificáveis, incluindo pilotos e palestrante conhecidos. Confirmar a autorização de uso no portfólio. O nome da empresa da convenção não é citado no site.

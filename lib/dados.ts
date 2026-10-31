@@ -71,9 +71,18 @@ export const videos = videosJson;
 
 export type Foto = (typeof fotosJson)[number];
 /** Fotos de portfólio da home (versões otimizadas em public/portfolio/fotos, geradas por scripts/fotos-home.mjs). */
-export const fotosHome = fotosJson.filter((f) => f.home);
+/** Intercala os eventos (um de cada por vez) para a grade não repetir o mesmo evento em sequência. */
+function intercalarEventos<T extends { evento: string }>(lista: T[]): T[] {
+  const porEvento = new Map<string, T[]>();
+  for (const f of lista) porEvento.set(f.evento, [...(porEvento.get(f.evento) ?? []), f]);
+  const grupos = [...porEvento.values()];
+  const total = Math.max(...grupos.map((g) => g.length));
+  return Array.from({ length: total }, (_, i) => grupos.map((g) => g[i]).filter((f): f is T => !!f)).flat();
+}
+
+export const fotosHome = intercalarEventos(fotosJson.filter((f) => f.home));
 /** Todas as fotos de portfólio, as da home primeiro (/portfolio). */
-export const fotosPortfolio = [...fotosHome, ...fotosJson.filter((f) => !f.home)];
+export const fotosPortfolio = [...fotosHome, ...intercalarEventos(fotosJson.filter((f) => !f.home))];
 export const clientes = [...clientesJson].sort((a, b) => a.ordem - b.ordem);
 
 export const PAGINAS_INSTITUCIONAIS = [

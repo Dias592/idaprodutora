@@ -46,7 +46,7 @@ export default function Portfolio() {
       </Container>
       <section id="fotos" aria-labelledby="fotos-titulo" className="scroll-mt-24 border-t border-surface">
         <Container className="py-16">
-          <GaleriaFotos titulo="Fotografia de eventos corporativos" nivelTitulo="h2" idTitulo="fotos-titulo" fotos={fotosPortfolio} inicial={24} />
+          <GaleriaFotos titulo="Fotografia de eventos corporativos" nivelTitulo="h2" idTitulo="fotos-titulo" fotos={fotosPortfolio} inicial={24} filtrarPorEvento />
         </Container>
       </section>
       <section className="bg-surface">
