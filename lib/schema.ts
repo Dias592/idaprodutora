@@ -17,7 +17,7 @@ export const organizacao = (): JsonLd => ({
   name: "IDA Produtora Audiovisual",
   alternateName: "IDA Produtora",
   url: SITE,
-  logo: `${SITE}/brand/ida-logo-principal-preto.svg`,
+  logo: { "@type": "ImageObject", url: `${SITE}/brand/ida-logo-google.png`, width: 600, height: 600 },
   image: `${SITE}/brand/og-image.png`,
   slogan: "Sua história. Nosso olhar.",
   description:
@@ -108,7 +108,8 @@ export const video = (v: {
   name: v.titulo,
   description: v.descricao,
   thumbnailUrl: `https://i.ytimg.com/vi/${v.youtubeId}/${v.thumbnail ?? "maxresdefault"}.jpg`,
-  uploadDate: v.dataUpload,
+  // Google pede data e hora com fuso; datas só com dia viram meio-dia no horário de São Paulo.
+  uploadDate: /^\d{4}-\d{2}-\d{2}$/.test(v.dataUpload) ? `${v.dataUpload}T12:00:00-03:00` : v.dataUpload,
   duration: v.duracao,
   embedUrl: `https://www.youtube-nocookie.com/embed/${v.youtubeId}`,
   contentUrl: `https://www.youtube.com/watch?v=${v.youtubeId}`,
