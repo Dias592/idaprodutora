@@ -46,6 +46,13 @@ export default function Termos() {
             da IDA. Não é permitido copiar, baixar, redistribuir ou usar esse conteúdo sem autorização.
           </p>
 
+          <h2 id="uso-de-imagens">Uso de fotos e vídeos</h2>
+          <p>
+            As fotos e os vídeos do portfólio e do blog foram produzidos pela IDA Produtora Audiovisual em trabalhos para clientes. As pessoas,
+            marcas e locais que aparecem neles pertencem aos respectivos titulares. Não é permitido copiar, baixar, editar ou publicar essas
+            imagens sem autorização. Para pedir autorização de uso, fale com a IDA pela <Link href="/contato">página de contato</Link>.
+          </p>
+
           <h2>Blog</h2>
           <p>
             Os artigos do blog trazem orientações gerais sobre produção audiovisual. Eles não substituem consultoria jurídica, técnica ou

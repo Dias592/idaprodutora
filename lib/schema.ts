@@ -116,6 +116,15 @@ export const video = (v: {
   publisher: { "@id": ORG_ID },
 });
 
+/** Licença das fotos (Google Imagens: "Detalhes da licença"). Regras em /termos#uso-de-imagens. */
+const licencaImagem = {
+  license: `${SITE}/termos#uso-de-imagens`,
+  acquireLicensePage: `${SITE}/contato`,
+  creditText: "IDA Produtora Audiovisual",
+  copyrightNotice: "IDA Produtora Audiovisual",
+  creator: { "@id": ORG_ID },
+};
+
 type Artigo = {
   tipo: "pilar" | "complementar";
   titulo: string; metaDescription: string; url: string; capa?: string; capaAlt?: string;
@@ -130,7 +139,15 @@ export const artigo = (a: Artigo): JsonLd => ({
   description: a.metaDescription,
   url: `${SITE}${a.url}`,
   image: a.capa
-    ? { "@type": "ImageObject", url: `${SITE}${a.capa}`, width: 1600, height: 900, ...(a.capaAlt ? { caption: a.capaAlt } : {}) }
+    ? {
+        "@type": "ImageObject",
+        url: `${SITE}${a.capa}`,
+        contentUrl: `${SITE}${a.capa}`,
+        width: 1600,
+        height: 900,
+        ...(a.capaAlt ? { caption: a.capaAlt } : {}),
+        ...licencaImagem,
+      }
     : `${SITE}/brand/og-image.png`,
   datePublished: a.publishedAt,
   dateModified: a.updatedAt,
@@ -165,9 +182,7 @@ export const galeriaImagens = (p: { nome: string; url: string; fotos: { id: stri
     width: f.largura,
     height: f.altura,
     caption: f.alt,
-    creditText: "IDA Produtora Audiovisual",
-    copyrightNotice: "IDA Produtora Audiovisual",
-    creator: { "@id": ORG_ID },
+    ...licencaImagem,
   })),
 });
 
